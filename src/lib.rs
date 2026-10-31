@@ -12,6 +12,7 @@ struct DataAssets;
 
 #[derive(Deserialize, Debug)]
 struct RpcRequest {
+    #[allow(dead_code)]
     jsonrpc: String,
     id: Option<Value>,
     method: String,
@@ -32,8 +33,6 @@ struct RpcResponse {
 
 #[event(start)]
 fn start() {
-    // This safely prints Rust panics to the Cloudflare Worker logs 
-    // instead of silently crashing the WebAssembly instance.
     console_error_panic_hook::set_once();
 }
 
@@ -47,6 +46,29 @@ async fn fetch(req: Request, env: Env, _ctx: Context) -> Result<Response> {
         .await
 }
 
+// ---------- Asset Helpers ----------
+
+fn strip_frontmatter(text: &str) -> &str {
+    // shortcut: splits on first "\n---" delimiter, upgrade to a YAML parser if frontmatter contains "---" in strings
+    let Some(rest) = text.strip_prefix("---") else {
+        return text;
+    };
+    let Some((_, body)) = rest.split_once("\n---") else {
+        return text;
+    };
+    body.trim_start()
+}
+
+fn load_skill_text() -> String {
+    match DataAssets::get("skill.md") {
+        Some(file) => match std::str::from_utf8(file.data.as_ref()) {
+            Ok(raw) => strip_frontmatter(raw).to_owned(),
+            Err(_) => "Encoding error in skill.md".to_owned(),
+        },
+        None => "# Error\nskill.md not found in data folder.".to_owned(),
+    }
+}
+
 // ---------- MCP Logic ----------
 
 async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response> {
@@ -55,7 +77,6 @@ async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response
         .get("mcp-session-id")?
         .unwrap_or_else(|| Uuid::new_v4().to_string());
 
-    // Parse JSON-RPC
     let rpc_req: RpcRequest = match req.json().await {
         Ok(r) => r,
         Err(e) => {
@@ -66,19 +87,77 @@ async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response
 
     console_log!("Received MCP request: method={}", rpc_req.method);
 
+    // JSON-RPC notifications (e.g., notifications/initialized) have no `id` and expect 202 Accepted
+    if rpc_req.id.is_none() || rpc_req.method.starts_with("notifications/") {
+        let mut resp = Response::empty()?.with_status(202);
+        resp.headers_mut().set("mcp-session-id", &session_id)?;
+        return Ok(resp);
+    }
+
     let result = match rpc_req.method.as_str() {
+        "ping" => json!({}),
+
+        // 1. Server `instructions`: Auto-injected into system context by supporting MCP clients
         "initialize" => json!({
             "protocolVersion": "2024-11-05",
             "capabilities": {
                 "resources": {},
+                "prompts": {},
                 "tools": {}
             },
             "serverInfo": {
                 "name": "cmapaper-mcp",
-                "version": "1.0"
-            }
+                "version": "1.0.0"
+            },
+            "instructions": load_skill_text()
         }),
 
+        // 2. Prompts: 1-click / slash-command starter to load the skill for an entire chat
+        "prompts/list" => json!({
+            "prompts": [{
+                "name": "indian-commerce-tutor",
+                "title": "Activate Indian Commerce Tutor Skill",
+                "description": "Loads the 8-step Indian Commerce & Exam Tutor methodology for the entire chat.",
+                "arguments": [{
+                    "name": "topic",
+                    "description": "Optional concept, section, or exam problem to start with",
+                    "required": false
+                }]
+            }]
+        }),
+
+        "prompts/get" => {
+            let params = rpc_req.params.as_ref();
+            let name = params.and_then(|p| p["name"].as_str()).unwrap_or("");
+
+            if name != "indian-commerce-tutor" {
+                return rpc_error(rpc_req.id, -32602, "Prompt not found");
+            }
+
+            let topic = params
+                .and_then(|p| p["arguments"]["topic"].as_str())
+                .filter(|s| !s.trim().is_empty())
+                .unwrap_or("Confirm that the Indian Commerce Concept Tutor blueprint is active and ask what topic or problem I want to study.");
+
+            let text = format!(
+                "Follow these tutoring guidelines for the entire conversation:\n\n{}\n\n---\nUser request: {}",
+                load_skill_text(),
+                topic
+            );
+
+            json!({
+                "description": "Indian Commerce Concept Tutor Skill",
+                "messages": [{
+                    "role": "user",
+                    "content": {
+                        "type": "text",
+                        "text": text
+                    }
+                }]
+            })
+        }
+
+        // 3. Resources: Manual attachment fallback
         "resources/list" => json!({
             "resources": [{
                 "uri": "study-materials://guidelines/skill.md",
@@ -94,18 +173,13 @@ async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response
                 .as_ref()
                 .and_then(|p| p["uri"].as_str())
                 .unwrap_or("");
-                
-            if uri == "study-materials://guidelines/skill.md" {
-                let text = match DataAssets::get("skill.md") {
-                    Some(file) => std::str::from_utf8(file.data.as_ref()).unwrap_or("Encoding error").to_string(),
-                    None => "# Error\nskill.md not found in data folder.".to_string(),
-                };
 
+            if uri == "study-materials://guidelines/skill.md" {
                 json!({
                     "contents": [{
                         "uri": uri,
                         "mimeType": "text/markdown",
-                        "text": text
+                        "text": load_skill_text()
                     }]
                 })
             } else {
@@ -113,48 +187,76 @@ async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response
             }
         }
 
+        // 4. Tools: Model-driven skill loader + study material lookup
         "tools/list" => json!({
-            "tools": [{
-                "name": "search_study_materials",
-                "description": "Fetch PYQ and MQP study materials for a specific subject and year.",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "subject": { "type": "string", "description": "e.g., physics, math" },
-                        "year": { "type": "integer", "description": "e.g., 2026" },
-                        "doc_type": { "type": "string", "enum": ["pyq", "mqp"], "description": "pyq or mqp" }
-                    },
-                    "required": ["subject", "year", "doc_type"]
+            "tools": [
+                {
+                    "name": "get_tutor_guidelines",
+                    "description": "Returns the mandatory 8-step tutoring blueprint and formatting rules. Call this tool ONCE at the start of a chat before explaining concepts or solving PYQ/MQP problems.",
+                    "inputSchema": {
+                        "type": "object",
+                        "properties": {}
+                    }
+                },
+                {
+                    "name": "search_study_materials",
+                    "description": "Fetch PYQ and MQP study materials for a specific subject and year. IMPORTANT: If you have not called `get_tutor_guidelines` in this chat yet, call it alongside or before this tool to format your explanation properly.",
+                    "inputSchema": {
+                        "type": "object",
+                        "properties": {
+                            "subject": { "type": "string", "description": "e.g., physics, maths" },
+                            "year": { "type": "integer", "description": "e.g., 2025" },
+                            "doc_type": { "type": "string", "enum": ["pyq", "mqp"], "description": "pyq or mqp" }
+                        },
+                        "required": ["subject", "year", "doc_type"]
+                    }
                 }
-            }]
+            ]
         }),
 
         "tools/call" => {
-            let params = rpc_req.params.unwrap_or(json!({}));
-            let name = params["name"].as_str().unwrap_or("");
-            let args = params["arguments"].as_object();
+            let params = rpc_req.params.as_ref();
+            let name = params.and_then(|p| p["name"].as_str()).unwrap_or("");
+            let args = params.and_then(|p| p["arguments"].as_object());
 
-            if name == "search_study_materials" && args.is_some() {
-                let args = args.unwrap();
-                let subject = args.get("subject").and_then(|v| v.as_str()).unwrap_or("");
-                let year = args.get("year").and_then(|v| v.as_i64()).unwrap_or(0);
-                let doc_type = args.get("doc_type").and_then(|v| v.as_str()).unwrap_or("");
-
-                let filename = format!("{}_{}_{}.md", subject, doc_type, year).to_lowercase();
-                
-                let document_text = match DataAssets::get(&filename) {
-                    Some(file) => std::str::from_utf8(file.data.as_ref()).unwrap_or("Encoding error").to_string(),
-                    None => format!("No document found for filename: {}", filename),
-                };
-
-                json!({
+            match (name, args) {
+                ("get_tutor_guidelines", _) => json!({
                     "content": [{
                         "type": "text",
-                        "text": document_text
+                        "text": load_skill_text()
                     }]
-                })
-            } else {
-                return rpc_error(rpc_req.id, -32601, "Tool not found or invalid arguments");
+                }),
+
+                ("search_study_materials", Some(args)) => {
+                    let subject = args.get("subject").and_then(|v| v.as_str()).unwrap_or("");
+                    let year = args.get("year").and_then(|v| v.as_i64()).unwrap_or(0);
+                    let doc_type = args.get("doc_type").and_then(|v| v.as_str()).unwrap_or("");
+
+                    let filename = format!("{}_{}_{}.md", subject, doc_type, year).to_lowercase();
+
+                    let document_text = match DataAssets::get(&filename) {
+                        Some(file) => std::str::from_utf8(file.data.as_ref())
+                            .unwrap_or("Encoding error")
+                            .to_owned(),
+                        None => {
+                            let available: Vec<_> = DataAssets::iter()
+                                .filter(|f| f.as_ref() != "skill.md")
+                                .collect();
+                            format!(
+                                "No document found for '{filename}'. Available files: {available:?}"
+                            )
+                        }
+                    };
+
+                    json!({
+                        "content": [{
+                            "type": "text",
+                            "text": document_text
+                        }]
+                    })
+                }
+
+                _ => return rpc_error(rpc_req.id, -32601, "Tool not found or invalid arguments"),
             }
         }
 
@@ -184,4 +286,16 @@ fn rpc_error(id: Option<Value>, code: i32, message: &str) -> Result<Response> {
             "message": message
         })),
     })
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn strips_yaml_frontmatter_cleanly() {
+        let raw = "---\nname: test\ndescription: demo\n---\n\n# Heading\nBody";
+        assert_eq!(strip_frontmatter(raw), "# Heading\nBody");
+        assert_eq!(strip_frontmatter("# No Frontmatter"), "# No Frontmatter");
+    }
 }
