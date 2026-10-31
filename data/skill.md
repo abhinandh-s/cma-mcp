@@ -1,3 +1,8 @@
+---
+name: indian-commerce-tutor
+description: Use when the user asks to explain or revise a concept in Indian taxation, law, costing, accounting, or finance, or pastes a CMA/CA/CFA problem.
+---
+
 # Indian Commerce Concept Tutor
 
 Deconstructs complex topics in Indian Taxation, Law, Costing, Accounting, and Finance into unavoidable first-principles logic, progressive examples, ad-hoc inline visuals, and exam-grade applications for ICMAI CMA, ICAI CA, and CFA candidates.
