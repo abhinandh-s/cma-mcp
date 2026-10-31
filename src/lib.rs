@@ -159,7 +159,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
             },
             "serverInfo": {
                 "name": "cmapaper-mcp",
-                "version": "2.0.1"
+                "version": "2.1.0"
             },
             "instructions": load_general_instructions()
         }),
@@ -247,7 +247,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                 {
                     "name": "load_chapter_skill",
                     "description": format!(
-                        "Load chapter-specific ICMAI CMA statutory rules, formulas, and examiner trap zones on demand. Call this ONCE when the conversation enters a specific chapter (do NOT re-call if already loaded in this chat). Available chapter skills:\n{chapter_catalog}"
+                        "Load chapter-specific ICMAI CMA statutory rules, formulas, and examiner trap zones on demand. Call this ONCE when entering a specific chapter. Available chapter skills:\n{chapter_catalog}"
                     ),
                     "inputSchema": {
                         "type": "object",
@@ -262,9 +262,27 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                     }
                 },
                 {
+                    "name": "search_study_materials",
+                    "description": format!(
+                        "Fetch PYQ and MQP study materials from references/. Available files: {reference_files:?}"
+                    ),
+                    "inputSchema": {
+                        "type": "object",
+                        "properties": {
+                            "filename": {
+                                "type": "string",
+                                "description": "Exact filename from references/"
+                            },
+                            "subject": { "type": "string", "description": "Subject prefix (e.g., maths, physics)" },
+                            "year": { "type": "integer", "description": "Exam year (e.g., 2025)" },
+                            "doc_type": { "type": "string", "enum": ["pyq", "mqp"], "description": "pyq or mqp" }
+                        }
+                    }
+                },
+                {
                     "name": "get_reference_material",
                     "description": format!(
-                        "Fetch PYQ, MQP, or statutory reference documents from references/. Returns ONLY the reference text without repeating skill instructions. Available files: {reference_files:?}"
+                        "Fetch PYQ, MQP, or statutory reference documents from references/. Available files: {reference_files:?}"
                     ),
                     "inputSchema": {
                         "type": "object",
@@ -316,13 +334,27 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                     })
                 }
 
-                "get_reference_material" => {
-                    let Some(ref_file) = args.and_then(|a| a.get("reference_file")).and_then(|v| v.as_str()) else {
-                        return rpc_err(rpc_req.id, -32602, "Missing `reference_file` argument");
-                    };
+                "search_study_materials" | "get_reference_material" => {
+                    let target_file = args
+                        .and_then(|a| {
+                            a.get("filename")
+                                .or_else(|| a.get("reference_file"))
+                                .and_then(|v| v.as_str())
+                                .map(str::to_owned)
+                        })
+                        .unwrap_or_else(|| {
+                            let subject = args.and_then(|a| a.get("subject")).and_then(|v| v.as_str()).unwrap_or("");
+                            let year = args.and_then(|a| a.get("year")).and_then(|v| v.as_i64()).unwrap_or(0);
+                            let doc_type = args.and_then(|a| a.get("doc_type")).and_then(|v| v.as_str()).unwrap_or("");
+                            format!("{}_{}_{}.md", subject, doc_type, year).to_lowercase()
+                        });
 
-                    let Some(asset) = ReferenceAssets::get(ref_file) else {
-                        return rpc_err(rpc_req.id, -32602, "Reference file not found");
+                    let Some(asset) = ReferenceAssets::get(&target_file) else {
+                        return rpc_err(
+                            rpc_req.id,
+                            -32602,
+                            &format!("Reference file not found: '{}'. Available: {reference_files:?}", target_file),
+                        );
                     };
 
                     let content = std::str::from_utf8(asset.data.as_ref()).unwrap_or("Encoding error");
@@ -378,7 +410,6 @@ async fn fetch(req: Request, env: Env, _ctx: Context) -> Result<Response> {
 }
 
 async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response> {
-    // shortcut: fallback to random UUID only if header is missing, utilizing getrandom js feature
     let session_id = req
         .headers()
         .get("mcp-session-id")?
