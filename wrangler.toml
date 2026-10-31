@@ -1,8 +1,6 @@
-name = "cma-mcp"
+name = "cmapaper-mcp"
 main = "build/worker/shim.mjs"
 compatibility_date = "2026-10-31"
 
-# Bind your KV namespace (replace ID with your actual KV ID generated via wrangler)
-kv_namespaces = [
-  { binding = "MATERIALS", id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" }
-]
+[build]
+command = "cargo install -q worker-build && worker-build --release"
