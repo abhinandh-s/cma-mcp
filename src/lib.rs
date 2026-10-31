@@ -1,9 +1,15 @@
+use rust_embed::RustEmbed;
 use serde::{Deserialize, Serialize};
 use serde_json::{json, Value};
 use tracing_subscriber::{filter::LevelFilter, fmt::time::UtcTime, prelude::*};
 use tracing_web::MakeConsoleWriter;
 use uuid::Uuid;
 use worker::*;
+
+// Instructs rust-embed to bundle all files in the "data/" folder into the binary
+#[derive(RustEmbed)]
+#[folder = "data/"]
+struct DataAssets;
 
 // ---------- JSON-RPC Types ----------
 
@@ -34,7 +40,7 @@ fn start() {
         .with_ansi(false)
         .with_timer(UtcTime::rfc_3339())
         .with_writer(MakeConsoleWriter);
-    
+
     tracing_subscriber::registry()
         .with(LevelFilter::INFO)
         .with(fmt_layer)
@@ -54,9 +60,11 @@ async fn fetch(req: Request, env: Env, _ctx: Context) -> Result<Response> {
 // ---------- MCP Logic ----------
 
 #[tracing::instrument(skip_all)]
-async fn handle_mcp(mut req: Request, ctx: RouteContext<()>) -> Result<Response> {
+async fn handle_mcp(mut req: Request, _ctx: RouteContext<()>) -> Result<Response> {
     // 1. Session Management
-    let session_id = req.headers().get("mcp-session-id")?
+    let session_id = req
+        .headers()
+        .get("mcp-session-id")?
         .unwrap_or_else(|| Uuid::new_v4().to_string());
 
     // 2. Parse JSON-RPC
@@ -79,7 +87,7 @@ async fn handle_mcp(mut req: Request, ctx: RouteContext<()>) -> Result<Response>
                 "tools": {}
             },
             "serverInfo": {
-                "name": "study-materials-mcp",
+                "name": "cmapaper-mcp",
                 "version": "1.0"
             }
         }),
@@ -94,13 +102,24 @@ async fn handle_mcp(mut req: Request, ctx: RouteContext<()>) -> Result<Response>
         }),
 
         "resources/read" => {
-            let uri = rpc_req.params.as_ref().and_then(|p| p["uri"].as_str()).unwrap_or("");
+            let uri = rpc_req
+                .params
+                .as_ref()
+                .and_then(|p| p["uri"].as_str())
+                .unwrap_or("");
+                
             if uri == "study-materials://guidelines/skill.md" {
+                // Fetch skill.md from the embedded binary
+                let text = match DataAssets::get("skill.md") {
+                    Some(file) => std::str::from_utf8(file.data.as_ref()).unwrap_or("Encoding error").to_string(),
+                    None => "# Error\nskill.md not found in data folder.".to_string(),
+                };
+
                 json!({
                     "contents": [{
                         "uri": uri,
                         "mimeType": "text/markdown",
-                        "text": "# Tutoring Skill\n\nAlways explain concepts using first principles. Use bullet points for clarity." // You can load this from KV too!
+                        "text": text
                     }]
                 })
             } else {
@@ -117,7 +136,7 @@ async fn handle_mcp(mut req: Request, ctx: RouteContext<()>) -> Result<Response>
                     "properties": {
                         "subject": { "type": "string", "description": "e.g., physics, math" },
                         "year": { "type": "integer", "description": "e.g., 2026" },
-                        "doc_type": { "type": "string", "enum": ["PYQ", "MQP"], "description": "Previous Year Question or Model Question Paper" }
+                        "doc_type": { "type": "string", "enum": ["pyq", "mqp"], "description": "pyq or mqp" }
                     },
                     "required": ["subject", "year", "doc_type"]
                 }
@@ -135,13 +154,14 @@ async fn handle_mcp(mut req: Request, ctx: RouteContext<()>) -> Result<Response>
                 let year = args.get("year").and_then(|v| v.as_i64()).unwrap_or(0);
                 let doc_type = args.get("doc_type").and_then(|v| v.as_str()).unwrap_or("");
 
-                // Construct KV key: e.g., "physics_PYQ_2026"
-                let key = format!("{}_{}_{}", subject, doc_type, year).to_lowercase();
+                // Construct filename: e.g., "physics_pyq_2026.md"
+                let filename = format!("{}_{}_{}.md", subject, doc_type, year).to_lowercase();
                 
-                // Fetch text from Cloudflare KV
-                let kv = ctx.env.kv("MATERIALS")?;
-                let document_text = kv.get(&key).text().await?
-                    .unwrap_or_else(|| format!("No document found for key: {}", key));
+                // Fetch dynamically from the embedded binary
+                let document_text = match DataAssets::get(&filename) {
+                    Some(file) => std::str::from_utf8(file.data.as_ref()).unwrap_or("Encoding error").to_string(),
+                    None => format!("No document found for filename: {}", filename),
+                };
 
                 json!({
                     "content": [{
@@ -164,7 +184,7 @@ async fn handle_mcp(mut req: Request, ctx: RouteContext<()>) -> Result<Response>
         result: Some(result),
         error: None,
     })?;
-    
+
     response.headers_mut().set("mcp-session-id", &session_id)?;
     Ok(response)
 }
