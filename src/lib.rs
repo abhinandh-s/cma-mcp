@@ -2,6 +2,7 @@ mod catalog;
 mod parser;
 mod rpc;
 mod tools;
+mod skills; 
 
 use crate::catalog::{SERVER_NAME, SERVER_VERSION};
 use crate::rpc::{process_payload, rpc_err_response, BatchOutcome, RpcPayload};
