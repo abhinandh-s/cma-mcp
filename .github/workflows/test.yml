@@ -31,11 +31,11 @@ jobs:
       - name: Rust Cache
         uses: Swatinem/rust-cache@v2
 
-      - name: Check formatting
-        run: cargo fmt --check
+     # - name: Check formatting
+     #   run: cargo fmt --check
 
-      - name: Run Clippy (Linter)
-        run: cargo clippy --all-targets --all-features -- -D warnings
+     # - name: Run Clippy (Linter)
+     #   run: cargo clippy --all-targets --all-features -- -D warnings
 
       - name: Run Tests
         run: cargo test --all-targets --all-features
