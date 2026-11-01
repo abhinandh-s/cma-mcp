@@ -37,3 +37,26 @@ impl Subject {
         }
     }
 }
+
+pub fn build_system_context(subject_hint: Option<&str>) -> String {
+    let mut out = String::with_capacity(GENERAL_SKILL.len() + 1024);
+    
+    // 1. General skill is always prepended
+    out.push_str(GENERAL_SKILL);
+    out.push_str("\n\n---\n\n");
+
+    // 2. Dynamically attach subject skill if subject is identified
+    if let Some(hint) = subject_hint {
+        if let Some(subject) = Subject::from_id(hint) {
+            let specific = subject.skill_prompt();
+            if !specific.is_empty() {
+                out.push_str("### Specialized Subject Instructions:\n");
+                out.push_str(specific);
+                out.push_str("\n\n---\n\n");
+            }
+        }
+    }
+
+    out
+}
+
