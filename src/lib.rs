@@ -25,7 +25,6 @@ pub const VALID_PAPERS: &[&str] = &[
     "p15", "p16", "p17", "p18", "p19", "p20a", "p20b", "p20c",
 ];
 
-
 // ---------- JSON-RPC Types ----------
 
 #[derive(Deserialize, Debug)]
@@ -217,32 +216,25 @@ impl RefQuery {
             let lower = tok.to_ascii_lowercase();
             if term.is_none() && is_term_token(&lower) {
                 term = Some(lower);
-            } else if doc_type.is_none() {
+                continue;
+            }
+            if doc_type.is_none() {
                 if let Some(dt) = DocType::parse(&lower) {
                     doc_type = Some(dt);
                     continue;
                 }
-            } else if lower.starts_with("syl") && lower.len() > 3 {
+            }
+            if syllabus.is_none() && lower.starts_with("syl") && lower.len() > 3 {
                 syllabus = Some(lower);
                 continue;
-            } else if variant.is_none() {
+            }
+            if variant.is_none() {
                 if let Some(v) = PaperVariant::parse(&lower) {
                     variant = Some(v);
                     continue;
                 }
             }
-
-            if lower.starts_with("syl") && lower.len() > 3 && syllabus.is_none() {
-                syllabus = Some(lower);
-            } else if variant.is_none() && doc_type.is_some() {
-                if let Some(v) = PaperVariant::parse(&lower) {
-                    variant = Some(v);
-                } else {
-                    return None;
-                }
-            } else {
-                return None;
-            }
+            return None;
         }
 
         Some(Self {
