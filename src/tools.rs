@@ -206,7 +206,16 @@ fn match_and_read_reference(query: &RefQuery, cat: &CatalogCache) -> Value {
 
 /// Helper that wraps the exam paper with active study guidelines
 fn bundle_paper_response(filename: &str, content: &str, cat: &CatalogCache) -> Value {
-    let guidelines = build_system_context(Some(filename), cat);
+    // Look up the parsed paper code (e.g., "p19", "p8") from indexed references
+    let paper_hint = cat
+        .indexed_refs
+        .iter()
+        .find(|item| item.filename == filename)
+        .and_then(|item| item.spec.as_ref())
+        .map(|spec| spec.paper)
+        .unwrap_or(filename);
+
+    let guidelines = build_system_context(Some(paper_hint), cat);
     let payload = format!(
         "<tutoring_guidelines>\n{guidelines}\n</tutoring_guidelines>\n\n<source_material filename=\"{filename}\">\n{content}\n</source_material>"
     );
