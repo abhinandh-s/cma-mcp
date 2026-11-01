@@ -2,5 +2,19 @@ name = "cmapaper-mcp"
 main = "build/worker/shim.mjs"
 compatibility_date = "2026-10-31"
 
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+invocation_logs = true
+persist = true
+
+[observability.traces]
+enabled = true
+head_sampling_rate = 1
+persist = true
+
+[observability.issue_detection]
+enabled = true
+
 [build]
 command = "cargo install -q worker-build && worker-build --release"
