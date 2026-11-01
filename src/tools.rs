@@ -216,3 +216,31 @@ fn match_and_read_reference(query: &RefQuery, cat: &CatalogCache) -> Value {
         }
     }
 }
+
+use crate::skills::{build_system_context, Subject};
+
+pub fn handle_get_paper_and_skill(paper_id: &str) -> Result<String, String> {
+    let subject_opt = Subject::from_id(paper_id);
+    
+    // 1. Assemble base instructions + subject skill
+    let system_instructions = build_system_context(Some(paper_id));
+    
+    // 2. Fetch the requested question paper / suggested answers
+    let paper_content = match paper_id {
+        "p19" => include_str!("../references/p19-26j-mqp-s1-syl22.md"),
+        "p8"  => include_str!("../references/p8-26d-mqp-s1-syl22.md"),
+        "p10" => include_str!("../references/p10-26d-mqp-s1-syl22.md"),
+        "p12" => include_str!("../references/p12-26d-mqp-s1-syl22.md"),
+        "p17" => include_str!("../references/p17-26d-mqp-s1-syl22.md"),
+        "p20a" => include_str!("../references/p20A-26d-mqp-s1-syl22.md"),
+        "p20c" => include_str!("../references/p20C-26d-mqp-s1-syl22.md"),
+        _ => return Err(format!("Unknown paper ID: {}", paper_id)),
+    };
+
+    // 3. Format unified output payload
+    Ok(format!(
+        "<tutoring_guidelines>\n{}\n</tutoring_guidelines>\n\n<source_material>\n{}\n</source_material>",
+        system_instructions,
+        paper_content
+    ))
+}
