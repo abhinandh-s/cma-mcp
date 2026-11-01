@@ -1,62 +1,38 @@
-pub const GENERAL_SKILL: &str = include_str!("../skills/general.md");
+use crate::catalog::{parse_skill, resolve_subject_skill_file, CatalogCache, SkillAssets, GENERAL_SKILL_FILE};
 
-pub enum Subject {
-    Paper6Laws,
-    Paper7Dt,
-    Paper8Costing,
-    Paper10CostMgmt,
-    Paper12CompanyAccounts,
-    Paper17CorpLaws,
-    Paper19IndirectTax,
-    Paper20ASpmBvm,
-    Paper20CRiskMgmt,
+/// Extracts the raw body of `general.md`
+pub fn get_general_skill() -> &'static str {
+    static GENERAL_BODY: std::sync::OnceLock<String> = std::sync::OnceLock::new();
+    GENERAL_BODY.get_or_init(|| {
+        SkillAssets::get(GENERAL_SKILL_FILE)
+            .and_then(|f| std::str::from_utf8(f.data.as_ref()).ok().map(|s| parse_skill(s).body.to_owned()))
+            .unwrap_or_else(|| "# General CMA Study Blueprint".to_owned())
+    })
 }
 
-impl Subject {
-    pub fn from_id(id: &str) -> Option<Self> {
-        match id.trim().to_ascii_lowercase().as_str() {
-            "p6" | "paper6" | "law" => Some(Self::Paper6Laws),
-            "p7" | "paper7" | "dt" | "direct_tax" => Some(Self::Paper7Dt),
-            "p8" | "paper8" | "costing" | "marginal" => Some(Self::Paper8Costing),
-            "p10" | "paper10" => Some(Self::Paper10CostMgmt),
-            "p12" | "paper12" => Some(Self::Paper12CompanyAccounts),
-            "p17" | "paper17" => Some(Self::Paper17CorpLaws),
-            "p19" | "paper19" | "gst" | "itc" | "customs" => Some(Self::Paper19IndirectTax),
-            "p20a" | "paper20a" => Some(Self::Paper20ASpmBvm),
-            "p20c" | "paper20c" => Some(Self::Paper20CRiskMgmt),
-            _ => None,
-        }
-    }
+/// Builds the stacked system context: General Skill + (Optional) Subject Skill
+pub fn build_system_context(subject_hint: Option<&str>, cat: &CatalogCache) -> String {
+    let general = get_general_skill();
+    let mut out = String::with_capacity(general.len() + 2048);
 
-    pub fn skill_prompt(&self) -> &'static str {
-        match self {
-            Self::Paper8Costing => include_str!("../skills/costing_marginal_chapter.md"),
-            Self::Paper19IndirectTax => include_str!("../skills/gst_itc_chapter.md"),
-            // Default placeholder or specific instructions for others
-            _ => "",
-        }
-    }
-}
+    // 1. General blueprint is always active
+    out.push_str("# GENERAL CMA TUTOR BLUEPRINT\n\n");
+    out.push_str(general);
 
-pub fn build_system_context(subject_hint: Option<&str>) -> String {
-    let mut out = String::with_capacity(GENERAL_SKILL.len() + 1024);
-    
-    // 1. General skill is always prepended
-    out.push_str(GENERAL_SKILL);
-    out.push_str("\n\n---\n\n");
-
-    // 2. Dynamically attach subject skill if subject is identified
-    if let Some(hint) = subject_hint {
-        if let Some(subject) = Subject::from_id(hint) {
-            let specific = subject.skill_prompt();
-            if !specific.is_empty() {
-                out.push_str("### Specialized Subject Instructions:\n");
-                out.push_str(specific);
-                out.push_str("\n\n---\n\n");
+    // 2. Dynamically attach subject skill if a subject/paper is identified
+    if let Some(hint) = subject_hint.filter(|h| !h.trim().is_empty()) {
+        if let Some(file) = resolve_subject_skill_file(hint, &cat.subject_files) {
+            if let Some(asset) = SkillAssets::get(file) {
+                if let Ok(raw) = std::str::from_utf8(asset.data.as_ref()) {
+                    let doc = parse_skill(raw);
+                    out.push_str("\n\n---\n\n# SPECIALIZED SUBJECT SKILL: ");
+                    out.push_str(if doc.name.is_empty() { file } else { doc.name });
+                    out.push_str("\n\n");
+                    out.push_str(doc.body);
+                }
             }
         }
     }
 
     out
 }
-
