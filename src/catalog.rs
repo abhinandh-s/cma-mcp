@@ -223,7 +223,7 @@ fn build_tools_list_payload(
                     "properties": {
                         "paper": {
                             "type": "string",
-                            "description": "Paper code (`p1` to `p20c`, e.g. `p5`, `p7`, `p19`, `p20c`) or exact skill filename from `skills/`."
+                            "description": "Paper code (`p1` to `p20c`, e.g. `p5`, `p7`, `p8`, `p10`, `p19`, `p20c`), subject name, or exact skill filename from `skills/`."
                         },
                         "skill_file": skill_file_prop
                     }
@@ -294,11 +294,46 @@ fn build_tools_list_payload(
 
 pub fn resolve_subject_skill_file<'a>(input: &str, available: &'a [String]) -> Option<&'a str> {
     let trimmed = input.trim();
+    if trimmed.is_empty() {
+        return None;
+    }
+
+    // 1. Exact match on filename (case-insensitive)
     if let Some(exact) = available.iter().find(|f| f.eq_ignore_ascii_case(trimmed)) {
         return Some(exact.as_str());
     }
+
+    // 2. Direct topic/keyword mapping to subject files
+    let lower = trimmed.to_ascii_lowercase();
+    if lower.contains("costing") || lower.contains("marginal") || lower.contains("cvp") || lower.contains("bep") {
+        if let Some(costing_file) = available.iter().find(|f| f.contains("costing") || f.contains("marginal")) {
+            return Some(costing_file.as_str());
+        }
+    }
+    if lower.contains("gst") || lower.contains("itc") || lower.contains("customs") || lower.contains("indirect") {
+        if let Some(gst_file) = available.iter().find(|f| f.contains("gst") || f.contains("itc")) {
+            return Some(gst_file.as_str());
+        }
+    }
+
+    // 3. Fallback to standard paper code matching (e.g. "p8", "paper 8", "p19")
     let code = normalize_paper_code(trimmed)?;
     let num = &code[1..];
+
+    // Check specific known mappings for syllabus papers
+    match code {
+        "p8" | "p10" => {
+            if let Some(costing_file) = available.iter().find(|f| f.contains("costing") || f.contains("marginal")) {
+                return Some(costing_file.as_str());
+            }
+        }
+        "p7" | "p19" => {
+            if let Some(gst_file) = available.iter().find(|f| f.contains("gst") || f.contains("itc")) {
+                return Some(gst_file.as_str());
+            }
+        }
+        _ => {}
+    }
 
     available
         .iter()
@@ -313,4 +348,55 @@ pub fn resolve_subject_skill_file<'a>(input: &str, available: &'a [String]) -> O
                     .is_some_and(|r| r.eq_ignore_ascii_case(".md"))
         })
         .map(String::as_str)
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn parses_valid_skill_frontmatter() {
+        let raw = "---\nname: gst-itc\ndescription: GST ITC Rules\n---\n# Chapter Content";
+        let doc = parse_skill(raw);
+        assert_eq!(doc.name, "gst-itc");
+        assert_eq!(doc.description, "GST ITC Rules");
+        assert_eq!(doc.body, "# Chapter Content");
+    }
+
+    #[test]
+    fn parses_raw_markdown_without_frontmatter() {
+        let raw = "# Just Content";
+        let doc = parse_skill(raw);
+        assert_eq!(doc.name, "");
+        assert_eq!(doc.description, "");
+        assert_eq!(doc.body, "# Just Content");
+    }
+
+    #[test]
+    fn resolves_skills_by_code_and_keyword() {
+        let skills = vec![
+            "costing_marginal_chapter.md".to_string(),
+            "gst_itc_chapter.md".to_string(),
+        ];
+
+        // Direct topic resolution
+        assert_eq!(
+            resolve_subject_skill_file("marginal costing", &skills),
+            Some("costing_marginal_chapter.md")
+        );
+        assert_eq!(
+            resolve_subject_skill_file("gst", &skills),
+            Some("gst_itc_chapter.md")
+        );
+
+        // Paper code resolution
+        assert_eq!(
+            resolve_subject_skill_file("p19", &skills),
+            Some("gst_itc_chapter.md")
+        );
+        assert_eq!(
+            resolve_subject_skill_file("Paper 8", &skills),
+            Some("costing_marginal_chapter.md")
+        );
+    }
 }
