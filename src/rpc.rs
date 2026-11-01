@@ -7,11 +7,11 @@ use serde_json::{json, Value};
 
 pub const DEFAULT_MCP_VERSION: &str = "2025-03-26";
 pub const SUPPORTED_VERSIONS: &[&str] = &[
+    "2026-07-28",
     "2025-11-25",
     "2025-06-18",
     "2025-03-26",
     "2024-11-05",
-    "2026-07-28",
 ];
 
 #[derive(Deserialize, Debug)]
@@ -52,6 +52,7 @@ pub enum BatchOutcome {
     Batch(Vec<RpcResponse>),
 }
 
+#[inline]
 pub fn rpc_err_response(id: Option<Value>, code: i32, message: &str) -> RpcResponse {
     RpcResponse {
         jsonrpc: "2.0",
@@ -64,6 +65,7 @@ pub fn rpc_err_response(id: Option<Value>, code: i32, message: &str) -> RpcRespo
     }
 }
 
+#[inline]
 fn rpc_err(id: Option<Value>, code: i32, message: &str) -> RpcOutcome {
     RpcOutcome::Reply(rpc_err_response(id, code, message))
 }
@@ -94,7 +96,11 @@ pub fn process_payload(payload: RpcPayload) -> BatchOutcome {
 }
 
 pub fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
-    if rpc_req.id.is_none() || rpc_req.method.starts_with("notifications/") {
+    // Protocol notifications produce no response
+    if rpc_req.id.is_none()
+        || rpc_req.method == "initialized"
+        || rpc_req.method.starts_with("notifications/")
+    {
         return RpcOutcome::Notification;
     }
 
@@ -260,5 +266,56 @@ mod tests {
             panic!("expected reply");
         };
         assert_eq!(resp.result.unwrap()["protocolVersion"], "2024-11-05");
+    }
+
+    #[test]
+    fn handles_ping() {
+        let req = RpcRequest {
+            jsonrpc: "2.0".to_owned(),
+            id: Some(json!(2)),
+            method: "ping".to_owned(),
+            params: None,
+        };
+        let RpcOutcome::Reply(resp) = process_rpc(req) else {
+            panic!("expected reply");
+        };
+        assert_eq!(resp.result.unwrap(), json!({}));
+    }
+
+    #[test]
+    fn ignores_notifications() {
+        let req = RpcRequest {
+            jsonrpc: "2.0".to_owned(),
+            id: None,
+            method: "notifications/initialized".to_owned(),
+            params: None,
+        };
+        assert_eq!(process_rpc(req), RpcOutcome::Notification);
+
+        let init_req = RpcRequest {
+            jsonrpc: "2.0".to_owned(),
+            id: Some(json!(3)),
+            method: "initialized".to_owned(),
+            params: None,
+        };
+        assert_eq!(process_rpc(init_req), RpcOutcome::Notification);
+    }
+
+    #[test]
+    fn handles_unknown_tool() {
+        let req = RpcRequest {
+            jsonrpc: "2.0".to_owned(),
+            id: Some(json!(4)),
+            method: "tools/call".to_owned(),
+            params: Some(json!({
+                "name": "non_existent_tool",
+                "arguments": {}
+            })),
+        };
+        let RpcOutcome::Reply(resp) = process_rpc(req) else {
+            panic!("expected reply");
+        };
+        assert!(resp.error.is_some());
+        assert_eq!(resp.error.unwrap()["code"], -32602);
     }
 }
