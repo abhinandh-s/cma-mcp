@@ -4,6 +4,7 @@ use serde_json::{json, Map, Value};
 use std::sync::OnceLock;
 use worker::*;
 
+
 #[derive(RustEmbed)]
 #[folder = "skills/"]
 struct SkillAssets;
