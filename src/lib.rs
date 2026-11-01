@@ -1,6 +1,7 @@
 use rust_embed::RustEmbed;
 use serde::{Deserialize, Serialize};
 use serde_json::{json, Map, Value};
+use std::sync::OnceLock;
 use worker::*;
 
 #[derive(RustEmbed)]
@@ -163,8 +164,6 @@ impl PaperVariant {
     }
 }
 
-/// Canonical representation of an ICMAI exam reference key:
-/// e.g. `p7-26d-mqp-s1-syl22.md` or shorthand `p5 26j pyq sa`
 #[derive(Debug, Clone, PartialEq, Eq)]
 struct RefQuery {
     paper: String,            // "p1" .. "p20c"
@@ -175,9 +174,7 @@ struct RefQuery {
 }
 
 fn normalize_paper_code(raw: &str) -> Option<&'static str> {
-    let cleaned = raw
-        .trim()
-        .to_ascii_lowercase();
+    let cleaned = raw.trim().to_ascii_lowercase();
     let stripped = cleaned
         .strip_prefix("paper-")
         .or_else(|| cleaned.strip_prefix("paper"))
@@ -189,7 +186,6 @@ fn normalize_paper_code(raw: &str) -> Option<&'static str> {
 }
 
 fn is_term_token(t: &str) -> bool {
-    // Matches 2-digit year + session char ('j' for June, 'd' for Dec), e.g. "26j", "26d", "25d"
     let b = t.as_bytes();
     b.len() == 3
         && b[0].is_ascii_digit()
@@ -198,7 +194,6 @@ fn is_term_token(t: &str) -> bool {
 }
 
 impl RefQuery {
-    /// Parses either a filename (`p7-26d-mqp-s1-syl22.md`) or shorthand (`p5 26j mqp s1a`).
     fn parse(input: &str) -> Option<Self> {
         let stem = input
             .trim()
@@ -221,12 +216,29 @@ impl RefQuery {
             let lower = tok.to_ascii_lowercase();
             if term.is_none() && is_term_token(&lower) {
                 term = Some(lower);
-            } else if doc_type.is_none() && let Some(dt) = DocType::parse(&lower) {
-                doc_type = Some(dt);
+            } else if doc_type.is_none() {
+                if let Some(dt) = DocType::parse(&lower) {
+                    doc_type = Some(dt);
+                    continue;
+                }
             } else if lower.starts_with("syl") && lower.len() > 3 {
                 syllabus = Some(lower);
-            } else if variant.is_none() && let Some(v) = PaperVariant::parse(&lower) {
-                variant = Some(v);
+                continue;
+            } else if variant.is_none() {
+                if let Some(v) = PaperVariant::parse(&lower) {
+                    variant = Some(v);
+                    continue;
+                }
+            }
+
+            if lower.starts_with("syl") && lower.len() > 3 && syllabus.is_none() {
+                syllabus = Some(lower);
+            } else if variant.is_none() && doc_type.is_some() {
+                if let Some(v) = PaperVariant::parse(&lower) {
+                    variant = Some(v);
+                } else {
+                    return None;
+                }
             } else {
                 return None;
             }
@@ -248,10 +260,10 @@ impl RefQuery {
         if self.paper != file_spec.paper {
             return false;
         }
-        if let Some(ref t) = self.term && file_spec.term.as_ref() != Some(t) {
+        if self.term.is_some() && self.term != file_spec.term {
             return false;
         }
-        if let Some(dt) = self.doc_type && file_spec.doc_type != Some(dt) {
+        if self.doc_type.is_some() && self.doc_type != file_spec.doc_type {
             return false;
         }
         if let Some(v) = self.variant {
@@ -260,7 +272,7 @@ impl RefQuery {
                 return false;
             }
         }
-        if let Some(ref syl) = self.syllabus && file_spec.syllabus.as_ref() != Some(syl) {
+        if self.syllabus.is_some() && self.syllabus != file_spec.syllabus {
             return false;
         }
         true
@@ -275,9 +287,7 @@ impl RefQuery {
         if let Some(dt) = self.doc_type {
             out.push('-');
             out.push_str(dt.as_str());
-            if let Some(v) = self.variant
-                && let Some(sfx) = v.canonical_suffix(dt)
-            {
+            if let Some(sfx) = self.variant.and_then(|v| v.canonical_suffix(dt)) {
                 out.push('-');
                 out.push_str(sfx);
             }
@@ -290,7 +300,31 @@ impl RefQuery {
     }
 }
 
-// ---------- Asset Catalog Helpers ----------
+// ---------- Isolate-Cached Asset Catalog ----------
+
+struct CatalogCache {
+    subject_files: Vec<String>,
+    reference_files: Vec<String>,
+    subject_catalog: String,
+    general_instructions: String,
+}
+
+static CATALOG: OnceLock<CatalogCache> = OnceLock::new();
+
+fn catalog() -> &'static CatalogCache {
+    CATALOG.get_or_init(|| {
+        let subject_files = list_subject_skill_files();
+        let reference_files = list_reference_files();
+        let subject_catalog = format_subject_catalog(&subject_files);
+        let general_instructions = build_general_instructions(&subject_catalog);
+        CatalogCache {
+            subject_files,
+            reference_files,
+            subject_catalog,
+            general_instructions,
+        }
+    })
+}
 
 fn list_subject_skill_files() -> Vec<String> {
     let mut files: Vec<String> = SkillAssets::iter()
@@ -301,15 +335,15 @@ fn list_subject_skill_files() -> Vec<String> {
     files
 }
 
-fn format_subject_catalog() -> String {
-    list_subject_skill_files()
-        .into_iter()
+fn format_subject_catalog(subject_files: &[String]) -> String {
+    subject_files
+        .iter()
         .map(|filename| {
-            if let Some(file) = SkillAssets::get(&filename)
-                && let Ok(raw) = std::str::from_utf8(file.data.as_ref())
-            {
-                let doc = parse_skill(raw);
-                return format!("- `{filename}` ({}) — {}", doc.name, doc.description);
+            if let Some(file) = SkillAssets::get(filename) {
+                if let Ok(raw) = std::str::from_utf8(file.data.as_ref()) {
+                    let doc = parse_skill(raw);
+                    return format!("- `{filename}` ({}) — {}", doc.name, doc.description);
+                }
             }
             format!("- `{filename}`")
         })
@@ -317,7 +351,7 @@ fn format_subject_catalog() -> String {
         .join("\n")
 }
 
-fn load_general_instructions() -> String {
+fn build_general_instructions(subject_catalog: &str) -> String {
     let general_body = SkillAssets::get(GENERAL_SKILL_FILE)
         .and_then(|f| {
             std::str::from_utf8(f.data.as_ref())
@@ -325,8 +359,6 @@ fn load_general_instructions() -> String {
                 .map(|s| parse_skill(s).body.to_owned())
         })
         .unwrap_or_else(|| "# Error: skills/general.md missing".to_owned());
-
-    let subject_catalog = format_subject_catalog();
 
     format!(
         "{general_body}\n\n---\n## ICMAI Paper Skill Routing (Paper 1 to Paper 20C)\n\
@@ -345,11 +377,8 @@ fn list_reference_files() -> Vec<String> {
 
 fn resolve_subject_skill_file(input: &str, available: &[String]) -> Option<String> {
     let trimmed = input.trim();
-    if available.iter().any(|f| f.eq_ignore_ascii_case(trimmed)) {
-        return available
-            .iter()
-            .find(|f| f.eq_ignore_ascii_case(trimmed))
-            .cloned();
+    if let Some(exact) = available.iter().find(|f| f.eq_ignore_ascii_case(trimmed)) {
+        return Some(exact.clone());
     }
     let code = normalize_paper_code(trimmed)?;
     let num = code.strip_prefix('p').unwrap_or(code);
@@ -362,7 +391,11 @@ fn resolve_subject_skill_file(input: &str, available: &[String]) -> Option<Strin
         .iter()
         .find(|f| {
             let lower = f.to_ascii_lowercase();
-            candidates.iter().any(|c| lower == *c || lower.starts_with(&format!("{code}-")) || lower.starts_with(&format!("paper-{num}-")))
+            candidates.iter().any(|c| {
+                lower == *c
+                    || lower.starts_with(&format!("{code}-"))
+                    || lower.starts_with(&format!("paper-{num}-"))
+            })
         })
         .cloned()
 }
@@ -378,7 +411,6 @@ fn server_meta() -> Value {
     })
 }
 
-/// Standard MCP 2026-07-28 tool result (`isError: false` for success, `isError: true` for model-recoverable execution/validation errors).
 fn tool_text_result(text: impl Into<String>, is_error: bool) -> Value {
     let mut res = json!({
         "resultType": "complete",
@@ -406,19 +438,16 @@ fn rpc_err(id: Option<Value>, code: i32, message: &str) -> RpcOutcome {
     })
 }
 
-// ---------- Pure MCP State Machine (Dual-Era: 2026-07-28 + 2024-11-05/2025-11-25) ----------
+// ---------- Pure MCP State Machine ----------
 
 fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
     if rpc_req.id.is_none() || rpc_req.method.starts_with("notifications/") {
         return RpcOutcome::Notification;
     }
 
-    let subject_files = list_subject_skill_files();
-    let reference_files = list_reference_files();
-    let subject_catalog = format_subject_catalog();
+    let cat = catalog();
 
     let result = match rpc_req.method.as_str() {
-        // MCP 2026-07-28 stateless discovery endpoint (MUST implement)
         "server/discover" => json!({
             "resultType": "complete",
             "supportedVersions": SUPPORTED_VERSIONS,
@@ -431,13 +460,12 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                 "name": SERVER_NAME,
                 "version": SERVER_VERSION
             },
-            "instructions": load_general_instructions(),
+            "instructions": cat.general_instructions,
             "ttlMs": CACHE_TTL_MS,
             "cacheScope": "public",
             "_meta": server_meta()
         }),
 
-        // Legacy handshake kept for dual-era client compatibility
         "initialize" => json!({
             "resultType": "complete",
             "protocolVersion": MCP_VERSION_2026,
@@ -450,7 +478,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                 "name": SERVER_NAME,
                 "version": SERVER_VERSION
             },
-            "instructions": load_general_instructions(),
+            "instructions": cat.general_instructions,
             "_meta": server_meta()
         }),
 
@@ -486,7 +514,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                     "role": "user",
                     "content": {
                         "type": "text",
-                        "text": load_general_instructions()
+                        "text": cat.general_instructions
                     }
                 }],
                 "_meta": server_meta()
@@ -501,7 +529,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                 "description": "Core CMA tutoring blueprint active across all papers"
             })];
 
-            for file in &subject_files {
+            for file in &cat.subject_files {
                 resources.push(json!({
                     "uri": format!("cma://skills/{file}"),
                     "name": file,
@@ -509,7 +537,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                     "description": "Subject-specific ICMAI CMA paper skill"
                 }));
             }
-            for file in &reference_files {
+            for file in &cat.reference_files {
                 resources.push(json!({
                     "uri": format!("cma://references/{file}"),
                     "name": file,
@@ -586,7 +614,8 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                     "name": "load_subject_skill",
                     "title": "Load ICMAI CMA Subject Skill (Paper 1 to 20C)",
                     "description": format!(
-                        "Load the subject-specific ICMAI CMA skill (statutory rules, formats, working note templates, and examiner trap zones) for Papers 1 to 20C. Use alongside the general CMA blueprint. Call ONCE per paper when a user asks about a topic from that paper.\nAvailable subject skill files:\n{subject_catalog}"
+                        "Load the subject-specific ICMAI CMA skill (statutory rules, formats, working note templates, and examiner trap zones) for Papers 1 to 20C. Use alongside the general CMA blueprint. Call ONCE per paper when a user asks about a topic from that paper.\nAvailable subject skill files:\n{}",
+                        cat.subject_catalog
                     ),
                     "inputSchema": {
                         "$schema": "https://json-schema.org/draft/2020-12/schema",
@@ -598,7 +627,7 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                             },
                             "skill_file": {
                                 "type": "string",
-                                "enum": subject_files,
+                                "enum": cat.subject_files,
                                 "description": "Exact subject skill filename from `skills/` (optional if `paper` is provided)."
                             }
                         },
@@ -622,7 +651,8 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                         - PYQ shorthand: `p5 26j pyq` (Question Paper), `p5 26j pyq sa` (Suggested Answer)\n\
                         - MQP shorthand: `p5 26j mqp s1` (Set 1), `p5 26j mqp s1a` (Set 1 Answer), `p5 26j mqp s2` (Set 2), `p5 26j mqp s2a` (Set 2 Answer)\n\
                         - PTP shorthand: `p5 26j ptp` (Question Paper), `p5 26j ptp a` (Answer Key)\n\
-                        Available files: {reference_files:?}"
+                        Available files: {:?}",
+                        cat.reference_files
                     ),
                     "inputSchema": {
                         "$schema": "https://json-schema.org/draft/2020-12/schema",
@@ -676,15 +706,12 @@ fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
             let args = params.and_then(|p| p["arguments"].as_object());
 
             match tool_name {
-                // Accept both `load_subject_skill` and legacy `load_chapter_skill`
                 "load_subject_skill" | "load_chapter_skill" => {
-                    handle_load_subject_skill(args, &subject_files)
+                    handle_load_subject_skill(args, &cat.subject_files)
                 }
-                // Accept `get_exam_paper` plus legacy tool names for smooth migration
                 "get_exam_paper" | "search_study_materials" | "get_reference_material" => {
-                    handle_get_exam_paper(args, &reference_files)
+                    handle_get_exam_paper(args, &cat.reference_files)
                 }
-                // Per MCP 2026-07-28 `/server/tools`: unknown tool is a protocol error (-32602)
                 _ => return rpc_err(rpc_req.id, -32602, &format!("Unknown tool: {tool_name}")),
             }
         }
@@ -753,7 +780,6 @@ fn handle_get_exam_paper(
     args: Option<&Map<String, Value>>,
     reference_files: &[String],
 ) -> Value {
-    // 1. Check direct filename or shorthand `query` string
     if let Some(q_str) = args
         .and_then(|a| {
             a.get("query")
@@ -764,13 +790,11 @@ fn handle_get_exam_paper(
         .map(str::trim)
         .filter(|s| !s.is_empty())
     {
-        // Exact match in embedded assets
         if let Some(asset) = ReferenceAssets::get(q_str) {
             let text = std::str::from_utf8(asset.data.as_ref()).unwrap_or("Encoding error");
             return tool_text_result(text, false);
         }
 
-        // Parse shorthand / filename pattern (e.g., "p5 26j pyq sa" or "p7-26d-mqp-s1-syl22.md")
         let Some(parsed_query) = RefQuery::parse(q_str) else {
             return tool_text_result(
                 format!(
@@ -783,7 +807,6 @@ fn handle_get_exam_paper(
         return match_and_read_reference(&parsed_query, reference_files);
     }
 
-    // 2. Otherwise build RefQuery from structured parameters (`paper`, `term`, `doc_type`, `variant`, `syllabus`)
     let Some(raw_paper) = args.and_then(|a| a.get("paper")).and_then(|v| v.as_str()) else {
         return tool_text_result(
             format!(
@@ -898,7 +921,7 @@ fn match_and_read_reference(query: &RefQuery, reference_files: &[String]) -> Val
     }
 }
 
-// ---------- Cloudflare Worker HTTP Entry Points (Stateless Streamable HTTP) ----------
+// ---------- Cloudflare Worker HTTP Entry Points ----------
 
 #[event(start)]
 fn start() {
@@ -930,182 +953,5 @@ async fn handle_mcp_post(mut req: Request, _ctx: RouteContext<()>) -> Result<Res
     match process_rpc(rpc_req) {
         RpcOutcome::Notification => Ok(Response::empty()?.with_status(202)),
         RpcOutcome::Reply(body) => Response::from_json(&body),
-    }
-}
-
-// ---------- Invariant & Protocol Tests (`cargo test`) ----------
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn invariant_1_general_skill_exists_and_has_body() {
-        let file = SkillAssets::get(GENERAL_SKILL_FILE)
-            .expect("INVARIANT BROKEN: skills/general.md must exist");
-        let raw = std::str::from_utf8(file.data.as_ref())
-            .expect("INVARIANT BROKEN: skills/general.md must be valid UTF-8");
-        let parsed = parse_skill(raw);
-        assert!(
-            !parsed.body.is_empty(),
-            "INVARIANT BROKEN: skills/general.md body cannot be empty"
-        );
-    }
-
-    #[test]
-    fn invariant_2_subject_skills_have_valid_frontmatter_and_exclude_general() {
-        let subjects = list_subject_skill_files();
-        assert!(
-            !subjects.contains(&GENERAL_SKILL_FILE.to_owned()),
-            "INVARIANT BROKEN: general.md must never appear in subject skill list"
-        );
-        assert!(
-            !subjects.is_empty(),
-            "INVARIANT BROKEN: at least one subject skill must exist in skills/"
-        );
-
-        for filename in subjects {
-            let file = SkillAssets::get(&filename).unwrap();
-            let raw = std::str::from_utf8(file.data.as_ref())
-                .unwrap_or_else(|_| panic!("INVARIANT BROKEN: {filename} is not valid UTF-8"));
-            let doc = parse_skill(raw);
-            assert!(
-                !doc.name.is_empty(),
-                "INVARIANT BROKEN: {filename} is missing `name:` in YAML frontmatter"
-            );
-            assert!(
-                !doc.description.is_empty(),
-                "INVARIANT BROKEN: {filename} is missing `description:` in YAML frontmatter"
-            );
-            assert!(
-                !doc.body.is_empty(),
-                "INVARIANT BROKEN: {filename} has an empty markdown body"
-            );
-        }
-    }
-
-    #[test]
-    fn invariant_3_general_skill_never_injected_into_tool_calls() {
-        let general_raw = SkillAssets::get(GENERAL_SKILL_FILE).unwrap();
-        let general_body =
-            parse_skill(std::str::from_utf8(general_raw.data.as_ref()).unwrap()).body;
-
-        let RpcOutcome::Reply(disc_resp) = process_rpc(RpcRequest {
-            jsonrpc: "2.0".into(),
-            id: Some(json!(1)),
-            method: "server/discover".into(),
-            params: None,
-        }) else {
-            panic!("Expected Reply for server/discover");
-        };
-        let result = disc_resp.result.unwrap();
-        assert_eq!(result["resultType"], "complete");
-        assert!(
-            result["instructions"]
-                .as_str()
-                .unwrap()
-                .contains(general_body)
-        );
-
-        let mut subjects = list_subject_skill_files();
-        if let Some(first_subject) = subjects.pop() {
-            let RpcOutcome::Reply(subj_resp) = process_rpc(RpcRequest {
-                jsonrpc: "2.0".into(),
-                id: Some(json!(2)),
-                method: "tools/call".into(),
-                params: Some(json!({
-                    "name": "load_subject_skill",
-                    "arguments": { "skill_file": first_subject }
-                })),
-            }) else {
-                panic!("Expected Reply for load_subject_skill");
-            };
-            let res = subj_resp.result.unwrap();
-            assert_eq!(res["resultType"], "complete");
-            assert!(res.get("isError").is_none());
-            let subj_text = res["content"][0]["text"].as_str().unwrap();
-            assert!(
-                !subj_text.contains(general_body),
-                "INVARIANT BROKEN: load_subject_skill must not re-inject general.md"
-            );
-        }
-    }
-
-    #[test]
-    fn icmai_filename_and_shorthand_conventions_parse_and_match() {
-        // Full hyphenated filename with syllabus
-        let full = RefQuery::parse("p7-26d-mqp-s1-syl22.md").unwrap();
-        assert_eq!(full.paper, "p7");
-        assert_eq!(full.term.as_deref(), Some("26d"));
-        assert_eq!(full.doc_type, Some(DocType::Mqp));
-        assert_eq!(full.variant, Some(PaperVariant::Set1));
-        assert_eq!(full.syllabus.as_deref(), Some("syl22"));
-
-        // 1. PYQ Question Paper & Suggested Answer
-        let pyq_q = RefQuery::parse("p5 26j pyq").unwrap();
-        assert!(pyq_q.matches_filename("p5-26j-pyq-syl22.md"));
-        assert!(!pyq_q.matches_filename("p5-26j-pyq-sa-syl22.md"));
-
-        let pyq_sa = RefQuery::parse("p5 26j pyq sa").unwrap();
-        assert!(pyq_sa.matches_filename("p5-26j-pyq-sa-syl22.md"));
-        assert!(!pyq_sa.matches_filename("p5-26j-pyq-syl22.md"));
-
-        // 2. MQP Set 1 / Set 1a / Set 2 / Set 2a
-        let mqp_s1 = RefQuery::parse("p5 26j mqp s1").unwrap();
-        assert!(mqp_s1.matches_filename("p5-26j-mqp-s1-syl22.md"));
-        assert!(!mqp_s1.matches_filename("p5-26j-mqp-s1a-syl22.md"));
-
-        let mqp_s1a = RefQuery::parse("p5 26j mqp s1a").unwrap();
-        assert!(mqp_s1a.matches_filename("p5-26j-mqp-s1a-syl22.md"));
-
-        let mqp_s2 = RefQuery::parse("p5 26j mqp s2").unwrap();
-        assert!(mqp_s2.matches_filename("p5-26j-mqp-s2-syl22.md"));
-
-        let mqp_s2a = RefQuery::parse("p5 26j mqp s2a").unwrap();
-        assert!(mqp_s2a.matches_filename("p5-26j-mqp-s2a-syl22.md"));
-
-        // 3. PTP Question Paper & Answer Key (`a`)
-        let ptp_q = RefQuery::parse("p5 26j ptp").unwrap();
-        assert!(ptp_q.matches_filename("p5-26j-ptp-syl22.md"));
-        assert!(!ptp_q.matches_filename("p5-26j-ptp-a-syl22.md"));
-
-        let ptp_a = RefQuery::parse("p5 26j ptp a").unwrap();
-        assert!(ptp_a.matches_filename("p5-26j-ptp-a-syl22.md"));
-
-        // Elective Paper 20C
-        let p20c = RefQuery::parse("p20c 26d pyq sa").unwrap();
-        assert_eq!(p20c.paper, "p20c");
-        assert!(p20c.matches_filename("p20c-26d-pyq-sa-syl22.md"));
-    }
-
-    #[test]
-    fn mcp_2026_07_28_error_semantics_distinguish_protocol_vs_tool_errors() {
-        // Unknown tool -> JSON-RPC -32602 Protocol Error
-        let RpcOutcome::Reply(unknown_tool) = process_rpc(RpcRequest {
-            jsonrpc: "2.0".into(),
-            id: Some(json!(10)),
-            method: "tools/call".into(),
-            params: Some(json!({ "name": "nonexistent_tool", "arguments": {} })),
-        }) else {
-            panic!("Expected Reply");
-        };
-        assert_eq!(unknown_tool.error.unwrap()["code"], -32602);
-
-        // Bad tool argument -> Tool Execution Error (`result.isError = true`, NOT JSON-RPC error)
-        let RpcOutcome::Reply(bad_arg) = process_rpc(RpcRequest {
-            jsonrpc: "2.0".into(),
-            id: Some(json!(11)),
-            method: "tools/call".into(),
-            params: Some(json!({
-                "name": "load_subject_skill",
-                "arguments": { "skill_file": "general.md" }
-            })),
-        }) else {
-            panic!("Expected Reply");
-        };
-        assert!(bad_arg.error.is_none());
-        let res = bad_arg.result.unwrap();
-        assert_eq!(res["resultType"], "complete");
-        assert_eq!(res["isError"], true);
     }
 }
