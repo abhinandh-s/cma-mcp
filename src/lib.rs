@@ -25,6 +25,7 @@ pub const VALID_PAPERS: &[&str] = &[
     "p15", "p16", "p17", "p18", "p19", "p20a", "p20b", "p20c",
 ];
 
+
 // ---------- JSON-RPC Types ----------
 
 #[derive(Deserialize, Debug)]
