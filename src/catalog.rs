@@ -168,7 +168,13 @@ fn build_prompts_list_payload() -> Value {
 }
 
 fn build_resources_list_payload(subject_files: &[String]) -> Value {
-    let mut resources = Vec::with_capacity(1 + subject_files.len());
+    let mut resources = Vec::with_capacity(2 + subject_files.len());
+    resources.push(json!({
+        "uri": "cma://references/official-publication-status-syl22.md",
+        "name": "ICMAI Syllabus 2022 Official Publication Status",
+        "mimeType": "text/markdown",
+        "description": "Human-maintainable official publication and CMA connector availability registry for Syllabus 2022, including June 2026 coverage and December 2026 rollout status"
+    }));
     resources.push(json!({
         "uri": "cma://skills/general.md",
         "name": "General CMA Tutor Skill",
@@ -227,7 +233,7 @@ fn build_tools_list_payload(
             {
                 "name": "list_exam_papers",
                 "title": "List ICMAI Exam Paper References",
-                "description": "Search and page through available ICMAI PYQ, MQP, and PTP Markdown references. Filter by paper, term, document type, variant, or syllabus. Returned filenames can be passed to get_exam_paper or used with cma://references/{filename}.",
+                "description": "Search and page through available ICMAI PYQ, MQP, and PTP Markdown references. Filter by paper, term, document type, variant, or syllabus. Returned filenames can be passed to get_exam_paper or used with cma://references/{filename}. Consult the `cma://references/official-publication-status-syl22.md` resource for the official Syllabus 2022 publication snapshot, expected Q/A coverage, and December 2026 rollout status; the registry distinguishes ICMAI publication from connector indexing.",
                 "inputSchema": {
                     "type": "object",
                     "properties": {
@@ -246,7 +252,7 @@ fn build_tools_list_payload(
                 "name": "get_exam_paper",
                 "title": "Fetch ICMAI PYQ, MQP, or PTP Exam Material",
                 "description": format!(
-                    "Fetch ICMAI Previous Year Question Papers (PYQ), Model Question Papers (MQP), Practice Test Papers (PTP), and Suggested Answers/Answer Keys for Papers 1 to 20C.\n\
+                    "Fetch ICMAI Previous Year Question Papers (PYQ), Model Question Papers (MQP), Practice Test Papers (PTP), and Suggested Answers/Answer Keys for Papers 1 to 20C. For official Syllabus 2022 publication coverage and rollout status, consult `cma://references/official-publication-status-syl22.md`.\n\
                     Naming convention:\n\
                     - Full filename: `p7-26d-mqp-s1-syl22.md` (Paper 7, 2026 Dec, MQP Set 1, Syllabus 2022)\n\
                     - PYQ shorthand: `p5 26j pyq` (Question Paper), `p5 26j pyq sa` (Suggested Answer)\n\
