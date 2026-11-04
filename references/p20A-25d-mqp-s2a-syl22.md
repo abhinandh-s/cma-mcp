@@ -23,92 +23,92 @@
 
 ### 1 (i) - 2 marks
 
-______ involves breaking down each of the activities of a firm into its various activities, and showing where value is added for its customers. (
+______ involves breaking down each of the activities of a firm into its various activities, and showing where value is added for its customers.
 
-a) Storyboarding. (  
-b) Value Chain analysis. (  
-c) Blueprinting. (  
+a) Storyboarding.
+b) Value Chain analysis.
+c) Blueprinting.
 d) Perceived service.
 
 ### 1 (ii) - 2 marks
 
-How many different perspectives are there with a balanced scorecard? (
+How many different perspectives are there with a balanced scorecard?
 
-a) 3 (  
-b) 2 (  
-c) 6 (  
+a) 3
+b) 2
+c) 6
 d) 4
 
 ### 1 (iii) - 2 marks
 
-One of the following is not a Competition based pricing method. (
+One of the following is not a Competition based pricing method.
 
-a) Going rate pricing (  
-b) Sealed bid pricing (  
-c) Marginal cost pricing (  
+a) Going rate pricing
+b) Sealed bid pricing
+c) Marginal cost pricing
 d) Trade association based pricing
 
 ### 1 (iv) - 2 marks
 
-The standard error (SE) of the sample mean loss distribution is equal to the (
+The standard error (SE) of the sample mean loss distribution is equal to the
 
-a) Cash profit position standard deviation of the population multiplied by the square root of the sample size (  
-b) standard deviation of the population multiplied by the cube root of the sample size. (  
-c) standard deviation of the population divided by the square root of the sample size. (  
+a) Cash profit position standard deviation of the population multiplied by the square root of the sample size
+b) standard deviation of the population multiplied by the cube root of the sample size.
+c) standard deviation of the population divided by the square root of the sample size.
 d) standard deviation of the population divided by the cube root of the sample size.
 
 ### 1 (v) - 2 marks
 
-When valuation process is under multiple scenarios, you take into consideration, (
+When valuation process is under multiple scenarios, you take into consideration,
 
-a) Scenarios (  
-b) Ranges of value (  
-c) Ranges of value or Scenarios (  
+a) Scenarios
+b) Ranges of value
+c) Ranges of value or Scenarios
 d) Ranges of value & Scenarios 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (vi) - 2 marks
 
-What does the Liquidation Value refer to in the asset-based approach to valuation? (
+What does the Liquidation Value refer to in the asset-based approach to valuation?
 
-a) The current cost of replacing all the assets of a company (  
-b) The value of the asset on a free market (  
-c) Sum of estimated sale values of the assets owned by a company (  
+a) The current cost of replacing all the assets of a company
+b) The value of the asset on a free market
+c) Sum of estimated sale values of the assets owned by a company
 d) The present value of the future earnings from the asset.
 
 ### 1 (vii) - 2 marks
 
-In the absence of any information, valuers must consider valuing such unquoted investments at their (
+In the absence of any information, valuers must consider valuing such unquoted investments at their
 
-a) Net Asset Values under cost approach (  
-b) P/BV under market approach (  
-c) PECV under Income approach (  
+a) Net Asset Values under cost approach
+b) P/BV under market approach
+c) PECV under Income approach
 d) the Discounted Cash Flow (DCF) approach
 
 ### 1 (viii) - 2 marks
 
-Market value Added (MVA) is the difference between the _______ of a firm and the ______contributed by investors (
+Market value Added (MVA) is the difference between the _______ of a firm and the ______contributed by investors
 
-a) Current market value, Capital (  
-b) Book value, Capital (  
-c) Book Value, Debt (  
+a) Current market value, Capital
+b) Book value, Capital
+c) Book Value, Debt
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-The sales turnover of a company is ₹150 million. The peer group sales turnover is ₹600 million, and peer group market capitalisation is ₹1,800 million. The peer group sales multiple is? (
+The sales turnover of a company is ₹150 million. The peer group sales turnover is ₹600 million, and peer group market capitalisation is ₹1,800 million. The peer group sales multiple is?
 
-a) 2 Times (  
-b) 3 Times (  
-c) 4 Times (  
+a) 2 Times
+b) 3 Times
+c) 4 Times
 d) 6 Times
 
 ### 1 (x) - 2 marks
 
-What type of merger took place between Vodafone India and Idea Cellular? (
+What type of merger took place between Vodafone India and Idea Cellular?
 
-a) Horizontal merger (  
-b) Vertical merger (  
-c) Conglomerate merger (  
+a) Horizontal merger
+b) Vertical merger
+c) Conglomerate merger
 d) Vortex merger.
 
 (b) Read the following scenario and answer the following questions:
@@ -149,49 +149,49 @@ Choose the correct answer from the four alternatives given based from the above 
 
 ### 1 (xi) - 2 marks
 
-What is the calculated fraction nonconforming (p) in the production process? (
+What is the calculated fraction nonconforming (p) in the production process?
 
-a) 0.043 (  
-b) 0.047 (  
-c) 0.050 (  
+a) 0.043
+b) 0.047
+c) 0.050
 d) 0.055
 
 ### 1 (xii) - 2 marks
 
-What is the OEE for Machine M1? (
+What is the OEE for Machine M1?
 
-a) 78.2% (  
-b) 81.5% (  
-c) 85.1% (  
+a) 78.2%
+b) 81.5%
+c) 85.1%
 d) 77.6% 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (xiii) - 2 marks
 
-What does a process being "out of control" in SQC indicate? (
+What does a process being "out of control" in SQC indicate?
 
-a) Defects are present in every sample. (  
-b) The process is stable but shows minor deviations. (  
-c) A single data point lies outside the control limits. (  
+a) Defects are present in every sample.
+b) The process is stable but shows minor deviations.
+c) A single data point lies outside the control limits.
 d) All defect rates are within normal variation.
 
 ### 1 (xiv) - 2 marks
 
-Which plant is the most efficient based on DEA? (
+Which plant is the most efficient based on DEA?
 
-a) P1 (  
-b) P2 (  
-c) P3 (  
+a) P1
+b) P2
+c) P3
 d) P4
 
 ### 1 (xv) - 2 marks
 
-If Krishna Inks wants to improve its financial efficiency while maintaining quality, which strategy is optimal? (
+If Krishna Inks wants to improve its financial efficiency while maintaining quality, which strategy is optimal?
 
-a) Reduce input costs in the least efficient plant (  
-b) Increase production without adjusting costs (  
-c) Lower quality control inspections to save time (  
-d) Expand investment in the highest cost plant (  
-a) i ii iii iv v vi vii viii ix x b d c c d c a a b a (  
+a) Reduce input costs in the least efficient plant
+b) Increase production without adjusting costs
+c) Lower quality control inspections to save time
+d) Expand investment in the highest cost plant
+a) i ii iii iv v vi vii viii ix x b d c c d c a a b a
 b) i ii iii iv v b d c c a 4 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### Answer:
