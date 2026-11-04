@@ -23,94 +23,94 @@
 
 ### 1 (i) - 2 marks
 
-________ is also referred as the ‘focal’ company is supply chain management. (
+________ is also referred as the ‘focal’ company is supply chain management.
 
-A) Original equipment manufacturer (  
-B) Original band manufacturer (  
-C) Both (  
-a) and (  
-b) (  
+A) Original equipment manufacturer
+B) Original band manufacturer
+C) Both
+a) and
+b)
 D) None of the above
 
 ### 1 (ii) - 2 marks
 
-The Top key performance indicators (KPIs) of the Order to Cash (O2C) are: (
+The Top key performance indicators (KPIs) of the Order to Cash (O2C) are:
 
-A) Process cycle time (  
-B) Days sales outstanding (DSO) (  
-C) On-time delivery performance (  
+A) Process cycle time
+B) Days sales outstanding (DSO)
+C) On-time delivery performance
 D) All of the above
 
 ### 1 (iii) - 2 marks
 
-According to Kaplan & Norton, which of the balanced scorecard perspectives serves as the focus of the other perspectives? (
+According to Kaplan & Norton, which of the balanced scorecard perspectives serves as the focus of the other perspectives?
 
-A) Financial. (  
-B) Customer. (  
-C) Internal business processes. (  
+A) Financial.
+B) Customer.
+C) Internal business processes.
 D) Learning & growth.
 
 ### 1 (iv) - 2 marks
 
-Given the following information for a business: Asset turnover = 3.50 Equity multiplier = 1.00 Return on equity = 30% Using the DuPont analysis, the net profit margin is ___________ (
+Given the following information for a business: Asset turnover = 3.50 Equity multiplier = 1.00 Return on equity = 30% Using the DuPont analysis, the net profit margin is ___________
 
-A) 8.57% (  
-B) 5.87% (  
-C) 7.65% (  
+A) 8.57%
+B) 5.87%
+C) 7.65%
 D) 6.75% 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – JUNE 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (v) - 2 marks
 
-ANINY LTD. earned free cash flow to Equity shareholders during the financial year ended-2024 at ₹5 lakh. If its cost of equity is 12% and free cash flow to Equity (FCFE) is expected to grow forever at 10%, what will be value of ANINY LTD. (using FCFE valuation approach)? (
+ANINY LTD. earned free cash flow to Equity shareholders during the financial year ended-2024 at ₹5 lakh. If its cost of equity is 12% and free cash flow to Equity (FCFE) is expected to grow forever at 10%, what will be value of ANINY LTD. (using FCFE valuation approach)?
 
-A) ₹450 lakh (  
-B) ₹300 lakh (  
-C) ₹275 lakh (  
+A) ₹450 lakh
+B) ₹300 lakh
+C) ₹275 lakh
 D) None of the above
 
 ### 1 (vi) - 2 marks
 
-A company with PAT of ₹ 60 Crores, Tax Rate 30% plus a cess of 3%, Return on Equity is 20%, Other Equity ₹ 225 Crores, PAT of the Company is growing by 8% per year and equity share with a par value of ₹ 10 will have EPS of: (
+A company with PAT of ₹ 60 Crores, Tax Rate 30% plus a cess of 3%, Return on Equity is 20%, Other Equity ₹ 225 Crores, PAT of the Company is growing by 8% per year and equity share with a par value of ₹ 10 will have EPS of:
 
-A) ₹ 2 (  
-B) ₹ 8 (  
-C) ₹ 10 (  
+A) ₹ 2
+B) ₹ 8
+C) ₹ 10
 D) Insufficient information
 
 ### 1 (vii) - 2 marks
 
-An investment is risk free when actual returns are always __________ the expected returns: (
+An investment is risk free when actual returns are always __________ the expected returns:
 
-A) Equal to (  
-B) Less than (  
-C) More than (  
+A) Equal to
+B) Less than
+C) More than
 D) Depends upon circumstances
 
 ### 1 (viii) - 2 marks
 
-A firm has PAT of ₹33.6 lakh with extraordinary income of ₹ 6 lakh. Cost of capital is 20% and the applicable tax rate is 40%. The value of the firm is: (
+A firm has PAT of ₹33.6 lakh with extraordinary income of ₹ 6 lakh. Cost of capital is 20% and the applicable tax rate is 40%. The value of the firm is:
 
-A) ₹ 250 lakh (  
-B) ₹ 150 lakh (  
-C) ₹ 180 lakh (  
+A) ₹ 250 lakh
+B) ₹ 150 lakh
+C) ₹ 180 lakh
 D) ₹ 168 lakh
 
 ### 1 (ix) - 2 marks
 
-A Company's share is trading presently at ₹ 55 giving an annual return of 12.76%. Its beta is 0.98. If the risk free rate prevailing at present is 7.75% and the market rate of return is 16.25%, then the share is (Assume that in a stock market is efficient and CAPM works): (
+A Company's share is trading presently at ₹ 55 giving an annual return of 12.76%. Its beta is 0.98. If the risk free rate prevailing at present is 7.75% and the market rate of return is 16.25%, then the share is (Assume that in a stock market is efficient and CAPM works):
 
-A) Properly valued (  
-B) Undervalued (  
-C) Overvalued (  
+A) Properly valued
+B) Undervalued
+C) Overvalued
 D) Nothing can be said as the information is not complete 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – JUNE 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (x) - 2 marks
 
-Price of a Callable bond = (
+Price of a Callable bond =
 
-A) Price of an Option-free bond - Price of embedded call option (  
-B) Price of an Option-free bond + Price of embedded call option (  
-C) Price of Option-free bond + Price of Embedded Option (  
+A) Price of an Option-free bond - Price of embedded call option
+B) Price of an Option-free bond + Price of embedded call option
+C) Price of Option-free bond + Price of Embedded Option
 D) None of the above
 
 (b) Read the following scenario and answer the following questions:
@@ -124,49 +124,49 @@ Choose the correct answer from the given four alternatives:
 
 ### 1 (xi) - 2 marks
 
-What is the efficiency in terms of sales per employee of Store F? (
+What is the efficiency in terms of sales per employee of Store F?
 
-A) 1.25 (  
-B) 0.80 (  
-C) Insufficient data (  
+A) 1.25
+B) 0.80
+C) Insufficient data
 D) None of the above.
 
 ### 1 (xii) - 2 marks
 
-From the above table, which Store has the highest efficiency score in terms of sales per employee? (
+From the above table, which Store has the highest efficiency score in terms of sales per employee?
 
-A) A (  
-B) B (  
-C) C (  
+A) A
+B) B
+C) C
 D) D
 
 ### 1 (xiii) - 2 marks
 
-If the efficiency scores are plotted with number of employees on the horizontal axis and sales on the vertical axis, the slope of the line connecting each point to the origin corresponds to the sales per employee and the highest slope is attained by the line from the origin, is called _______________. (
+If the efficiency scores are plotted with number of employees on the horizontal axis and sales on the vertical axis, the slope of the line connecting each point to the origin corresponds to the sales per employee and the highest slope is attained by the line from the origin, is called _______________.
 
-A) Regression Line (  
-B) Efficient Frontier (  
-C) Relative Efficiency Line (  
+A) Regression Line
+B) Efficient Frontier
+C) Relative Efficiency Line
 D) None of the above 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – JUNE 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (xiv) - 2 marks
 
-As per the above Q. No. (xiii), the highest slope line will touch the point for Store _______. (
+As per the above Q. No. (xiii), the highest slope line will touch the point for Store _______.
 
-A) B (  
-B) D (  
-C) F (  
+A) B
+B) D
+C) F
 D) G
 
 ### 1 (xv) - 2 marks
 
-The above case is an example of: (
+The above case is an example of:
 
-A) Data Envelopment Analysis (  
-B) Du-Pont Analysis (  
-C) RONA Model (  
-D) Total Productive Maintenance (  
-a) (i) (ii) (iii) (iv) (v) (vi) (vii) (viii) (ix) (x) C D A A C B A B C A (  
+A) Data Envelopment Analysis
+B) Du-Pont Analysis
+C) RONA Model
+D) Total Productive Maintenance
+a) (i) (ii) (iii) (iv) (v) (vi) (vii) (viii) (ix) (x) C D A A C B A B C A
 b) (xi) (xii) (xiii) (xiv) (xv) B D B B A
 
 ### Answer:

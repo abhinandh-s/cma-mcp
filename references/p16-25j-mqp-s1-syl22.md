@@ -69,13 +69,13 @@ d) All the above
 
 The following figures are extracted from the books of a company: Budgeted O/H ₹ 10,000 (Fixed ₹ 6,000, Variable ₹ 4,000) Budgeted Hours 2000 Actual O/H ₹ 10,400 (Fixed ₹ 6,100, Variable ₹ 4,300) Actual Hours 2100 Variable O/H cost variance and Fixed O/H cost variance will be:
 
-a) 100 (  
-A) and 200 (  
+a) 100
+A) and 200
 A)  
 b) 100(F) and 200(F)  
-c) 100 (  
+c) 100
 A) and 200(F)  
-d) 200 (  
+d) 200
 A) and 100(F)
 
 ### 1 (vii) - 2 marks

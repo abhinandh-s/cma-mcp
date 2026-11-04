@@ -22,20 +22,20 @@
 
 ### 1 (i) - 2 marks
 
-Mr. Ram has won a lottery prize. After deduction of tax, he received ₹14 lakhs. He has spent ₹60,000 by way of purchase of lottery tickets and for collecting the prize money. The amount chargeable to tax in his hands in this regard is (
+Mr. Ram has won a lottery prize. After deduction of tax, he received ₹14 lakhs. He has spent ₹60,000 by way of purchase of lottery tickets and for collecting the prize money. The amount chargeable to tax in his hands in this regard is
 
-a) ₹20 lakhs (  
-b) ₹14 lakhs (  
-c) ₹19.40 lakhs (  
+a) ₹20 lakhs
+b) ₹14 lakhs
+c) ₹19.40 lakhs
 d) ₹13.40 lakhs
 
 ### 1 (ii) - 2 marks
 
-Mr. Bala is using a Computer for his personal purposes, but charges as business expenditure. This is the case of ________. (
+Mr. Bala is using a Computer for his personal purposes, but charges as business expenditure. This is the case of ________.
 
-a) Tax Planning (  
-b) Tax Avoidance (  
-c) Tax Management (  
+a) Tax Planning
+b) Tax Avoidance
+c) Tax Management
 d) Tax Evasion
 
 ### 1 (iii) - 2 marks
@@ -43,119 +43,119 @@ d) Tax Evasion
 Mr. Ganesh, a businessman, whose total income (before allowing deduction under section 80GG) for
 
 A.Y.2025-26 is ₹4,60,000, paid house rent at ₹12,000 p.m. in respect of residential accommodation occupied by him at Mumbai. What is the deduction allowable to him under section 80GG for  
-A.Y.2025-26 if he has exercised the option of shifting out of the default tax regime provided under section 115BAC(1A)? (  
-a) ₹98,000 (  
-b) ₹1,15,000 (  
-c) ₹60,000 (  
+A.Y.2025-26 if he has exercised the option of shifting out of the default tax regime provided under section 115BAC(1A)?
+a) ₹98,000
+b) ₹1,15,000
+c) ₹60,000
 d) ₹1,00,000
 
 ### 1 (iv) - 2 marks
 
-Where unit of assesse is located in an International Financial Services Centre(IFSC) and derive its income solely in foreign exchange, then MAT is applicable @____ under section 115JB (7). (
+Where unit of assesse is located in an International Financial Services Centre(IFSC) and derive its income solely in foreign exchange, then MAT is applicable @____ under section 115JB (7).
 
-a) 15% (  
-b) 7% (  
-c) 18.5% (  
+a) 15%
+b) 7%
+c) 18.5%
 d) 9%
 
 ### 1 (v) - 2 marks
 
-As per section 178(3), the ___________ of a company has to intimate the tax authority before he parts with any of the assets of the company or the properties in his hands and has to set aside the amount if any intimated to him by the tax authorities. (
+As per section 178(3), the ___________ of a company has to intimate the tax authority before he parts with any of the assets of the company or the properties in his hands and has to set aside the amount if any intimated to him by the tax authorities.
 
-a) Managing Director (  
-b) Manager (  
-c) Chartered Accountant (  
+a) Managing Director
+b) Manager
+c) Chartered Accountant
 d) Liquidator
 
 ### 1 (vi) - 2 marks
 
-What is the maximum of surcharge that can be applied on individual taxpayer in respect of income by way of long-term capital gain? (
+What is the maximum of surcharge that can be applied on individual taxpayer in respect of income by way of long-term capital gain?
 
-a) 25% (  
-b) 15% (  
-c) 37% (  
+a) 25%
+b) 15%
+c) 37%
 d) 10%
 
 ### 1 (vii) - 2 marks
 
-Abhisek was found to be the owner of jewellery worth ₹26,60,000 during the financial year ending 31.03.2025 which was not recorded in his books of account and he could not offer satisfactory explanation of the source of income for acquiring the same. How much of income-tax is payable by Abhisek under section 115BBE (including surcharge and cess, if any) for the said jewellery? (
+Abhisek was found to be the owner of jewellery worth ₹26,60,000 during the financial year ending 31.03.2025 which was not recorded in his books of account and he could not offer satisfactory explanation of the source of income for acquiring the same. How much of income-tax is payable by Abhisek under section 115BBE (including surcharge and cess, if any) for the said jewellery?
 
-a) ₹20,74,800 (  
-b) ₹15,95,000 (  
-c) ₹18,62,000 (  
+a) ₹20,74,800
+b) ₹15,95,000
+c) ₹18,62,000
 d) ₹20,00,000
 
 ### 1 (viii) - 2 marks
 
-In which financial transaction is quoting the 'Permanent Account Number' (PAN) compulsory? (
+In which financial transaction is quoting the 'Permanent Account Number' (PAN) compulsory?
 
-a) Cash payment of ₹40,000 to a hotel against a bill at any one time (  
-b) Sale or purchase of any immovable property valued at ₹4,00,000 (  
-c) Payment of ₹35,000 to RBI for acquiring bonds issued by it (  
+a) Cash payment of ₹40,000 to a hotel against a bill at any one time
+b) Sale or purchase of any immovable property valued at ₹4,00,000
+c) Payment of ₹35,000 to RBI for acquiring bonds issued by it
 d) Payment exceeding ₹50,000 to a mutual fund for purchase of its unit
 
 ### 1 (ix) - 2 marks
 
-XYZ company engaged in the business of manufacturing & Bio-technology incurs (i) expenditure on scientific research towards land ₹10 lakhs and building ₹12 lakhs; (ii) other capital expenditures ₹8 lakhs and (iii) revenue expenditure of ₹5 lakhs. The quantum of deduction under Section 35 (2AB) shall be (
+XYZ company engaged in the business of manufacturing & Bio-technology incurs (i) expenditure on scientific research towards land ₹10 lakhs and building ₹12 lakhs; (ii) other capital expenditures ₹8 lakhs and (iii) revenue expenditure of ₹5 lakhs. The quantum of deduction under Section 35 (2AB) shall be
 
-a) Nil (as the company engaged in the business of manufacturing & Bio-technology) (  
-b) ₹30 lakhs (100% of capital expenditure including cost of land & building) (  
-c) ₹25 lakhs (100% of total expenditure other than cost of land) (  
+a) Nil (as the company engaged in the business of manufacturing & Bio-technology)
+b) ₹30 lakhs (100% of capital expenditure including cost of land & building)
+c) ₹25 lakhs (100% of total expenditure other than cost of land)
 d) ₹23 lakhs (100% of total expenditure other than cost of building)
 
 ### 1 (x) - 2 marks
 
-Which section deals with methods of computation of arm's length price? (
+Which section deals with methods of computation of arm's length price?
 
-a) 92A (  
-b) 92C (  
-c) 92D (  
+a) 92A
+b) 92C
+c) 92D
 d) 92B
 
 ### 1 (xi) - 2 marks
 
 M/s. Potato Ltd. a company having international transactions of ₹3 crores related to purchase of raw materials from its subsidiary company M/s. Tomato Inc., in USA. M/s. Potato Ltd. is required to keep and maintain certain information and documents under section 92D for period of ______ years from the end of relevant
 
-A.Y. (  
-a) 5 (  
-b) 6 (  
-c) 10 (  
+A.Y.
+a) 5
+b) 6
+c) 10
 d) 8
 
 ### 1 (xii) - 2 marks
 
-When interest paid by an Indian company to a foreign company being an associated enterprise, such interest must not exceed ______ % of the Indian company's earnings before interest, taxes, depreciation and amortization (EBITDA). (
+When interest paid by an Indian company to a foreign company being an associated enterprise, such interest must not exceed ______ % of the Indian company's earnings before interest, taxes, depreciation and amortization (EBITDA).
 
-a) 10 (  
-b) 20 (  
-c) 30 (  
+a) 10
+b) 20
+c) 30
 d) 40
 
 ### 1 (xiii) - 2 marks
 
-If any person fails to keep and maintain any such information and document as required by sec. 92D in respect of an international transaction or specified domestic transaction, the Assessing Officer or Commissioner (Appeals) may direct that such person shall pay, by way of penalty, a sum equal to (
+If any person fails to keep and maintain any such information and document as required by sec. 92D in respect of an international transaction or specified domestic transaction, the Assessing Officer or Commissioner (Appeals) may direct that such person shall pay, by way of penalty, a sum equal to
 
-a) ₹5,00,000 (  
-b) 2% of the value of each international transaction or specified domestic transaction entered into by such person (  
-c) 1% of the value of each international transaction or specified domestic transaction entered into by such person (  
+a) ₹5,00,000
+b) 2% of the value of each international transaction or specified domestic transaction entered into by such person
+c) 1% of the value of each international transaction or specified domestic transaction entered into by such person
 d) ₹1,00,000
 
 ### 1 (xiv) - 2 marks
 
-Secondary adjustment is necessary when the primary adjustment surpasses what value? (
+Secondary adjustment is necessary when the primary adjustment surpasses what value?
 
-a) ₹50 lakhs (  
-b) ₹100 lakhs (  
-c) ₹300 lakhs (  
+a) ₹50 lakhs
+b) ₹100 lakhs
+c) ₹300 lakhs
 d) ₹500 lakhs
 
 ### 1 (xv) - 2 marks
 
-What is Berry Ratio in relation to the computation of the Arm’s length price of an international transaction? (
+What is Berry Ratio in relation to the computation of the Arm’s length price of an international transaction?
 
-a) Gross profit/ Operating Expenses (  
-b) EBITDA/Shareholder’s funds (  
-c) Net Profit/Gross profit (  
+a) Gross profit/ Operating Expenses
+b) EBITDA/Shareholder’s funds
+c) Net Profit/Gross profit
 d) Long term debts/Shareholders funds
 
 ### Answer:

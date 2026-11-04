@@ -134,10 +134,10 @@ d. Simulation
 Details of fixed overhead, production hours and production for a period are: Budgeted hours 10000 hours Standard fixed overheads per hour ₹10 Standard hours per unit of output 5 hours Actual production 1920 units Actual fixed overheads ₹94,000 Calculate fixed overhead cost variance.
 
 a. ₹3,000(F)  
-b. ₹3,000 (  
+b. ₹3,000
 A)  
 c. ₹2000(F)  
-d. ₹2000 (  
+d. ₹2000
 A)
 
 ### 1 (xiv) - 2 marks
