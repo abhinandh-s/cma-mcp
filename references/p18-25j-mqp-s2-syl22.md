@@ -22,137 +22,137 @@
 
 ### 1 (i) - 2 marks
 
-The _____________ of an item of property, plant and equipment shall be recognised as an asset if, and only if: (I) it is probable that ___________ associated with the item will flow to the entity; and (II) the ___________ of the item can be measured reliably. (
+The _____________ of an item of property, plant and equipment shall be recognised as an asset if, and only if: (I) it is probable that ___________ associated with the item will flow to the entity; and (II) the ___________ of the item can be measured reliably.
 
-a) cost, future economic benefits, cost (  
-b) future economic benefits, cost, future economic benefits (  
-c) cost, cost, cost (  
+a) cost, future economic benefits, cost
+b) future economic benefits, cost, future economic benefits
+c) cost, cost, cost
 d) future economic benefits, future economic benefits, future economic benefits
 
 ### 1 (ii) - 2 marks
 
-Q Ltd. acquired a 75% interest in R Ltd. on January 1, 2024. Q Ltd. paid ₹900 Lakhs in cash for their interest in R Ltd. The fair value of R Ltd.’s assets is ₹2,000 Lakhs, and the fair value of its liabilities is ₹920 Lakhs. NCI valued at Fair Value and at Proportionate Value are: (
+Q Ltd. acquired a 75% interest in R Ltd. on January 1, 2024. Q Ltd. paid ₹900 Lakhs in cash for their interest in R Ltd. The fair value of R Ltd.’s assets is ₹2,000 Lakhs, and the fair value of its liabilities is ₹920 Lakhs. NCI valued at Fair Value and at Proportionate Value are:
 
-a) ₹ 300 lakhs and ₹360 lakhs (  
-b) ₹225 lakhs and ₹270 lakhs (  
-c) ₹300 lakhs and ₹270 lakhs (  
+a) ₹ 300 lakhs and ₹360 lakhs
+b) ₹225 lakhs and ₹270 lakhs
+c) ₹300 lakhs and ₹270 lakhs
 d) ₹225 lakhs and ₹360 lakhs
 
 ### 1 (iii) - 2 marks
 
-Lease Rental and Hire-Purchase Assets will be treated as Non-Performing Assets (NPA) in case of NBFCs for the financial year ended 31st March, 2025 if __________. (
+Lease Rental and Hire-Purchase Assets will be treated as Non-Performing Assets (NPA) in case of NBFCs for the financial year ended 31st March, 2025 if __________.
 
-a) overdue for 3 months as on 31st March, 2025 (  
-b) overdue for 6 months as on 31st March, 2025 (  
-c) overdue for 9 months as on 31st March, 2025 (  
+a) overdue for 3 months as on 31st March, 2025
+b) overdue for 6 months as on 31st March, 2025
+c) overdue for 9 months as on 31st March, 2025
 d) overdue for 4 months as on 31st March, 2025
 
 ### 1 (iv) - 2 marks
 
-As per Ind AS 112: Disclosure of Interests in Other Entities, an entity shall disclose information about significant judgements and assumptions it has made (and changes to those judgements and assumptions) in determining (
+As per Ind AS 112: Disclosure of Interests in Other Entities, an entity shall disclose information about significant judgements and assumptions it has made (and changes to those judgements and assumptions) in determining
 
-a) that it has control of another entity, i.e. an investee as described in paragraphs 5 and 6 of Ind AS 110, Consolidated Financial Statements (  
-b) that it has joint control of an arrangement or significant influence over another entity (  
-c) the type of joint arrangement (i.e. joint operation or joint venture) when the arrangement has been structured through a separate vehicle (  
+a) that it has control of another entity, i.e. an investee as described in paragraphs 5 and 6 of Ind AS 110, Consolidated Financial Statements
+b) that it has joint control of an arrangement or significant influence over another entity
+c) the type of joint arrangement (i.e. joint operation or joint venture) when the arrangement has been structured through a separate vehicle
 d) All of the above
 
 ### 1 (v) - 2 marks
 
-Consolidated financial statements are required to be prepared by an Ind AS complied company if it holds shares in the investee company 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING (
+Consolidated financial statements are required to be prepared by an Ind AS complied company if it holds shares in the investee company 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING
 
-a) entailing 20% or more voting rights having significant influence over the investee company (called Associate as per Ind AS 28) Manager (  
-b) entailing joint control over the investee company (called a Joint Venture as per Ind AS 28) (  
-c) entailing control over investee company (called subsidiary company as per Ind AS 110) (  
+a) entailing 20% or more voting rights having significant influence over the investee company (called Associate as per Ind AS 28) Manager
+b) entailing joint control over the investee company (called a Joint Venture as per Ind AS 28)
+c) entailing control over investee company (called subsidiary company as per Ind AS 110)
 d) All of the above
 
 ### 1 (vi) - 2 marks
 
-GASAB stands for ______________. (
+GASAB stands for ______________.
 
-a) Government Accounting Standards Advisory Board (  
-b) Government Accounting Standards Applicability Board (  
-c) Government Auditing Standards Advisory Board (  
+a) Government Accounting Standards Advisory Board
+b) Government Accounting Standards Applicability Board
+c) Government Auditing Standards Advisory Board
 d) Government Accounting for States Advisory Board
 
 ### 1 (vii) - 2 marks
 
-On 1 January 2024, A Ltd. acquires 80 percent of the equity interests of B Ltd. in exchange for cash of ₹600 lakhs. The identifiable assets are measured at ₹925 lakhs and the liabilities assumed are measured at ₹150 lakhs. The fair value of the 20 percent non-controlling interest in P is ₹90 lakhs. The gain on bargain purchase will be - (
+On 1 January 2024, A Ltd. acquires 80 percent of the equity interests of B Ltd. in exchange for cash of ₹600 lakhs. The identifiable assets are measured at ₹925 lakhs and the liabilities assumed are measured at ₹150 lakhs. The fair value of the 20 percent non-controlling interest in P is ₹90 lakhs. The gain on bargain purchase will be -
 
-a) ₹90 lakhs (  
-b) ₹85 lakhs (  
-c) ₹105 lakhs (  
+a) ₹90 lakhs
+b) ₹85 lakhs
+c) ₹105 lakhs
 d) ₹75 lakhs
 
 ### 1 (viii) - 2 marks
 
-MILKYWAY Ltd. is conducting research in respect of attaching self-charging batteries in all its vehicles. It has already incurred ₹15 lakhs last year for this research. During the year (2024-25), it incurs ₹5,00,000 each month as a part of its research expenditure. On 01.05.2024, directors found that the research is successful and is going to bring a cash flow of ₹300 lakhs in the coming years to the company. Calculate the impact of the above transaction in the financial year ended 31st March, 2025 in the books of MILKYWAY Ltd. (
+MILKYWAY Ltd. is conducting research in respect of attaching self-charging batteries in all its vehicles. It has already incurred ₹15 lakhs last year for this research. During the year (2024-25), it incurs ₹5,00,000 each month as a part of its research expenditure. On 01.05.2024, directors found that the research is successful and is going to bring a cash flow of ₹300 lakhs in the coming years to the company. Calculate the impact of the above transaction in the financial year ended 31st March, 2025 in the books of MILKYWAY Ltd.
 
-a) Expenses ₹70 Lakh and Intangible Asset ₹300 Lakh (  
-b) Expenses ₹55 Lakh and Intangible Asset ₹15 Lakh (  
-c) Expenses ₹5 Lakh and Intangible Asset ₹55 Lakh (  
+a) Expenses ₹70 Lakh and Intangible Asset ₹300 Lakh
+b) Expenses ₹55 Lakh and Intangible Asset ₹15 Lakh
+c) Expenses ₹5 Lakh and Intangible Asset ₹55 Lakh
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-A Ltd. has a machine whose original cost was ₹1,20,000. The accumulated depreciation on the machine is ₹45,000. Similar machine has recently been sold in the same locality at ₹65,000 with selling expenses ₹4,000. Management determined the entity specific present value of future cash flows of the machine as ₹68,000. Impairment loss will be (
+A Ltd. has a machine whose original cost was ₹1,20,000. The accumulated depreciation on the machine is ₹45,000. Similar machine has recently been sold in the same locality at ₹65,000 with selling expenses ₹4,000. Management determined the entity specific present value of future cash flows of the machine as ₹68,000. Impairment loss will be
 
-a) ₹10,000 (  
-b) ₹6,000 (  
-c) ₹14,000 (  
+a) ₹10,000
+b) ₹6,000
+c) ₹14,000
 d) ₹7,000
 
 ### 1 (x) - 2 marks
 
-Narmada Ltd. owns a machinery which is carried in its Balance Sheet at the carrying amount of ₹15 million. The fair value of the machinery is ₹22.5 million. It exchanges this machinery for a building having a fair value of ₹30 million and pays additional cash of ₹4.5 million. As per the relevant Ind AS, the profit on exchange of machinery is: 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING (
+Narmada Ltd. owns a machinery which is carried in its Balance Sheet at the carrying amount of ₹15 million. The fair value of the machinery is ₹22.5 million. It exchanges this machinery for a building having a fair value of ₹30 million and pays additional cash of ₹4.5 million. As per the relevant Ind AS, the profit on exchange of machinery is: 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING
 
-a) ₹7.5 million (  
-b) ₹12 million (  
-c) ₹19.5 million (  
+a) ₹7.5 million
+b) ₹12 million
+c) ₹19.5 million
 d) None of the above
 
 ### 1 (xi) - 2 marks
 
-Mohan Ltd. held 50% of the voting power of Sohan Ltd. which is a joint venture of Mohan Ltd. The carrying value of the investment in Sohan Ltd. is ₹1,50,000. Now, out of the 50% stake, Mohan Ltd. sells 20% stake in Sohan Ltd. to a third party for a consideration of ₹1,20,000. The fair value of the retained 30% interest is ₹1,80,000. The gain or loss recorded by Mohan Ltd. in its profit or loss is: (
+Mohan Ltd. held 50% of the voting power of Sohan Ltd. which is a joint venture of Mohan Ltd. The carrying value of the investment in Sohan Ltd. is ₹1,50,000. Now, out of the 50% stake, Mohan Ltd. sells 20% stake in Sohan Ltd. to a third party for a consideration of ₹1,20,000. The fair value of the retained 30% interest is ₹1,80,000. The gain or loss recorded by Mohan Ltd. in its profit or loss is:
 
-a) Gain of ₹1,50,0006 (  
-b) Loss of ₹1,50,000 (  
-c) Gain of ₹90,000 (  
+a) Gain of ₹1,50,0006
+b) Loss of ₹1,50,000
+c) Gain of ₹90,000
 d) None of the above
 
 ### 1 (xii) - 2 marks
 
-ABC Ltd. reports quarterly and in the quarter ended 30.06.2024, it earned pre-tax profit of ₹3 crores but it expects to incur losses of ₹1 crore in each of three remaining quarters of the financial year. The tax rate on income is 30%. The management believes that since the company has zero income for the financial 2024-25, its income-tax expenses for the year will be zero. Calculate the amount of tax expenses to be reported in the first and fourth quarters. (
+ABC Ltd. reports quarterly and in the quarter ended 30.06.2024, it earned pre-tax profit of ₹3 crores but it expects to incur losses of ₹1 crore in each of three remaining quarters of the financial year. The tax rate on income is 30%. The management believes that since the company has zero income for the financial 2024-25, its income-tax expenses for the year will be zero. Calculate the amount of tax expenses to be reported in the first and fourth quarters.
 
-a) ₹90 lakhs and ₹Nil (  
-b) ₹Nil and ₹Nil (  
-c) ₹90 lakhs and ₹(30) lakhs (  
+a) ₹90 lakhs and ₹Nil
+b) ₹Nil and ₹Nil
+c) ₹90 lakhs and ₹(30) lakhs
 d) None of the above
 
 ### 1 (xiii) - 2 marks
 
-Mogari Ltd. provides the following financial data for the year ended 31st March, 2025: Net Operating Profit Before Interest and Tax: ₹17,50,000 Total Capital Employed: ₹80,00,000 Corporate Tax Rate: 30% Weighted Average Cost of Capital (WACC): 12%. The Economic Value Added (EVA) for Mogari Ltd. will be ________. (
+Mogari Ltd. provides the following financial data for the year ended 31st March, 2025: Net Operating Profit Before Interest and Tax: ₹17,50,000 Total Capital Employed: ₹80,00,000 Corporate Tax Rate: 30% Weighted Average Cost of Capital (WACC): 12%. The Economic Value Added (EVA) for Mogari Ltd. will be ________.
 
-a) ₹7,90,000 (  
-b) ₹5,25,000 (  
-c) ₹2,65,000 (  
+a) ₹7,90,000
+b) ₹5,25,000
+c) ₹2,65,000
 d) ₹6,50,000
 
 ### 1 (xiv) - 2 marks
 
-Surendra Ltd., a parent, sold goods costing ₹400 lakhs to its 80% subsidiary, Narendra Ltd., at ₹480 lakhs. 50% of these goods are lying in stock as of 31st March, 2024. Narendra Ltd. has measured this inventory at cost i.e., at ₹240 lakhs. The tax rate is 30%. The deferred tax to be shown in the consolidated financial statements is: (
+Surendra Ltd., a parent, sold goods costing ₹400 lakhs to its 80% subsidiary, Narendra Ltd., at ₹480 lakhs. 50% of these goods are lying in stock as of 31st March, 2024. Narendra Ltd. has measured this inventory at cost i.e., at ₹240 lakhs. The tax rate is 30%. The deferred tax to be shown in the consolidated financial statements is:
 
-a) ₹12 lakhs (  
-b) ₹60 lakhs (  
-c) ₹72 lakhs (  
+a) ₹12 lakhs
+b) ₹60 lakhs
+c) ₹72 lakhs
 d) ₹120 lakhs
 
 ### 1 (xv) - 2 marks
 
-Which of the following is not a general principal of Government Accounting? (
+Which of the following is not a general principal of Government Accounting?
 
-a) Reporting of Utilisation of Public Funds (  
-b) Expenditures are classified under Sectors, major heads, minor heads, sub-heads and detailed heads of Accounts (  
-c) Budget Based 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING (  
+a) Reporting of Utilisation of Public Funds
+b) Expenditures are classified under Sectors, major heads, minor heads, sub-heads and detailed heads of Accounts
+c) Budget Based 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING
 d) Single Entry System
 
 # SECTION – B
