@@ -117,11 +117,11 @@ d. None of the above.
 
 What is the labour rate variance if standard hours for 100 units of output are 400 @ ₹ 2 per hour and actual hours taken are 380 @ ₹ 2.25 per hour?
 
-a. ₹ 120 (  
+a. ₹ 120
 A)  
-b. ₹ 100 (  
+b. ₹ 100
 A)  
-c. ₹ 95 (  
+c. ₹ 95
 A)  
 d. ₹ 25 (F)
 
@@ -159,8 +159,8 @@ The minimum expected opportunity loss (EOL) is
 a. Equal to EVPI  
 b. Minimum regret  
 c. Equal to EMV  
-d. Both (  
-A) and (  
+d. Both
+A) and
 B) 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL ASNWERS TERM – JUNE 2024 PAPER – 12 SYLLABUS-2022 MANAGEMENT ACCOUNTING
 
 ### Answer:
