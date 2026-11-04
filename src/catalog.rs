@@ -92,9 +92,8 @@ pub fn catalog() -> &'static CatalogCache {
 
         let subject_catalog = format_subject_catalog(&subject_files);
         let general_instructions = build_general_instructions(&subject_catalog);
-        let tools_list_payload =
-            build_tools_list_payload(&subject_files, &reference_files, &subject_catalog);
-        let resources_list_payload = build_resources_list_payload(&subject_files, &reference_files);
+        let tools_list_payload = build_tools_list_payload(&subject_files, &subject_catalog);
+        let resources_list_payload = build_resources_list_payload(&subject_files);
         let prompts_list_payload = build_prompts_list_payload();
 
         CatalogCache {
@@ -168,15 +167,14 @@ fn build_prompts_list_payload() -> Value {
     })
 }
 
-fn build_resources_list_payload(subject_files: &[String], reference_files: &[String]) -> Value {
-    let mut resources = Vec::with_capacity(1 + subject_files.len() + reference_files.len());
+fn build_resources_list_payload(subject_files: &[String]) -> Value {
+    let mut resources = Vec::with_capacity(1 + subject_files.len());
     resources.push(json!({
         "uri": "cma://skills/general.md",
         "name": "General CMA Tutor Skill",
         "mimeType": "text/markdown",
         "description": "Core CMA tutoring blueprint active across all papers"
     }));
-
     for file in subject_files {
         resources.push(json!({
             "uri": format!("cma://skills/{file}"),
@@ -185,21 +183,11 @@ fn build_resources_list_payload(subject_files: &[String], reference_files: &[Str
             "description": "Subject-specific ICMAI CMA paper skill"
         }));
     }
-    for file in reference_files {
-        resources.push(json!({
-            "uri": format!("cma://references/{file}"),
-            "name": file,
-            "mimeType": "text/markdown",
-            "description": "ICMAI CMA PYQ / MQP / PTP reference document"
-        }));
-    }
-
     json!({ "resources": resources })
 }
 
 fn build_tools_list_payload(
     subject_files: &[String],
-    reference_files: &[String],
     subject_catalog: &str,
 ) -> Value {
     let mut skill_file_prop = json!({
@@ -237,6 +225,24 @@ fn build_tools_list_payload(
                 }
             },
             {
+                "name": "list_exam_papers",
+                "title": "List ICMAI Exam Paper References",
+                "description": "Search and page through available ICMAI PYQ, MQP, and PTP Markdown references. Filter by paper, term, document type, variant, or syllabus. Returned filenames can be passed to get_exam_paper or used with cma://references/{filename}.",
+                "inputSchema": {
+                    "type": "object",
+                    "properties": {
+                        "paper": {"type": "string", "description": "Paper code, e.g. p5, p7, p20c."},
+                        "term": {"type": "string", "description": "Exam term, e.g. 26j or 26d."},
+                        "doc_type": {"type": "string", "enum": ["pyq", "mqp", "ptp"]},
+                        "variant": {"type": "string", "enum": ["q", "sa", "s1", "s1a", "s2", "s2a", "a"]},
+                        "syllabus": {"type": "string", "description": "Syllabus code, e.g. syl22."},
+                        "limit": {"type": "integer", "minimum": 1, "maximum": 100, "description": "Maximum filenames to return (default 50, maximum 100)."},
+                        "offset": {"type": "integer", "minimum": 0, "description": "Zero-based pagination offset (default 0)."}
+                    }
+                },
+                "annotations": {"title": "List ICMAI Exam References", "readOnlyHint": true, "destructiveHint": false, "idempotentHint": true, "openWorldHint": false}
+            },
+            {
                 "name": "get_exam_paper",
                 "title": "Fetch ICMAI PYQ, MQP, or PTP Exam Material",
                 "description": format!(
@@ -246,7 +252,7 @@ fn build_tools_list_payload(
                     - PYQ shorthand: `p5 26j pyq` (Question Paper), `p5 26j pyq sa` (Suggested Answer)\n\
                     - MQP shorthand: `p5 26j mqp s1` (Set 1), `p5 26j mqp s1a` (Set 1 Answer), `p5 26j mqp s2` (Set 2), `p5 26j mqp s2a` (Set 2 Answer)\n\
                     - PTP shorthand: `p5 26j ptp` (Question Paper), `p5 26j ptp a` (Answer Key)\n\
-                    Available files: {reference_files:?}"
+                    Use `list_exam_papers` to discover available files."
                 ),
                 "inputSchema": {
                     "type": "object",

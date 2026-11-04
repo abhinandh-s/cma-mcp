@@ -80,8 +80,7 @@ pub fn handle_get_exam_paper(args: Option<&Map<String, Value>>, cat: &CatalogCac
         let Some(parsed_query) = RefQuery::parse(q_str) else {
             return tool_text_result(
                 format!(
-                    "Invalid ICMAI reference query '{q_str}'. Expected format like `p7-26d-mqp-s1-syl22.md`, `p5 26j pyq`, or `p5 26j mqp s1a`. Available files: {:?}",
-                    cat.reference_files
+                    "Invalid ICMAI reference query '{q_str}'. Expected format like `p7-26d-mqp-s1-syl22.md`, `p5 26j pyq`, or `p5 26j mqp s1a`. Use `list_exam_papers` to discover available files.",
                 ),
                 true,
             );
@@ -94,7 +93,6 @@ pub fn handle_get_exam_paper(args: Option<&Map<String, Value>>, cat: &CatalogCac
         return tool_text_result(
             format!(
                 "Provide either `query` (e.g. `p5 26j pyq sa`) or `paper` (`p1`..`p20c`). Available files: {:?}",
-                cat.reference_files
             ),
             true,
         );
@@ -161,6 +159,59 @@ pub fn handle_get_exam_paper(args: Option<&Map<String, Value>>, cat: &CatalogCac
     match_and_read_reference(&query, cat)
 }
 
+
+/// Lists reference filenames with optional filters and offset-based pagination.
+pub fn handle_list_exam_papers(args: Option<&Map<String, Value>>, cat: &CatalogCache) -> Value {
+    let get_str = |key: &str| args.and_then(|a| a.get(key)).and_then(Value::as_str)
+        .map(str::trim).filter(|s| !s.is_empty());
+    let paper = match get_str("paper") {
+        Some(raw) => match normalize_paper_code(raw) {
+            Some(code) => Some(code),
+            None => return tool_text_result(format!("Invalid paper '{raw}'. Expected p1..p20c."), true),
+        },
+        None => None,
+    };
+    let term = match get_str("term") {
+        Some(raw) if is_term_token(raw) => Some(raw.to_ascii_lowercase()),
+        Some(raw) => return tool_text_result(format!("Invalid term '{raw}'. Expected 26j or 26d."), true),
+        None => None,
+    };
+    let doc_type = match get_str("doc_type") {
+        Some(raw) => match DocType::parse(raw) {
+            Some(v) => Some(v),
+            None => return tool_text_result("Invalid doc_type. Expected pyq, mqp, or ptp.", true),
+        },
+        None => None,
+    };
+    let variant = match get_str("variant") {
+        Some(raw) => match PaperVariant::parse(raw) {
+            Some(v) => Some(v),
+            None => return tool_text_result("Invalid variant. Expected q, sa, s1, s1a, s2, s2a, or a.", true),
+        },
+        None => None,
+    };
+    let syllabus = get_str("syllabus").map(str::to_ascii_lowercase);
+    let limit = args.and_then(|a| a.get("limit")).and_then(Value::as_u64).unwrap_or(50).clamp(1, 100) as usize;
+    let offset = args.and_then(|a| a.get("offset")).and_then(Value::as_u64).unwrap_or(0) as usize;
+    let filtered: Vec<&str> = cat.indexed_refs.iter().filter(|item| {
+        let Some(spec) = item.spec.as_ref() else { return false; };
+        if paper.is_some_and(|v| v != spec.paper) { return false; }
+        if term.as_ref().is_some_and(|v| spec.term.as_ref() != Some(v)) { return false; }
+        if doc_type.is_some_and(|v| spec.doc_type != Some(v)) { return false; }
+        if variant.is_some_and(|v| spec.variant.unwrap_or(PaperVariant::Question) != v) { return false; }
+        if syllabus.as_ref().is_some_and(|v| spec.syllabus.as_ref() != Some(v)) { return false; }
+        true
+    }).map(|item| item.filename.as_str()).collect();
+    let total = filtered.len();
+    let start = offset.min(total);
+    let end = start.saturating_add(limit).min(total);
+    tool_text_result(json!({
+        "total": total, "offset": start, "limit": limit,
+        "next_offset": if end < total { Some(end) } else { None },
+        "files": &filtered[start..end]
+    }).to_string(), false)
+}
+
 fn match_and_read_reference(query: &RefQuery, cat: &CatalogCache) -> Value {
     let matches: Vec<&str> = cat
         .indexed_refs
@@ -182,7 +233,6 @@ fn match_and_read_reference(query: &RefQuery, cat: &CatalogCache) -> Value {
             tool_text_result(
                 format!(
                     "No reference file found matching `{prefix}`. Available files: {:?}",
-                    cat.reference_files
                 ),
                 true,
             )

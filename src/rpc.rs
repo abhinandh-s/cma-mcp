@@ -1,7 +1,7 @@
 use crate::catalog::{
     catalog, parse_skill, ReferenceAssets, SkillAssets, CACHE_TTL_MS, SERVER_NAME, SERVER_VERSION,
 };
-use crate::tools::{handle_get_exam_paper, handle_load_subject_skill};
+use crate::tools::{handle_get_exam_paper, handle_list_exam_papers, handle_load_subject_skill};
 use serde::{Deserialize, Serialize};
 use serde_json::{json, Value};
 
@@ -177,7 +177,15 @@ pub fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
 
         "resources/list" => cat.resources_list_payload.clone(),
 
-        "resources/templates/list" => json!({ "resourceTemplates": [] }),
+        "resources/templates/list" => json!({
+            "resourceTemplates": [{
+                "uriTemplate": "cma://references/{filename}",
+                "name": "ICMAI Exam Paper Reference",
+                "title": "ICMAI PYQ / MQP / PTP Reference",
+                "description": "Read an embedded Markdown reference by exact filename. Discover filenames with list_exam_papers.",
+                "mimeType": "text/markdown"
+            }]
+        }),
 
         "resources/read" => {
             let uri = rpc_req
@@ -235,6 +243,7 @@ pub fn process_rpc(rpc_req: RpcRequest) -> RpcOutcome {
                 "get_exam_paper" | "search_study_materials" | "get_reference_material" => {
                     handle_get_exam_paper(args, cat)
                 }
+                "list_exam_papers" => handle_list_exam_papers(args, cat),
                 _ => return rpc_err(rpc_req.id, -32602, &format!("Unknown tool: {tool_name}")),
             }
         }
