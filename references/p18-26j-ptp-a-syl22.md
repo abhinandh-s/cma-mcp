@@ -22,137 +22,137 @@
 
 ### 1 (i) - 2 marks
 
-A Ltd. enters into a contract to (i) construct a machine for ₹8,00,000, and (ii) supply spare parts worth ₹1,60,000 in the next financial year, which will be stored in A Ltd.’s warehouse and delivered over the following three years. An additional ₹20,000 per year is charged for custodial services. When should A Ltd. recognize revenue as per the contract? (
+A Ltd. enters into a contract to (i) construct a machine for ₹8,00,000, and (ii) supply spare parts worth ₹1,60,000 in the next financial year, which will be stored in A Ltd.’s warehouse and delivered over the following three years. An additional ₹20,000 per year is charged for custodial services. When should A Ltd. recognize revenue as per the contract?
 
-a) Entire revenue of ₹9,80,000 should be recognized in the year of contract. (  
-b) ₹8,00,000 and ₹1,60,000 should be recognized in the next year upon completion of construction, and ₹20,000 per year for the next 3 years for custodial services. (  
-c) ₹8,00,000 should be recognized over 3 years, ₹1,60,000 when spare parts are delivered, and ₹20,000 per year over 3 years. (  
+a) Entire revenue of ₹9,80,000 should be recognized in the year of contract.
+b) ₹8,00,000 and ₹1,60,000 should be recognized in the next year upon completion of construction, and ₹20,000 per year for the next 3 years for custodial services.
+c) ₹8,00,000 should be recognized over 3 years, ₹1,60,000 when spare parts are delivered, and ₹20,000 per year over 3 years.
 d) No revenue is recognized until all obligations—including delivery of spare parts over 3 years— are completed.
 
 ### 1 (ii) - 2 marks
 
-A Ltd. enters into a contract on 01.08.2024 to provide daily sanitisation services to a hotel for 3 years at ₹12,000 per month. The customer receives and consumes the benefit each day. What amount of revenue should A Ltd. recognize in the financial year 2024–25? (
+A Ltd. enters into a contract on 01.08.2024 to provide daily sanitisation services to a hotel for 3 years at ₹12,000 per month. The customer receives and consumes the benefit each day. What amount of revenue should A Ltd. recognize in the financial year 2024–25?
 
-a) ₹36,000 (  
-b) ₹48,000 (  
-c) ₹96,000 (  
+a) ₹36,000
+b) ₹48,000
+c) ₹96,000
 d) ₹1,44,000
 
 ### 1 (iii) - 2 marks
 
-A Ltd. Has a machine whose original cost was ₹45,000. The accumulated depreciation on the machine is ₹15,000. Similar machine has recently been sold in the same locality at ₹25,000 with selling expenses ₹2,000. Management determined the entity specific present value of future cash flows of the machine as ₹ 28,000. Find Recoverable amount. (
+A Ltd. Has a machine whose original cost was ₹45,000. The accumulated depreciation on the machine is ₹15,000. Similar machine has recently been sold in the same locality at ₹25,000 with selling expenses ₹2,000. Management determined the entity specific present value of future cash flows of the machine as ₹ 28,000. Find Recoverable amount.
 
-a) ₹23,000 (  
-b) ₹28,000 (  
-c) ₹25,000 (  
+a) ₹23,000
+b) ₹28,000
+c) ₹25,000
 d) None of these 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION ANSWERS TO PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING
 
 ### 1 (iv) - 2 marks
 
-As per Ind AS 112: Disclosure of Interests in Other Entities, an entity shall disclose information about significant judgements and assumptions it has made (and changes to those judgements and assumptions) in determining (
+As per Ind AS 112: Disclosure of Interests in Other Entities, an entity shall disclose information about significant judgements and assumptions it has made (and changes to those judgements and assumptions) in determining
 
-a) that it has control of another entity, i.e. an investee as described in paragraphs 5 and 6 of Ind AS 110, Consolidated Financial Statements (  
-b) that it has joint control of an arrangement or significant influence over another entity (  
-c) the type of joint arrangement (i.e. joint operation or joint venture) when the arrangement has been structured through a separate vehicle (  
+a) that it has control of another entity, i.e. an investee as described in paragraphs 5 and 6 of Ind AS 110, Consolidated Financial Statements
+b) that it has joint control of an arrangement or significant influence over another entity
+c) the type of joint arrangement (i.e. joint operation or joint venture) when the arrangement has been structured through a separate vehicle
 d) All of the above
 
 ### 1 (v) - 2 marks
 
-The ways of determining the value of goodwill using the capitalisation approach (
+The ways of determining the value of goodwill using the capitalisation approach
 
-a) Capitalisation of Average Profits (  
-b) Capitalisation of Super Profits (  
-c) Both a and b (  
+a) Capitalisation of Average Profits
+b) Capitalisation of Super Profits
+c) Both a and b
 d) Capitalisation of Average Future maintainable profit
 
 ### 1 (vi) - 2 marks
 
-C Ltd. acquires 60% of N Ltd. for ₹ 97,50,000. The fair value of its identifiable net assets is ₹1,50,00,000. The fair value of 40% of the equity shares owned by the non-controlling shareholders is ₹65,00,000. Carrying amount of N Ltd.'s net assets is ₹1,20,00,000. Calculate the value of goodwill when NCI is measured as proportionate share of identifiable net asset. (
+C Ltd. acquires 60% of N Ltd. for ₹ 97,50,000. The fair value of its identifiable net assets is ₹1,50,00,000. The fair value of 40% of the equity shares owned by the non-controlling shareholders is ₹65,00,000. Carrying amount of N Ltd.'s net assets is ₹1,20,00,000. Calculate the value of goodwill when NCI is measured as proportionate share of identifiable net asset.
 
-a) ₹12,50,000 (  
-b) ₹30,00,000 (  
-c) ₹7,50,000 (  
+a) ₹12,50,000
+b) ₹30,00,000
+c) ₹7,50,000
 d) ₹32,50,000
 
 ### 1 (vii) - 2 marks
 
-ABX Ltd. wants to determine the value of its goodwill using the annuity method. The given details are: Super Profit: ₹4,50,000; Normal Rate of Return: 12%; Present Value of an annuity of ₹1 for 4 years @ 12%: 3.0374. What will be the value of goodwill? (
+ABX Ltd. wants to determine the value of its goodwill using the annuity method. The given details are: Super Profit: ₹4,50,000; Normal Rate of Return: 12%; Present Value of an annuity of ₹1 for 4 years @ 12%: 3.0374. What will be the value of goodwill?
 
-a) ₹12,75,000 (  
-b) ₹13,66,830 (  
-c) ₹14,20,000 (  
+a) ₹12,75,000
+b) ₹13,66,830
+c) ₹14,20,000
 d) ₹15,00,500
 
 ### 1 (viii) - 2 marks
 
-On 1 January 2025 A Ltd. Acquires 80 percent of the equity interests of B Ltd in exchange of cash of ₹ 600 lakhs. The identifiable assets are measured at ₹925 lakh and the liabilities assumed are measured at ₹150 lakh. The fair value of the 20 per cent non-controlling interest in P is ₹ 90 lakhs. The gain on bargain purchase will be: (
+On 1 January 2025 A Ltd. Acquires 80 percent of the equity interests of B Ltd in exchange of cash of ₹ 600 lakhs. The identifiable assets are measured at ₹925 lakh and the liabilities assumed are measured at ₹150 lakh. The fair value of the 20 per cent non-controlling interest in P is ₹ 90 lakhs. The gain on bargain purchase will be:
 
-a) ₹90 lakhs (  
-b) ₹85 lakhs (  
-c) ₹105 lakhs (  
+a) ₹90 lakhs
+b) ₹85 lakhs
+c) ₹105 lakhs
 d) ₹75 lakhs 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION ANSWERS TO PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING
 
 ### 1 (ix) - 2 marks
 
-At what value is non-controlling interest recorded in the books of the Acquiree at the time of a business combination transaction under Ind AS 103? (
+At what value is non-controlling interest recorded in the books of the Acquiree at the time of a business combination transaction under Ind AS 103?
 
-a) It is recognised at fair value only (  
-b) It is recognised at proportionate fair value of identified net assets only (  
-c) It is not recognised at all (  
+a) It is recognised at fair value only
+b) It is recognised at proportionate fair value of identified net assets only
+c) It is not recognised at all
 d) It is recognised either at fair value or at proportionate fair value of identified net assets.
 
 ### 1 (x) - 2 marks
 
-Surendra Ltd., a parent, sold goods costing ₹400 lakhs to its 80% subsidiary, Narendra Ltd., at ₹480 lakhs. 50% of these goods are lying in stock as of 31st March, 2025. Narendra Ltd. has measured this inventory at cost i.e., at ₹240 lakhs. The tax rate is 30%. The deferred tax to be shown in the consolidated financial statements is: (
+Surendra Ltd., a parent, sold goods costing ₹400 lakhs to its 80% subsidiary, Narendra Ltd., at ₹480 lakhs. 50% of these goods are lying in stock as of 31st March, 2025. Narendra Ltd. has measured this inventory at cost i.e., at ₹240 lakhs. The tax rate is 30%. The deferred tax to be shown in the consolidated financial statements is:
 
-a) ₹12 lakhs (  
-b) ₹60 lakhs (  
-c) ₹72 lakhs (  
+a) ₹12 lakhs
+b) ₹60 lakhs
+c) ₹72 lakhs
 d) ₹120 lakhs
 
 ### 1 (xi) - 2 marks
 
-A Ltd acquires B Ltd by purchasing 70% of its equity for ₹ 17.5 lakh in cash. The fair value of non – controlling interest in determined as ₹12 lakh. The value of net identifiable assets and liabilities, as measured in accordance with Ind-AS 103 is determined as ₹ 8 Lakh. How much goodwill is recognized? (
+A Ltd acquires B Ltd by purchasing 70% of its equity for ₹ 17.5 lakh in cash. The fair value of non – controlling interest in determined as ₹12 lakh. The value of net identifiable assets and liabilities, as measured in accordance with Ind-AS 103 is determined as ₹ 8 Lakh. How much goodwill is recognized?
 
-a) ₹21.5 Lakh (  
-b) ₹ 19.5 Lakh (  
-c) ₹ 12.7 Lakh (  
+a) ₹21.5 Lakh
+b) ₹ 19.5 Lakh
+c) ₹ 12.7 Lakh
 d) None
 
 ### 1 (xii) - 2 marks
 
-__________ requires that when consolidated financial statements are prepared the investor company shall also prepare individual/standalone financial statements, which are named as separate financial statements. (
+__________ requires that when consolidated financial statements are prepared the investor company shall also prepare individual/standalone financial statements, which are named as separate financial statements.
 
-a) Ind AS 28 (  
-b) Ind AS 27 (  
-c) Ind AS 110 (  
+a) Ind AS 28
+b) Ind AS 27
+c) Ind AS 110
 d) Ind AS 112
 
 ### 1 (xiii) - 2 marks
 
-The Quadruple Bottom Line concept requires an organisation to measure and report on which four dimensions? (
+The Quadruple Bottom Line concept requires an organisation to measure and report on which four dimensions?
 
-a) Social, Environmental, Economic/Financial, and Legal (  
-b) Social, Ethical, Economic/Financial, and Spiritual (  
-c) Social, Environmental, Economic/Financial, and Spiritual (  
+a) Social, Environmental, Economic/Financial, and Legal
+b) Social, Ethical, Economic/Financial, and Spiritual
+c) Social, Environmental, Economic/Financial, and Spiritual
 d) Environmental, Ethical, Spiritual, and Cultural 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION ANSWERS TO PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 18 SYLLABUS 2022 CORPORATE FINANCIAL REPORTING
 
 ### 1 (xiv) - 2 marks
 
-International Integrated Reporting Council (IIRC) launched IR as a global framework in ___________ (
+International Integrated Reporting Council (IIRC) launched IR as a global framework in ___________
 
-a) November 2013 (  
-b) December 2012 (  
-c) November 2012 (  
+a) November 2013
+b) December 2012
+c) November 2012
 d) December 2013
 
 ### 1 (xv) - 2 marks
 
-Which of the following is not a feature of Government Accounting? (
+Which of the following is not a feature of Government Accounting?
 
-a) Non-fund based Accounting (  
-b) Double Entry System (  
-c) Adherence to Government Regulations (  
+a) Non-fund based Accounting
+b) Double Entry System
+c) Adherence to Government Regulations
 d) Transacting through Banks
 
 ### Answer:

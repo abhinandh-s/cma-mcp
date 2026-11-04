@@ -23,140 +23,140 @@
 
 ### 1 (i) - 2 marks
 
-_________ are set of standards for a company’s behavior used by a socially conscious investor to screen potential investments in the company (
+_________ are set of standards for a company’s behavior used by a socially conscious investor to screen potential investments in the company
 
-a) Environment (  
-b) Social (  
-c) Governance (  
+a) Environment
+b) Social
+c) Governance
 d) All of the above
 
 ### 1 (ii) - 2 marks
 
-Following are not within the scope of Management Accounting (
+Following are not within the scope of Management Accounting
 
-a) Financial Accounting (  
-b) Cost Accounting (  
-c) Tax Accounting (  
+a) Financial Accounting
+b) Cost Accounting
+c) Tax Accounting
 d) None of the above
 
 ### 1 (iii) - 2 marks
 
-In Activity Based Costing, Production Manager’s Salary is a ____________ level activity: (
+In Activity Based Costing, Production Manager’s Salary is a ____________ level activity:
 
-a) Unit (  
-b) Batch (  
-c) Product (  
+a) Unit
+b) Batch
+c) Product
 d) Facility
 
 ### 1 (iv) - 2 marks
 
-M Ltd., using Activity Based Costing (ABC), manufactures two types of products - P and Q respectively. During a period, the company incurred Rs. 1,00,000 as inspection cost and it worked for 20 and 30 production runs respectively for producing product P and Q. The inspection cost for product P under ABC System was _________ (
+M Ltd., using Activity Based Costing (ABC), manufactures two types of products - P and Q respectively. During a period, the company incurred Rs. 1,00,000 as inspection cost and it worked for 20 and 30 production runs respectively for producing product P and Q. The inspection cost for product P under ABC System was _________
 
-a) ₹20,000 (  
-b) ₹30,000 (  
-c) ₹40,000 (  
+a) ₹20,000
+b) ₹30,000
+c) ₹40,000
 d) ₹50,000 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
 ### 1 (v) - 2 marks
 
-M/s Super Trust Limited presently manufactures 5,000 units of a product at ₹ 10 each. The Company received an offer from a potential customer for 1,000 units of the same product. If the revised cost of production per unit is reduced to ₹ 9, what will be the minimum selling price per unit? (
+M/s Super Trust Limited presently manufactures 5,000 units of a product at ₹ 10 each. The Company received an offer from a potential customer for 1,000 units of the same product. If the revised cost of production per unit is reduced to ₹ 9, what will be the minimum selling price per unit?
 
-a) ₹4.50 (  
-b) ₹5.00 (  
-c) ₹4.00 (  
+a) ₹4.50
+b) ₹5.00
+c) ₹4.00
 d) ₹3.00
 
 ### 1 (vi) - 2 marks
 
-M/s Ahmed Corporation produces 5000 units of a particular product and sold 4000 units @ ₹20 each. If variable overheads and fixed overheads recovery rate is @ ₹10 & ₹3 respectively, profit of M/s Ahmed Corporation under Marginal costing and Absorption costing are: (
+M/s Ahmed Corporation produces 5000 units of a particular product and sold 4000 units @ ₹20 each. If variable overheads and fixed overheads recovery rate is @ ₹10 & ₹3 respectively, profit of M/s Ahmed Corporation under Marginal costing and Absorption costing are:
 
-a) ₹ 28,000 & ₹ 28,000 (  
-b) ₹ 25,000 & ₹ 28,000 (  
-c) ₹ 40,000 & ₹ 25,000 (  
+a) ₹ 28,000 & ₹ 28,000
+b) ₹ 25,000 & ₹ 28,000
+c) ₹ 40,000 & ₹ 25,000
 d) ₹ 28,000 & ₹ 40,000
 
 ### 1 (vii) - 2 marks
 
-Mr. Akash Sharma has the following two options: Particulars Old Car New Car Fixed cost ₹ 80,000 ₹ 1,30,000 Variable cost per km. ₹ 10 ₹ 8 The Indifference Point is: (
+Mr. Akash Sharma has the following two options: Particulars Old Car New Car Fixed cost ₹ 80,000 ₹ 1,30,000 Variable cost per km. ₹ 10 ₹ 8 The Indifference Point is:
 
-a) 20,000 Km (  
-b) 25,000 Km (  
-c) 16,250 Km (  
+a) 20,000 Km
+b) 25,000 Km
+c) 16,250 Km
 d) 8,000 Km
 
 ### 1 (viii) - 2 marks
 
 Division – A of Pharma Limited can sell 1900 units of its finished goods in open market at a selling price of ₹ 30 per unit. The production capacity of Division – A is 2000 units, variable cost per unit is ₹ 10 and fixed cost per unit is ₹ 7. Division – B of Pharma Limited requires 600 units of the same finished goods produced by Division –
 
-A. The Transfer price of Division – A is __________. (  
-a) ₹ 32.00 (  
-b) ₹ 23.33 (  
-c) ₹ 26.67 (  
+A. The Transfer price of Division – A is __________.
+a) ₹ 32.00
+b) ₹ 23.33
+c) ₹ 26.67
 d) ₹ 25.00
 
 ### 1 (ix) - 2 marks
 
-Standard material requires for 1 unit of finished goods is 5000 Kgs @ ₹ 10. If actual material required for 1 unit of finished goods is 6000 Kgs @ ₹ 12 and also 1000 Kgs @ ₹ 20 ordered on emergency basis by the production manager, the Material Price Variance is: (
+Standard material requires for 1 unit of finished goods is 5000 Kgs @ ₹ 10. If actual material required for 1 unit of finished goods is 6000 Kgs @ ₹ 12 and also 1000 Kgs @ ₹ 20 ordered on emergency basis by the production manager, the Material Price Variance is:
 
-a) ₹ 12,000 (Adverse) (  
-b) ₹ 22,000 (Adverse) (  
-c) ₹ 14,000 (Adverse) (  
+a) ₹ 12,000 (Adverse)
+b) ₹ 22,000 (Adverse)
+c) ₹ 14,000 (Adverse)
 d) ₹ 42,000 (Adverse) 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
 ### 1 (x) - 2 marks
 
-During March 2026, 27,000 direct labour hours were worked at an actual cost of ₹2,36,385 and the standard direct labour hours of production were 29,880. The standard direct labour cost per hour was ₹.8.50. What was the labour efficiency variance? (
+During March 2026, 27,000 direct labour hours were worked at an actual cost of ₹2,36,385 and the standard direct labour hours of production were 29,880. The standard direct labour cost per hour was ₹.8.50. What was the labour efficiency variance?
 
-a) ₹17,595 (  
-A) (  
-b) ₹17,595 (F) (  
-c) ₹24,480 (  
-A) (  
+a) ₹17,595
+A)
+b) ₹17,595 (F)
+c) ₹24,480
+A)
 d) ₹24,480 (F)
 
 ### 1 (xi) - 2 marks
 
-A ____________ is a budget which is continuously updated by adding a further accounting period when the earlier accounting period has expired. (
+A ____________ is a budget which is continuously updated by adding a further accounting period when the earlier accounting period has expired.
 
-a) Zero Base Budgeting (  
-b) Rolling Budget (  
-c) Continuous Budget (  
+a) Zero Base Budgeting
+b) Rolling Budget
+c) Continuous Budget
 d) Programme Budget
 
 ### 1 (xii) - 2 marks
 
-If Risk free rate of return is 10%, nifty rate of return is 14% and Beta factor of last five years are 0.68, 0.74, 1.20, 1.35 & 1.55, then Cost of Equity is: (
+If Risk free rate of return is 10%, nifty rate of return is 14% and Beta factor of last five years are 0.68, 0.74, 1.20, 1.35 & 1.55, then Cost of Equity is:
 
-a) 15.20% (  
-b) 16.20% (  
-c) 21.70% (  
+a) 15.20%
+b) 16.20%
+c) 21.70%
 d) 15.50%
 
 ### 1 (xiii) - 2 marks
 
-Responsibility Accounting is also known as ___________ Accounting. (
+Responsibility Accounting is also known as ___________ Accounting.
 
-a) Profitability (  
-b) Performance (  
-c) Financial (  
+a) Profitability
+b) Performance
+c) Financial
 d) Activity
 
 ### 1 (xiv) - 2 marks
 
-__________ is based on the principle of insufficient reason. (
+__________ is based on the principle of insufficient reason.
 
-a) The Minimax (Maximin) Criterion (  
-b) The Laplace Criterion (  
-c) The Savage Criterion (  
+a) The Minimax (Maximin) Criterion
+b) The Laplace Criterion
+c) The Savage Criterion
 d) The Hurwicz Criretion
 
 ### 1 (xv) - 2 marks
 
-Situation where a decision maker knows all of the possible outcomes of a decision and also knows the probability associated with each outcome is referred to as: (
+Situation where a decision maker knows all of the possible outcomes of a decision and also knows the probability associated with each outcome is referred to as:
 
-a) Certainty (  
-b) Risk (  
-c) Uncertainty (  
+a) Certainty
+b) Risk
+c) Uncertainty
 d) Strategy 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
 ### Answer:

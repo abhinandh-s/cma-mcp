@@ -22,137 +22,137 @@
 
 ### 1 (i) - 2 marks
 
-Mr. Somnath, a resident individual aged 56 years, is engaged in interior decoration activity. His gross receipt for the financial year ended 31st March 2026 was ₹18 lakhs and his total income as per books of account was ₹7,00,000. He did not opt out of the default tax regime. Which of the following statements is correct? (
+Mr. Somnath, a resident individual aged 56 years, is engaged in interior decoration activity. His gross receipt for the financial year ended 31st March 2026 was ₹18 lakhs and his total income as per books of account was ₹7,00,000. He did not opt out of the default tax regime. Which of the following statements is correct?
 
-A) He can opt section 44AD and estimate the income. (  
-B) He can opt section 44ADA and admit income @ 50% or more. (  
-C) He cannot opt either section 44AD or section 44ADA. (  
+A) He can opt section 44AD and estimate the income.
+B) He can opt section 44ADA and admit income @ 50% or more.
+C) He cannot opt either section 44AD or section 44ADA.
 D) He need not file return of income since his total income is less than ₹12 lakhs.
 
 ### 1 (ii) - 2 marks
 
-Axe Ltd, Mumbai filed its return of income for AY 2026-27 on 01.10.2026 declaring total income of ₹3,56,000. TDS credit for the year ended 31st March 2026 was ₹30,000. MAT credit under section 115JAA available is ₹12,000. The company has paid advance tax of ₹59,000 during F.Y.2025-26. How much is the interest payable under section 234B on the assumption that the company is liable to pay income-tax @ 25%? (
+Axe Ltd, Mumbai filed its return of income for AY 2026-27 on 01.10.2026 declaring total income of ₹3,56,000. TDS credit for the year ended 31st March 2026 was ₹30,000. MAT credit under section 115JAA available is ₹12,000. The company has paid advance tax of ₹59,000 during F.Y.2025-26. How much is the interest payable under section 234B on the assumption that the company is liable to pay income-tax @ 25%?
 
-A) No interest payable under section 234B (  
-B) ₹ 6,230 (  
-C) ₹ 5,340 (  
+A) No interest payable under section 234B
+B) ₹ 6,230
+C) ₹ 5,340
 D) ₹ 4,130
 
 ### 1 (iii) - 2 marks
 
-) Real Foundation, a charitable trust registered under section 12AB of the Income-tax Act, 1961 received ₹26 lakhs as donation during the financial year 2025-26 which includes anonymous donation of ₹4,00,000. What shall be the tax treatment of such anonymous donation in the hands of the trust? (
+) Real Foundation, a charitable trust registered under section 12AB of the Income-tax Act, 1961 received ₹26 lakhs as donation during the financial year 2025-26 which includes anonymous donation of ₹4,00,000. What shall be the tax treatment of such anonymous donation in the hands of the trust?
 
-A) Entire amount of anonymous donation shall be charged at the maximum marginal rate in the hands of the trust. (  
-B) Entire amount of anonymous donation shall be exempt in the hands of the trust. (  
-C) ₹1,00,000 shall be exempt and the remaining amount shall be charged at the rate of 30% (excluding surcharge and cess). (  
+A) Entire amount of anonymous donation shall be charged at the maximum marginal rate in the hands of the trust.
+B) Entire amount of anonymous donation shall be exempt in the hands of the trust.
+C) ₹1,00,000 shall be exempt and the remaining amount shall be charged at the rate of 30% (excluding surcharge and cess).
 D) ₹1,25,000 shall be exempt and the remaining amount shall be charged at the rate of 34.32% (including surcharge and cess).
 
 ### 1 (iv) - 2 marks
 
-) Pasupati (P) Ltd aggrieved by an order of the Commissioner of Appeals, filed appeal to Income Tax Appellate Tribunal (ITAT) on 31st August 2025. The tax liability involved was ₹7 lakhs. After 15 days of filing appeal, the company wishes to withdraw the appeal. Which of the following statements is correct in this regard? (
+) Pasupati (P) Ltd aggrieved by an order of the Commissioner of Appeals, filed appeal to Income Tax Appellate Tribunal (ITAT) on 31st August 2025. The tax liability involved was ₹7 lakhs. After 15 days of filing appeal, the company wishes to withdraw the appeal. Which of the following statements is correct in this regard?
 
-A) Once filed, the appeal to ITAT cannot be withdrawn. (  
-B) Appeal can be withdrawn within 30 days of filing. (  
-C) Appeal can be withdrawn at any time before the hearing of the case. (  
+A) Once filed, the appeal to ITAT cannot be withdrawn.
+B) Appeal can be withdrawn within 30 days of filing.
+C) Appeal can be withdrawn at any time before the hearing of the case.
 D) Appeal cannot be withdrawn as the tax amount involved is more than ₹5 lakhs.
 
 ### 1 (v) - 2 marks
 
-) What is the amount of penalty leviable under section 271A, for failure to comply with section 44AA, i.e., to keep or maintain books of accounts, documents etc.? (
+) What is the amount of penalty leviable under section 271A, for failure to comply with section 44AA, i.e., to keep or maintain books of accounts, documents etc.?
 
-A) ₹ 1,00,000 (  
-B) ₹ 25,000 (  
-C) 2% of the turnover / gross receipt amount (  
+A) ₹ 1,00,000
+B) ₹ 25,000
+C) 2% of the turnover / gross receipt amount
 D) ₹ 5,00,000
 
 ### 1 (vi) - 2 marks
 
-) Which among the following is not within the powers of the Central Board of Direct Taxes (CBDT)? (
+) Which among the following is not within the powers of the Central Board of Direct Taxes (CBDT)?
 
-A) Issue orders, instructions, and directions to other income-tax authorities as it may deem fit for the proper administration of the Income-tax Act. (  
-B) Admit an application or claim for any exemption, deduction, refund or any other relief under the Income-tax Act. (  
-C) Direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority. (  
+A) Issue orders, instructions, and directions to other income-tax authorities as it may deem fit for the proper administration of the Income-tax Act.
+B) Admit an application or claim for any exemption, deduction, refund or any other relief under the Income-tax Act.
+C) Direct that any income-tax authority or authorities specified in the notification shall be subordinate to such other income-tax authority.
 D) Amend sections in the Income-tax Act so as to make them easy to implement.
 
 ### 1 (vii) - 2 marks
 
-) What is the monetary limit in respect of taking loan or deposit in cash under section 269SS, in case the loan is taken from a primary agricultural credit society by its member? (
+) What is the monetary limit in respect of taking loan or deposit in cash under section 269SS, in case the loan is taken from a primary agricultural credit society by its member?
 
-A) ₹ 20,000. (  
-B) ₹ 2,00,000. (  
-C) No limit, provisions of section 269SS would not apply. (  
+A) ₹ 20,000.
+B) ₹ 2,00,000.
+C) No limit, provisions of section 269SS would not apply.
 D) ₹ 1,00,000.
 
 ### 1 (viii) - 2 marks
 
-) Desai was a resident in India till the FY 2024-25. In the financial year 2025-26, he moved to Germany and his residential status in India became “non-resident” in the financial year 2025-26. During the FY 2022-23, Desai acquired a house property in Germany for ₹5 crores but he never disclosed about this property to his tax authorities in India. On 4th May 2026, the Assessing Officer came to know about this house property and issued a notice under the Black Money Act, 2015. Which of the following option is correct in this regard? (
+) Desai was a resident in India till the FY 2024-25. In the financial year 2025-26, he moved to Germany and his residential status in India became “non-resident” in the financial year 2025-26. During the FY 2022-23, Desai acquired a house property in Germany for ₹5 crores but he never disclosed about this property to his tax authorities in India. On 4th May 2026, the Assessing Officer came to know about this house property and issued a notice under the Black Money Act, 2015. Which of the following option is correct in this regard?
 
-A) The Assessing Officer cannot issue notice to Desai, since he is presently a non-resident in India. (  
-B) The Assessing Officer can issue notice to Desai since he was a resident when the property was acquired. (  
-C) The Assessing Officer cannot issue notice to Desai, since the value of the property is less than ₹10 crores. (  
+A) The Assessing Officer cannot issue notice to Desai, since he is presently a non-resident in India.
+B) The Assessing Officer can issue notice to Desai since he was a resident when the property was acquired.
+C) The Assessing Officer cannot issue notice to Desai, since the value of the property is less than ₹10 crores.
 D) The Assessing Officer can issue notice to Desai, since the value of the property is more than ₹1 crore.
 
 ### 1 (ix) - 2 marks
 
-) Mitra & Co LLP was subjected to a survey under section 133A of the Act on 04.01.2026. During the course of survey, an undisclosed investment of ₹ 60 lakh was detected. The firm has brought forward business loss of ₹ 20 lakh of the assessment year 2025-26 and has regular business loss of ₹ 30 lakhs relating to the assessment year 2026-27 (without considering the undisclosed investment). How much is the tax liability of the firm for the assessment year 2026-27 in the light of facts given above? (
+) Mitra & Co LLP was subjected to a survey under section 133A of the Act on 04.01.2026. During the course of survey, an undisclosed investment of ₹ 60 lakh was detected. The firm has brought forward business loss of ₹ 20 lakh of the assessment year 2025-26 and has regular business loss of ₹ 30 lakhs relating to the assessment year 2026-27 (without considering the undisclosed investment). How much is the tax liability of the firm for the assessment year 2026-27 in the light of facts given above?
 
-A) ₹ 3,12,000 (  
-B) ₹ 9,36,000 (  
-C) ₹ 18,72,000 (  
+A) ₹ 3,12,000
+B) ₹ 9,36,000
+C) ₹ 18,72,000
 D) ₹ 46,80,000
 
 ### 1 (x) - 2 marks
 
-) Green Ltd., an Indian company, gives the following information with respect to its related parties: (i) Mr. X holds 51% equity shares in Green Ltd. (ii) Mrs. X holds 30% in Yellow Ltd. (iii) Green Ltd holds 11% share in Z Associates, a partnership firm. (iv) Green Ltd holds 27% of equity shares in P Ltd. Which of the above-mentioned entities will be deemed associated enterprise of X Ltd as per the provisions of section 92A? (
+) Green Ltd., an Indian company, gives the following information with respect to its related parties: (i) Mr. X holds 51% equity shares in Green Ltd. (ii) Mrs. X holds 30% in Yellow Ltd. (iii) Green Ltd holds 11% share in Z Associates, a partnership firm. (iv) Green Ltd holds 27% of equity shares in P Ltd. Which of the above-mentioned entities will be deemed associated enterprise of X Ltd as per the provisions of section 92A?
 
-A) Green Ltd, Yellow Ltd and Z Associates. (  
-B) Green Ltd, Yellow Ltd and P Ltd. (  
-C) Green Ltd and Z Associates. (  
+A) Green Ltd, Yellow Ltd and Z Associates.
+B) Green Ltd, Yellow Ltd and P Ltd.
+C) Green Ltd and Z Associates.
 D) Green Ltd, Z Associates and P Ltd.
 
 ### 1 (xi) - 2 marks
 
-) ABC Ltd applied for APA in June, 2025 and the APA was entered into on 20.11.2025. For which of the financial years, the APA would apply? (
+) ABC Ltd applied for APA in June, 2025 and the APA was entered into on 20.11.2025. For which of the financial years, the APA would apply?
 
-A) F.Y. 2025-26 to F.Y. 2029-30 (  
-B) F.Y. 2026-27 to F.Y. 2029-30 (  
-C) F.Y. 2025-26 to F.Y. 2028-29 (  
+A) F.Y. 2025-26 to F.Y. 2029-30
+B) F.Y. 2026-27 to F.Y. 2029-30
+C) F.Y. 2025-26 to F.Y. 2028-29
 D) F.Y. 2021-22 to F.Y. 2025-26
 
 ### 1 (xii) - 2 marks
 
-) If the assessee has accepted the enhancement of total income made by AO on account of determination of ALP by the TPO, what is the time limit for repatriation of excess money or part thereof for the purpose of section 92CE(2) to be reckoned as regards 90 days limitation? (
+) If the assessee has accepted the enhancement of total income made by AO on account of determination of ALP by the TPO, what is the time limit for repatriation of excess money or part thereof for the purpose of section 92CE(2) to be reckoned as regards 90 days limitation?
 
-A) From the ‘due date’ of filing of return under section 139(1). (  
-B) From the date of the assessment order of the AO. (  
-C) From the date of actual filing of return of income by the assessee. (  
+A) From the ‘due date’ of filing of return under section 139(1).
+B) From the date of the assessment order of the AO.
+C) From the date of actual filing of return of income by the assessee.
 D) From the date of such acceptance of the enhancement of total income by the assessee.
 
 ### 1 (xiii) - 2 marks
 
-) Miss Sunit, a resident individual earned ₹35,00,000 as consultancy income in Country Y on which she paid tax in country Y at the rate of 30%. Country Y does not have a Double Taxation Avoidance Agreement with India. Being a resident in India, her Country Y income also got included in her total income in India on which she needs to pay tax. She wants to know whether she can claim any relief of tax she has paid on consultancy income in Country Y. Which of the following statement is correct in this regard? (
+) Miss Sunit, a resident individual earned ₹35,00,000 as consultancy income in Country Y on which she paid tax in country Y at the rate of 30%. Country Y does not have a Double Taxation Avoidance Agreement with India. Being a resident in India, her Country Y income also got included in her total income in India on which she needs to pay tax. She wants to know whether she can claim any relief of tax she has paid on consultancy income in Country Y. Which of the following statement is correct in this regard?
 
-A) Sunita will not be able to get any relief of the tax paid in Country Y as there is no Double Taxation Avoidance Agreement between India and Country Y. (  
-B) Sunita will be able to get relief of the tax paid in Country Y though there is no Double Taxation Avoidance Agreement between India and Country Y. (  
-C) Sunita will be able to get relief of the tax paid in Country Y only if Country Y also provides tax credit to its residents in respect of the tax paid by them in India. (  
+A) Sunita will not be able to get any relief of the tax paid in Country Y as there is no Double Taxation Avoidance Agreement between India and Country Y.
+B) Sunita will be able to get relief of the tax paid in Country Y though there is no Double Taxation Avoidance Agreement between India and Country Y.
+C) Sunita will be able to get relief of the tax paid in Country Y only if Country Y also provides tax credit to its residents in respect of the tax paid by them in India.
 D) Sunita will be able to get relief of the tax paid in Country Y only if Country Y agrees to share income information of Indian residents from Country Y with Indian tax authorities.
 
 ### 1 (xiv) - 2 marks
 
-) AB Ltd, Chennai declared dividend in January,2026. PQ LLC, a company incorporated in Country X and a minority shareholder in AB Ltd is eligible to receive a dividend of ₹10 lakhs. If this dividend is taxable in both India and Country X, what would you call this method of taxation? (
+) AB Ltd, Chennai declared dividend in January,2026. PQ LLC, a company incorporated in Country X and a minority shareholder in AB Ltd is eligible to receive a dividend of ₹10 lakhs. If this dividend is taxable in both India and Country X, what would you call this method of taxation?
 
-A) Economic double taxation (  
-B) Juridical double taxation (  
-C) Non-exclusive single taxation (  
+A) Economic double taxation
+B) Juridical double taxation
+C) Non-exclusive single taxation
 D) Mutual double taxation
 
 ### 1 (xv) - 2 marks
 
-) What is the monetary limit of tax benefit obtained by abuse of the provisions of law so as to attract GAAR provisions? (
+) What is the monetary limit of tax benefit obtained by abuse of the provisions of law so as to attract GAAR provisions?
 
-A) ₹ 1 crore (  
-B) ₹ 3 crore (  
-C) ₹ 5 crore (  
+A) ₹ 1 crore
+B) ₹ 3 crore
+C) ₹ 5 crore
 D) ₹ 10 crore
 
 # SECTION – B

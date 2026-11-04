@@ -128,17 +128,17 @@ b) Accumulated non-controlling interest at the beginning of the reporting period
 c) The proportion of ownership interests held by non-controlling interests.  
 d) Accumulated non-controlling interest at the end of the reporting period. Choose correct option:  
 A. All the items are to be disclosed.  
-B. Items (  
-a), (  
-b) and (  
+B. Items
+a),
+b) and
 c) are to be disclosed.  
-C. Items (  
-b), (  
-c) and (  
+C. Items
+b),
+c) and
 d) are to be disclosed.  
-D. Items (  
-a), (  
-c) and (  
+D. Items
+a),
+c) and
 d) are to be disclosed.
 
 ### 1 (xiii) - 2 marks
