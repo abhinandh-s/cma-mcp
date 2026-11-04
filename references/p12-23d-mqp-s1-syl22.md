@@ -108,9 +108,9 @@ d. None of these
 
 Standard price of material per kg is ₹20, standard usage per unit of production is 5 kg. Actual usage of production 100 units is 520 kgs, all of which was purchase at the rate of ₹ 22 per kg. Material cost variance is
 
-a. ₹ 2,440 (  
+a. ₹ 2,440
 A)  
-b. ₹ 1,440 (  
+b. ₹ 1,440
 A)  
 c. ₹ 1,440 (F)  
 d. ₹ 2,300 (F)

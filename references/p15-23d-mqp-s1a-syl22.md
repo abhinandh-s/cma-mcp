@@ -23,138 +23,138 @@
 
 ### 1 (i) - 2 marks
 
-Moon Ltd. has received ₹ 99 lakhs (net of TDS) as dividend from a domestic company on 31st Dec 2023. It has distributed ₹ 105 Lakhs as dividend to its shareholders on 31st July 2023. What is the amount of deduction available to Moon Ltd. in respect of such dividend? (
+Moon Ltd. has received ₹ 99 lakhs (net of TDS) as dividend from a domestic company on 31st Dec 2023. It has distributed ₹ 105 Lakhs as dividend to its shareholders on 31st July 2023. What is the amount of deduction available to Moon Ltd. in respect of such dividend?
 
-a) ₹ 99 Lakhs (  
-b) ₹ 105 Lakhs (  
-c) ₹ 110 Lakhs (  
+a) ₹ 99 Lakhs
+b) ₹ 105 Lakhs
+c) ₹ 110 Lakhs
 d) Nil
 
 ### 1 (ii) - 2 marks
 
-Star Ltd. set up a manufacturing unit in Chennai on 1st August 2022. It invested ₹ 30 lakhs in new plant and machinery on 1st August 2022. It invested ₹ 50 lakhs in new plant and machinery on 1st Dec 2022, out of which ₹ 10 lakhs was second hand assets. What is the amount of depreciation allowed u/s 32 for the AY 2023-24? (
+Star Ltd. set up a manufacturing unit in Chennai on 1st August 2022. It invested ₹ 30 lakhs in new plant and machinery on 1st August 2022. It invested ₹ 50 lakhs in new plant and machinery on 1st Dec 2022, out of which ₹ 10 lakhs was second hand assets. What is the amount of depreciation allowed u/s 32 for the AY 2023-24?
 
-a) ₹ 8,25,000 (  
-b) ₹ 18,25,000 (  
-c) ₹ 26,00,000 (  
+a) ₹ 8,25,000
+b) ₹ 18,25,000
+c) ₹ 26,00,000
 d) ₹ 17,50,000
 
 ### 1 (iii) - 2 marks
 
-The book profit of Sun Ltd. is ₹ 40 lakhs and its total income is ₹ 18 lakhs. Calculate tax liability. (
+The book profit of Sun Ltd. is ₹ 40 lakhs and its total income is ₹ 18 lakhs. Calculate tax liability.
 
-a) ₹ 6,24,000 (  
-b) ₹ 5,61,600 (  
-c) ₹ 12,48,000 (  
+a) ₹ 6,24,000
+b) ₹ 5,61,600
+c) ₹ 12,48,000
 d) ₹ 2,80,800
 
 ### 1 (iv) - 2 marks
 
-A domestic company discloses its taxable income as ₹ 101 lakhs. What is the tax liability? (
+A domestic company discloses its taxable income as ₹ 101 lakhs. What is the tax liability?
 
-a) ₹ 32,24,000 (  
-b) ₹ 33,71,780 (  
-c) ₹ 31,51,200 (  
+a) ₹ 32,24,000
+b) ₹ 33,71,780
+c) ₹ 31,51,200
 d) ₹ 34,49,680
 
 ### 1 (v) - 2 marks
 
-A firm, which do not have book profits, can claim deduction u/s 40 (
+A firm, which do not have book profits, can claim deduction u/s 40
 
-b) to the extent of: (  
-a) 100% of payment (  
-b) ₹ 1,50,000 or 100% of payment, whichever is lower (  
-c) ₹ 1,50,000 or 100% of payment, whichever is higher (  
+b) to the extent of:
+a) 100% of payment
+b) ₹ 1,50,000 or 100% of payment, whichever is lower
+c) ₹ 1,50,000 or 100% of payment, whichever is higher
 d) ₹ 1,50,000
 
 ### 1 (vi) - 2 marks
 
-Assessment order in response to notice u/s 143(2) shall be completed within a period of: (
+Assessment order in response to notice u/s 143(2) shall be completed within a period of:
 
-a) 12 months from the end of relevant financial year (  
-b) 24 months from the end of relevant financial year (  
-c) 12 months from the end of relevant assessment year (  
+a) 12 months from the end of relevant financial year
+b) 24 months from the end of relevant financial year
+c) 12 months from the end of relevant assessment year
 d) 24 months from the end of relevant assessment year
 
 ### 1 (vii) - 2 marks
 
-Rounding off of tax in respect of which interest is to be calculated to nearest multiple of: (
+Rounding off of tax in respect of which interest is to be calculated to nearest multiple of:
 
-a) ₹ 100 (  
-b) ₹ 10 (  
-c) ₹ 1 (  
+a) ₹ 100
+b) ₹ 10
+c) ₹ 1
 d) Not required
 
 ### 1 (viii) - 2 marks
 
-Income Tax Appellate Tribunal can rectify its own order if it is: (
+Income Tax Appellate Tribunal can rectify its own order if it is:
 
-a) Apparent mistake (  
-b) Any mistake (  
-c) Any mistake other than apparent mistake (  
+a) Apparent mistake
+b) Any mistake
+c) Any mistake other than apparent mistake
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-Equalization levy is applicable if the aggregate amount of consideration for specified transactions exceeds: (
+Equalization levy is applicable if the aggregate amount of consideration for specified transactions exceeds:
 
-a) ₹ 10,000 (  
-b) ₹ 1,00,000 (  
-c) ₹ 10,00,000 (  
+a) ₹ 10,000
+b) ₹ 1,00,000
+c) ₹ 10,00,000
 d) ₹ 1 crore
 
 ### 1 (x) - 2 marks
 
-The relief where there is no Avoidance of Double Taxation Agreement, is: (
+The relief where there is no Avoidance of Double Taxation Agreement, is:
 
-a) Bilateral relief (  
-b) Specified relief (  
-c) Unilateral relief (  
+a) Bilateral relief
+b) Specified relief
+c) Unilateral relief
 d) No relief
 
 ### 1 (xi) - 2 marks
 
-If income is taxed twice in more than one country but in the hands of different tax payers is called: (
+If income is taxed twice in more than one country but in the hands of different tax payers is called:
 
-a) Juridical Double Taxation (  
-b) Economic Double Taxation (  
-c) Treaty Double Taxation (  
+a) Juridical Double Taxation
+b) Economic Double Taxation
+c) Treaty Double Taxation
 d) Deemed Double Taxation
 
 ### 1 (xii) - 2 marks
 
-Range concept principle is applied under Transfer Pricing if there is: (
+Range concept principle is applied under Transfer Pricing if there is:
 
-a) One reasonable price (  
-b) more than one reasonable price but not more than five (  
-c) More than five reasonable prices (  
+a) One reasonable price
+b) more than one reasonable price but not more than five
+c) More than five reasonable prices
 d) None of the above
 
 ### 1 (xiii) - 2 marks
 
-Specified Domestic Transactions are covered under Transfer Pricing Provisions if aggregate value of such transactions exceeds: (
+Specified Domestic Transactions are covered under Transfer Pricing Provisions if aggregate value of such transactions exceeds:
 
-a) ₹ 5 Crores (  
-b) ₹ 10 crores (  
-c) ₹ 20 crores (  
+a) ₹ 5 Crores
+b) ₹ 10 crores
+c) ₹ 20 crores
 d) No limit
 
 ### 1 (xiv) - 2 marks
 
-The time limit for passing an order by Transfer pricing officer is within: (
+The time limit for passing an order by Transfer pricing officer is within:
 
-a) 2 years from the end of financial year of reference made (  
-b) 1 year from the end of financial year of reference made (  
-c) No time limit (  
+a) 2 years from the end of financial year of reference made
+b) 1 year from the end of financial year of reference made
+c) No time limit
 d) None of the above
 
 ### 1 (xv) - 2 marks
 
-Yogi Ltd. of Varanasi, India exports “Product X” to YO Ltd of Tokyo, Japan an associated enterprise for ₹ 5,300 per product. Yogi Ltd. also exports similar product to Y Ltd and OY Ltd, who are unrelated for ₹ 5,350 and ₹ 5,550 respectively. What is the price considered to compute profits from transaction with YO Ltd? (
+Yogi Ltd. of Varanasi, India exports “Product X” to YO Ltd of Tokyo, Japan an associated enterprise for ₹ 5,300 per product. Yogi Ltd. also exports similar product to Y Ltd and OY Ltd, who are unrelated for ₹ 5,350 and ₹ 5,550 respectively. What is the price considered to compute profits from transaction with YO Ltd?
 
-a) ₹ 5,400 (  
-b) ₹ 5,300 (  
-c) ₹ 5,450 (  
+a) ₹ 5,400
+b) ₹ 5,300
+c) ₹ 5,450
 d) None of the above
 
 ### Answer:
