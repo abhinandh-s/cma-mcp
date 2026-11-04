@@ -24,138 +24,138 @@
 
 Mr. Chita Ranjan, aged 65 years, is a non-resident individual. His total income for the financial year 2024– 25 amounts to ₹1,01,00,000. He has opted out of the default tax regime under section 115BAC. The Tax liability (including Cess) of Chita Ranjan for
 
-A.Y.2025-26 is (  
-a) ₹33,21,500 (  
-b) ₹31,93,750 (  
-c) ₹32,68,875 (  
+A.Y.2025-26 is
+a) ₹33,21,500
+b) ₹31,93,750
+c) ₹32,68,875
 d) ₹30,93,750
 
 ### 1 (ii) - 2 marks
 
 Mr. Mithai Lal purchased a residential house property on 28th June 2022 for ₹10,00,000 and incurred additional expenditure of ₹3,00,000 on improvements in July 2022. He sold the house property in March 2024 for ₹25,00,000. Out of the sale proceeds, he invested ₹10,00,000 in purchasing another residential house in August 2024. What is the amount of capital gains taxable in the hands of Mr. Mithai Lal for the
 
-A.Y. 2025-26? (  
-a) ₹2,00,000 (  
-b) ₹12,00,000 (  
-c) ₹5,00,000 (  
+A.Y. 2025-26?
+a) ₹2,00,000
+b) ₹12,00,000
+c) ₹5,00,000
 d) ₹15,00,000
 
 ### 1 (iii) - 2 marks
 
-Mr. Jhunjhunwala, a property dealer, sold a flat in Kolkata to his friend Mr. Satyam, a trader, on 15th August 2024 for ₹2.25 crores. The stamp duty value of the property on the date of sale was ₹2.50 crores. Mr. Jhunjhunwala had purchased the flat on 25th October 2023 for ₹2 crores, and the stamp duty value on that date was also ₹2 crores. Based on the above information, what are the correct tax implications under the Income-tax Act, 1961? (
+Mr. Jhunjhunwala, a property dealer, sold a flat in Kolkata to his friend Mr. Satyam, a trader, on 15th August 2024 for ₹2.25 crores. The stamp duty value of the property on the date of sale was ₹2.50 crores. Mr. Jhunjhunwala had purchased the flat on 25th October 2023 for ₹2 crores, and the stamp duty value on that date was also ₹2 crores. Based on the above information, what are the correct tax implications under the Income-tax Act, 1961?
 
-a) ₹50 lakhs would be taxable as short-term capital gains in the hands of Mr. Jhunjhunwala. There would be no tax implication in the hands of Mr. Satyam. (  
-b) ₹50 lakhs would be taxable as business income in the hands of Mr. Jhunjhunwala. There would be no tax implication in the hands of Mr. Satyam. (  
-c) ₹50 lakhs would be taxable as business income in the hands of Mr. Jhunjhunwala and ₹25 lakhs would be taxable as income from other sources in the hands of Mr. Satyam. (  
+a) ₹50 lakhs would be taxable as short-term capital gains in the hands of Mr. Jhunjhunwala. There would be no tax implication in the hands of Mr. Satyam.
+b) ₹50 lakhs would be taxable as business income in the hands of Mr. Jhunjhunwala. There would be no tax implication in the hands of Mr. Satyam.
+c) ₹50 lakhs would be taxable as business income in the hands of Mr. Jhunjhunwala and ₹25 lakhs would be taxable as income from other sources in the hands of Mr. Satyam.
 d) ₹50 lakhs would be taxable as short-term capital gains in the hands of Mr. Jhunjhunwala and ₹25 lakhs would be taxable as income from other sources in the hands of Mr. Satyam.
 
 ### 1 (iv) - 2 marks
 
-Every company to whom the provisions of MAT apply is required to obtain a report from a chartered accountant in Form No. _____ on or before the due date of filing the return of income. (
+Every company to whom the provisions of MAT apply is required to obtain a report from a chartered accountant in Form No. _____ on or before the due date of filing the return of income.
 
-a) 29 (  
-b) 29A (  
-c) 29B (  
+a) 29
+b) 29A
+c) 29B
 d) 29C
 
 ### 1 (v) - 2 marks
 
-Under the provisions of the Income-tax Act, 1961, a return of income can be revised under Section 139(5) if it was originally filed under which of the following sections? (
+Under the provisions of the Income-tax Act, 1961, a return of income can be revised under Section 139(5) if it was originally filed under which of the following sections?
 
-a) 139(1) (  
-b) 139(4) (  
-c) 139(5) (  
+a) 139(1)
+b) 139(4)
+c) 139(5)
 d) All of the above
 
 ### 1 (vi) - 2 marks
 
-Provisions relating to advance ruling are provided in sections _______. (
+Provisions relating to advance ruling are provided in sections _______.
 
-a) 80C to 80U (  
-b) 245A to 245L (  
-c) 237 to 245 (  
+a) 80C to 80U
+b) 245A to 245L
+c) 237 to 245
 d) 245N to 245V
 
 ### 1 (vii) - 2 marks
 
-If the amount of income in respect of which the penalty is imposed or imposable for the relevant year(s) exceeds _______, then no order reducing or waiving the penalty under section 273A (1) shall be made by the Principal Commissioner or Commissioner, except with the previous approval of the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General, as the case may be. (
+If the amount of income in respect of which the penalty is imposed or imposable for the relevant year(s) exceeds _______, then no order reducing or waiving the penalty under section 273A (1) shall be made by the Principal Commissioner or Commissioner, except with the previous approval of the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General, as the case may be.
 
-a) ₹1,00,000 (  
-b) ₹2,00,000 (  
-c) ₹5,00,000 (  
+a) ₹1,00,000
+b) ₹2,00,000
+c) ₹5,00,000
 d) ₹10,00,000
 
 ### 1 (viii) - 2 marks
 
-In the year restructuring, depreciation shall be: (
+In the year restructuring, depreciation shall be:
 
-a) available to the successor company fully (  
-b) apportioned between successor and predecessor on the basis of number of days (  
-c) available to the predecessor company fully (  
+a) available to the successor company fully
+b) apportioned between successor and predecessor on the basis of number of days
+c) available to the predecessor company fully
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-Mr. Subrata, a salaried individual, paid brokerage of ₹46 lakhs to Mr. Sudip, a broker, on 12th January 2025 for purchasing a residential house. His father, Mr. Bhima, a retired pensioner, made contract payments of ₹18 lakhs, ₹23 lakhs, and ₹15 lakhs on 26th September 2024, 3rd November 2024, and 12th February 2025 respectively, to Mr. Manoj, a contractor, for the reconstruction of his residential house. Based on the provisions of the Income-tax Act, 1961, what is the correct TDS implication for these transactions? (
+Mr. Subrata, a salaried individual, paid brokerage of ₹46 lakhs to Mr. Sudip, a broker, on 12th January 2025 for purchasing a residential house. His father, Mr. Bhima, a retired pensioner, made contract payments of ₹18 lakhs, ₹23 lakhs, and ₹15 lakhs on 26th September 2024, 3rd November 2024, and 12th February 2025 respectively, to Mr. Manoj, a contractor, for the reconstruction of his residential house. Based on the provisions of the Income-tax Act, 1961, what is the correct TDS implication for these transactions?
 
-a) Neither Mr. Subrata nor Mr. Bhima is required to deduct tax at source, since they are not subject to tax audit, being a salaried individual and a pensioner, respectively. (  
-b) Both Mr. Subrata and Mr. Bhima are required to deduct tax at source under the provisions of the Income-tax Act, even though they are not subject to tax audit. (  
-c) Mr. Subrata is required to deduct tax at source, but Mr. Bhima is not required to deduct tax at source. (  
+a) Neither Mr. Subrata nor Mr. Bhima is required to deduct tax at source, since they are not subject to tax audit, being a salaried individual and a pensioner, respectively.
+b) Both Mr. Subrata and Mr. Bhima are required to deduct tax at source under the provisions of the Income-tax Act, even though they are not subject to tax audit.
+c) Mr. Subrata is required to deduct tax at source, but Mr. Bhima is not required to deduct tax at source.
 d) Mr. Bhima is required to deduct tax at source, but Mr. Subrata is not required to deduct tax at source.
 
 ### 1 (x) - 2 marks
 
-As per sec. 94B, interest expenses claimed by an entity to its associated enterprises shall be restricted to _____ of its earnings before interest, taxes, depreciation and amortization (EBITDA) or interest paid or payable to associated enterprise, whichever is less (
+As per sec. 94B, interest expenses claimed by an entity to its associated enterprises shall be restricted to _____ of its earnings before interest, taxes, depreciation and amortization (EBITDA) or interest paid or payable to associated enterprise, whichever is less
 
-a) 30% (  
-b) 25% (  
-c) 20% (  
+a) 30%
+b) 25%
+c) 20%
 d) 10%
 
 ### 1 (xi) - 2 marks
 
-Potato Ltd. filed its return of income with suo moto adjustment of ₹300 lakhs in respect of ALP of its transactions with its associated enterprise. Within how many days the amount secondary adjustment must be repatriated to India in order to avoid interest under section 92CE read with rule 10CB? (
+Potato Ltd. filed its return of income with suo moto adjustment of ₹300 lakhs in respect of ALP of its transactions with its associated enterprise. Within how many days the amount secondary adjustment must be repatriated to India in order to avoid interest under section 92CE read with rule 10CB?
 
-a) Within 90 days from the end of the assessment year (  
-b) Within 120 days from the date of filing ITR (  
-c) Within 90 days from the ‘due date’ specified in section 139(1) (  
+a) Within 90 days from the end of the assessment year
+b) Within 120 days from the date of filing ITR
+c) Within 90 days from the ‘due date’ specified in section 139(1)
 d) Within 30 days from the end of the assessment year
 
 ### 1 (xii) - 2 marks
 
-In the assessment of Amit (P) Ltd. there was increase in income by way of arm’s length price adjustment of ₹200 lakhs. The assessee decided to pay additional income-tax instead of making secondary adjustment. What is the tax rate at which the additional income-tax is payable by the assesse? (
+In the assessment of Amit (P) Ltd. there was increase in income by way of arm’s length price adjustment of ₹200 lakhs. The assessee decided to pay additional income-tax instead of making secondary adjustment. What is the tax rate at which the additional income-tax is payable by the assesse?
 
-a) 10.92% (  
-b) 16.692% (  
-c) 20.9664% (  
+a) 10.92%
+b) 16.692%
+c) 20.9664%
 d) 23.296%
 
 ### 1 (xiii) - 2 marks
 
-For ALP Inc. of Italy which of the following would mean that it has a Permanent Establishment (PE) in India? (
+For ALP Inc. of Italy which of the following would mean that it has a Permanent Establishment (PE) in India?
 
-a) Use of facilities solely for the purpose of storage or display goods belonging to the enterprise. (  
-b) Operating a factory in India (  
-c) Maintenance of goods belonging to the enterprise solely for the purpose of processing by another enterprise. (  
+a) Use of facilities solely for the purpose of storage or display goods belonging to the enterprise.
+b) Operating a factory in India
+c) Maintenance of goods belonging to the enterprise solely for the purpose of processing by another enterprise.
 d) Maintenance of fixed place of business solely for the purpose of purchasing goods or merchandise or of collecting information, for the enterprise.
 
 ### 1 (xiv) - 2 marks
 
-Which of the following method of computing arm’s length price is not a ‘Transaction Based Method’? (
+Which of the following method of computing arm’s length price is not a ‘Transaction Based Method’?
 
-a) Comparable Uncontrolled Price Method (  
-b) Resale Price method (  
-c) Cost Plus Method (  
+a) Comparable Uncontrolled Price Method
+b) Resale Price method
+c) Cost Plus Method
 d) Profit Split Method
 
 ### 1 (xv) - 2 marks
 
 A sold a machine to B (associated enterprise) and in turn B sold the same machinery to C (an independent party) at sale margin of 30% for ₹4,00,000 but B has incurred ₹4,000 in sending the machine to
 
-C. From the above data, what is the arm’s length price of the machine? (  
-a) ₹2,80,000 (  
-b) ₹2,76,000 (  
-c) ₹2,96,000 (  
+C. From the above data, what is the arm’s length price of the machine?
+a) ₹2,80,000
+b) ₹2,76,000
+c) ₹2,96,000
 d) ₹3,00,000
 
 # SECTION – B
