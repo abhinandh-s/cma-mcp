@@ -71,19 +71,19 @@ d) ₹20,000
 Calculate the material price variance from the following: Actual Quantity - 3.5 kgs Standard Price - ₹ 4 per kg Actual Price - ₹ 8 per kg Standard Quantity - 4 kgs 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 2 MODEL QUESTION PAPER TERM – DECEMBER 2024 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
 a) ₹ 3(F)  
-b) ₹ 14 (  
+b) ₹ 14
 A)  
-c) ₹ 12 (  
+c) ₹ 12
 A)  
 d) ₹ 6 (F)
 
 ### 1 (vii) - 2 marks
 
-In the context of cost accounting, what does the term 'relevant cost' refer to? (
+In the context of cost accounting, what does the term 'relevant cost' refer to?
 
-a) Costs that have already been incurred and cannot be changed (  
-b) Costs that are pertinent to a specific decision and will be directly affected by that decision (  
-c) Costs that are allocated equally across all products (  
+a) Costs that have already been incurred and cannot be changed
+b) Costs that are pertinent to a specific decision and will be directly affected by that decision
+c) Costs that are allocated equally across all products
 d) Costs that are used to determine standard pricing.
 
 ### 1 (viii) - 2 marks
@@ -97,7 +97,7 @@ d) 1.5
 
 ### 1 (ix) - 2 marks
 
-During September, 400 labour hours were worked for a total cost of ₹ 8,800. The variable overhead expenditure variance was ₹ 800 (
+During September, 400 labour hours were worked for a total cost of ₹ 8,800. The variable overhead expenditure variance was ₹ 800
 
 A). Overheads are assumed to be related to direct labour hours of active working. What was the standard cost per labour hour?  
 a) ₹ 20  
