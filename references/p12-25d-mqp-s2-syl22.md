@@ -23,140 +23,140 @@ I. Choose the correct option: [15 x 2 =30]
 
 ### 1 (i) - 2 marks
 
-The primary objective of Management Accounting is to ___________________. (
+The primary objective of Management Accounting is to ___________________.
 
-a) maximize profits (  
-b) minimize losses (  
-c) maximize profits or minimize losses (  
+a) maximize profits
+b) minimize losses
+c) maximize profits or minimize losses
 d) All of the above
 
 ### 1 (ii) - 2 marks
 
-The purpose of management accounting is to help _______make decisions. (
+The purpose of management accounting is to help _______make decisions.
 
-a) Managers (  
-b) Investors (  
-c) Marketers (  
+a) Managers
+b) Investors
+c) Marketers
 d) Banks
 
 ### 1 (iii) - 2 marks
 
-In an ABC system, which of the following is likely to be classified as a batch level activity? (
+In an ABC system, which of the following is likely to be classified as a batch level activity?
 
-a) Machine set-up (  
-b) Product design (  
-c) Inspection of every item produced (  
+a) Machine set-up
+b) Product design
+c) Inspection of every item produced
 d) Production manager’s work
 
 ### 1 (iv) - 2 marks
 
-Process of Cost allocation under Activity Based Costing is: (
+Process of Cost allocation under Activity Based Costing is:
 
-a) Cost of Activities—Activities —Cost Driver – Cost allocated to cost objects (  
-b) Cost Driver — Cost of Activities— Cost allocated to cost objects – Activities (  
-c) Activities— Cost of Activities—Cost Driver – Cost allocated to cost objects (  
+a) Cost of Activities—Activities —Cost Driver – Cost allocated to cost objects
+b) Cost Driver — Cost of Activities— Cost allocated to cost objects – Activities
+c) Activities— Cost of Activities—Cost Driver – Cost allocated to cost objects
 d) Activities—Cost Driver – Cost allocated to cost objects — Cost of Activities
 
 ### 1 (v) - 2 marks
 
-Determine sales in units for desired profit if Fixed cost is ₹15,000, desired profit is ₹5,000 Selling price per unit is ₹20 and Variable cost per unit is ₹16. (
+Determine sales in units for desired profit if Fixed cost is ₹15,000, desired profit is ₹5,000 Selling price per unit is ₹20 and Variable cost per unit is ₹16.
 
-a) ₹5,000 units (  
-b) ₹ 5,000 units (  
-c) ₹ 10,000 units (  
+a) ₹5,000 units
+b) ₹ 5,000 units
+c) ₹ 10,000 units
 d) ₹10,000 units
 
 ### 1 (vi) - 2 marks
 
 Determine
 
-B.E.P. if sales is ₹1,00,000, variable cost is ₹50,000 and profit ₹20,000: (  
-a) ₹60,000 (  
-b) ₹40,000 (  
-c) ₹80,000 (  
+B.E.P. if sales is ₹1,00,000, variable cost is ₹50,000 and profit ₹20,000:
+a) ₹60,000
+b) ₹40,000
+c) ₹80,000
 d) None of the above Directorate of Studies, The Institute of Cost Accountants of India 1 INTERMEDIATE EXAMINATION SET 2 MODEL QUESTION PAPER TERM – DECEMBER 2025 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
 ### 1 (vii) - 2 marks
 
-Fixed cost includes: (
+Fixed cost includes:
 
-a) Property taxes (  
-b) Rent (  
-c) Insurance premium (  
+a) Property taxes
+b) Rent
+c) Insurance premium
 d) All of the above
 
 ### 1 (viii) - 2 marks
 
-M Group has two divisions; Division P and Division Q. Division P manufactures an item that is transferred to Division Q. The item has no external market and 6,000 units produced are transferred internally each year. The costs of each division are as follows? Division P Division Q Variable Cost ₹100 per unit ₹120 per unit Fixed cost each year ₹1,20,000 ₹90,000 Head Office management decided that a transfer price should be set that provides a profit of ₹30,000 to Division P. What should be the transfer price per unit? (
+M Group has two divisions; Division P and Division Q. Division P manufactures an item that is transferred to Division Q. The item has no external market and 6,000 units produced are transferred internally each year. The costs of each division are as follows? Division P Division Q Variable Cost ₹100 per unit ₹120 per unit Fixed cost each year ₹1,20,000 ₹90,000 Head Office management decided that a transfer price should be set that provides a profit of ₹30,000 to Division P. What should be the transfer price per unit?
 
-a) ₹ 145 (  
-b) ₹ 125 (  
-c) ₹ 120 (  
+a) ₹ 145
+b) ₹ 125
+c) ₹ 120
 d) ₹ 135
 
 ### 1 (ix) - 2 marks
 
-The advantages of standard costs include all of the following except: (
+The advantages of standard costs include all of the following except:
 
-a) Management by exception may be used (  
-b) Management planning is facilitated (  
-c) They may simplify the costing of inventories (  
+a) Management by exception may be used
+b) Management planning is facilitated
+c) They may simplify the costing of inventories
 d) Management must use a static budget
 
 ### 1 (x) - 2 marks
 
-Which of the following equations can be used to calculate a material quantity variance? (
+Which of the following equations can be used to calculate a material quantity variance?
 
-a) (AQ × AP) - (AQ × SP) (  
-b) (AP × SP) - (AQ × SP) (  
-c) (AQ × SP) - (SQ × SP) (  
+a) (AQ × AP) - (AQ × SP)
+b) (AP × SP) - (AQ × SP)
+c) (AQ × SP) - (SQ × SP)
 d) (AQ × SP) - (AQ × AP)
 
 ### 1 (xi) - 2 marks
 
-The process of budgeting helps in the control of: (
+The process of budgeting helps in the control of:
 
-a) Cost of production (  
-b) Liquidity (  
-c) Capital Expenditure (  
+a) Cost of production
+b) Liquidity
+c) Capital Expenditure
 d) All of the above
 
 ### 1 (xii) - 2 marks
 
-Return on Equity = (
+Return on Equity =
 
-a) Net Profit Margin × Asset Turnover Ratio × Financial Leverage (  
-b) Gross Profit Margin × Asset Turnover Ratio × Financial Leverage (  
-c) Net Profit Margin × Inventory Turnover Ratio × Financial Leverage (  
+a) Net Profit Margin × Asset Turnover Ratio × Financial Leverage
+b) Gross Profit Margin × Asset Turnover Ratio × Financial Leverage
+c) Net Profit Margin × Inventory Turnover Ratio × Financial Leverage
 d) Net Profit Margin × Asset Turnover Ratio × Operating Leverage Directorate of Studies, The Institute of Cost Accountants of India 2 INTERMEDIATE EXAMINATION SET 2 MODEL QUESTION PAPER TERM – DECEMBER 2025 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
 ### 1 (xiii) - 2 marks
 
-Responsibility accounting is used for _______________. (
+Responsibility accounting is used for _______________.
 
-a) cost control (  
-b) planning (  
-c) decision making (  
+a) cost control
+b) planning
+c) decision making
 d) pricing
 
 ### 1 (xiv) - 2 marks
 
-A type of decision -making environment is (
+A type of decision -making environment is
 
-a) Certainty (  
-b) Uncertainty (  
-c) Risk (  
+a) Certainty
+b) Uncertainty
+c) Risk
 d) All of these
 
 ### 1 (xv) - 2 marks
 
-The minimum expected opportunity loss (EOL) is: (
+The minimum expected opportunity loss (EOL) is:
 
-a) Equal to EVPI (  
-b) Minimum regret (  
-c) Equal to EMV (  
-d) Both (  
-a) and (  
+a) Equal to EVPI
+b) Minimum regret
+c) Equal to EMV
+d) Both
+a) and
 b)
 
 # SECTION – B

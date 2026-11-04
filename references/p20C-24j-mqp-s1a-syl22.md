@@ -195,7 +195,7 @@ d. Amount of carbon content in the organic compounds.
 a. Only statement I is correct  
 b. Only statements II and III are correct  
 c. Only statements I and III are correct  
-d. All statements are correct 1. (  
+d. All statements are correct 1.
 a) (i) (ii) (iii) (iv) (v) (vi) (vii) (viii) (ix) (x)  
 a.  
 c.  
@@ -206,7 +206,7 @@ b.
 b.  
 a.  
 c.  
-b. 1. (  
+b. 1.
 b) (i) (ii) (iii) (iv) (v)  
 a.  
 c.  

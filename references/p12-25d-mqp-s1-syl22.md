@@ -106,11 +106,11 @@ d. ₹100 unfavourable
 
 What is the labour rate variance if standard hours for 100 units of output are 400 @ ₹2 per hour and actual hours taken are 380 @ ₹2.25 per hour?
 
-a. ₹120 (  
+a. ₹120
 A)  
-b. ₹100 (  
+b. ₹100
 A)  
-c. ₹95 (  
+c. ₹95
 A)  
 d. ₹25 (F) 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – DECEMBER 2025 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
