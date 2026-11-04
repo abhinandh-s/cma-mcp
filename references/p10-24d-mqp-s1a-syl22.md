@@ -23,137 +23,137 @@
 
 ### 1 (i) - 2 marks
 
-Which of the following is correct? (
+Which of the following is correct?
 
-a) Debenture carries a fixed rate of dividend (  
-b) A company limited by shares may issue irredeemable preference shares (  
-c) Unmarked applications are those applications that bear the stamp of the underwriter (  
+a) Debenture carries a fixed rate of dividend
+b) A company limited by shares may issue irredeemable preference shares
+c) Unmarked applications are those applications that bear the stamp of the underwriter
 d) Except as provided in Section 54, a company shall not issue shares at a discount.
 
 ### 1 (ii) - 2 marks
 
-In a Balance Sheet prepared under Schedule III of Companies Act, 2013, 'Share application money pending allotment' shall be shown (
+In a Balance Sheet prepared under Schedule III of Companies Act, 2013, 'Share application money pending allotment' shall be shown
 
-a) under Shareholder's Fund (  
-b) under Non-Current Liabilities (  
-c) under Current Liabilities (  
+a) under Shareholder's Fund
+b) under Non-Current Liabilities
+c) under Current Liabilities
 d) as a separate line item
 
 ### 1 (iii) - 2 marks
 
-Under which of the following, a business must generate positive net cash flow for it to survive in the long run? (
+Under which of the following, a business must generate positive net cash flow for it to survive in the long run?
 
-a) Investing activities (  
-b) Financing activities (  
-c) Operating activities (  
+a) Investing activities
+b) Financing activities
+c) Operating activities
 d) Non cash activities
 
 ### 1 (iv) - 2 marks
 
-Losses of theft are covered by_____insurance policies. (
+Losses of theft are covered by_____insurance policies.
 
-a) Burglary (  
-b) Fire (  
-c) Marine (  
+a) Burglary
+b) Fire
+c) Marine
 d) None of the above
 
 ### 1 (v) - 2 marks
 
-The expected sales value of stock is ₹20 lakhs and a commission at 10% on sale is payable to the agent. Calculate NRV. (
+The expected sales value of stock is ₹20 lakhs and a commission at 10% on sale is payable to the agent. Calculate NRV.
 
-a) ₹ 12 lakh (  
-b) ₹ 14 lakh (  
-c) ₹18 lakh (  
+a) ₹ 12 lakh
+b) ₹ 14 lakh
+c) ₹18 lakh
 d) ₹16 lakh 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING
 
 ### 1 (vi) - 2 marks
 
-SA 230 stands for – (
+SA 230 stands for –
 
-a) Quality control for an audit of Financial Statements (  
-b) Agreeing the terms of Audit Engagements (  
-c) Audit Documentation (  
+a) Quality control for an audit of Financial Statements
+b) Agreeing the terms of Audit Engagements
+c) Audit Documentation
 d) Responsibility of Joint Auditor
 
 ### 1 (vii) - 2 marks
 
-Secretarial Audit is applicable to the Public Company having the paid-up share capital of ₹______. (
+Secretarial Audit is applicable to the Public Company having the paid-up share capital of ₹______.
 
-a) 50 crore (  
-b) 75 crore (  
-c) 100 crore (  
+a) 50 crore
+b) 75 crore
+c) 100 crore
 d) 200 crore
 
 ### 1 (viii) - 2 marks
 
-Form for Secretarial Audit Report is _____________. (
+Form for Secretarial Audit Report is _____________.
 
-a) MR-2 (  
-b) MR-3 (  
-c) MR-4 (  
+a) MR-2
+b) MR-3
+c) MR-4
 d) MR-5
 
 ### 1 (ix) - 2 marks
 
-Unpaid dividend standing at the credit of Unpaid Dividend A/C should be transferred to Investor Education and Protection Fund _______________after years of its remaining unpaid. (
+Unpaid dividend standing at the credit of Unpaid Dividend A/C should be transferred to Investor Education and Protection Fund _______________after years of its remaining unpaid.
 
-a) six (  
-b) eight (  
-c) seven (  
+a) six
+b) eight
+c) seven
 d) five
 
 ### 1 (x) - 2 marks
 
-Which of the following services cannot be rendered by an auditor as per Companies Act 2013? (
+Which of the following services cannot be rendered by an auditor as per Companies Act 2013?
 
-a) Vouching (  
-b) Verification of assets and liabilities (  
-c) Issuing certificates on relevant matters (  
+a) Vouching
+b) Verification of assets and liabilities
+c) Issuing certificates on relevant matters
 d) Providing investment advisory services
 
 ### 1 (xi) - 2 marks
 
-An individual auditor who has completed his term shall not be eligible for reappointment as auditor in the same company for ______________________. (
+An individual auditor who has completed his term shall not be eligible for reappointment as auditor in the same company for ______________________.
 
-a) Next 3 Years (  
-b) Next 5 Years (  
-c) Next 7 Years 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING (  
+a) Next 3 Years
+b) Next 5 Years
+c) Next 7 Years 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING
 d) Next 8 Years
 
 ### 1 (xii) - 2 marks
 
-Which of the following is not an audit risk? (
+Which of the following is not an audit risk?
 
-a) Inherent Risk (  
-b) Detection Risk (  
-c) Control Risk (  
+a) Inherent Risk
+b) Detection Risk
+c) Control Risk
 d) Omission Risk
 
 ### 1 (xiii) - 2 marks
 
-An audit which is conducted considering the particular area of accounting which the owner thinks essential is known as - (
+An audit which is conducted considering the particular area of accounting which the owner thinks essential is known as -
 
-a) Complete Audit (  
-b) Partial Audit (  
-c) Balance Sheet Audit (  
+a) Complete Audit
+b) Partial Audit
+c) Balance Sheet Audit
 d) Cost Audit
 
 ### 1 (xiv) - 2 marks
 
-A company auditor resigning from his post shall inform the same to the Registrar in: (
+A company auditor resigning from his post shall inform the same to the Registrar in:
 
-a) Form No. ADT - 1 (  
-b) Form No. ADT - 2 (  
-c) Form No. ADT - 3 (  
+a) Form No. ADT - 1
+b) Form No. ADT - 2
+c) Form No. ADT - 3
 d) Form No. ADT – 4
 
 ### 1 (xv) - 2 marks
 
-Which of the following is not a part of rural self-governance system in India? (
+Which of the following is not a part of rural self-governance system in India?
 
-a) Gram Panchayat (  
-b) Gram Parishad (  
-c) Panchayat Samiti (  
+a) Gram Panchayat
+b) Gram Parishad
+c) Panchayat Samiti
 d) Zilla Parishad
 
 ### Answer:

@@ -23,139 +23,139 @@
 
 ### 1 (i) - 2 marks
 
-Which of the following is not a characteristic of management accounting? (
+Which of the following is not a characteristic of management accounting?
 
-a) Forward-looking (  
-b) Historical orientation (  
-c) Internal focus (  
+a) Forward-looking
+b) Historical orientation
+c) Internal focus
 d) Decision - making
 
 ### 1 (ii) - 2 marks
 
-The break-even point is where: (
+The break-even point is where:
 
-a) Total costs equal total revenue (  
-b) Total revenue exceeds total costs (  
-c) Variable costs equal fixed costs (  
+a) Total costs equal total revenue
+b) Total revenue exceeds total costs
+c) Variable costs equal fixed costs
 d) Contribution margin is negative
 
 ### 1 (iii) - 2 marks
 
-Variance analysis is used to: (
+Variance analysis is used to:
 
-a) Identify the root causes of inefficiencies (  
-b) Calculate contribution margin (  
-c) Prepare financial statements (  
+a) Identify the root causes of inefficiencies
+b) Calculate contribution margin
+c) Prepare financial statements
 d) Determine break-even point
 
 ### 1 (iv) - 2 marks
 
-Which of the following is not a relevant cost information in a make or buy decision in short run (i.e., in marginal costing)? (
+Which of the following is not a relevant cost information in a make or buy decision in short run (i.e., in marginal costing)?
 
-a) Burglary (  
-b) Fire (  
-c) Marine (  
+a) Burglary
+b) Fire
+c) Marine
 d) None of the above
 
 ### 1 (v) - 2 marks
 
-If Sales - ₹ 9,00,000 ; Margin of safety = 40% ; P/V Ratio = 2/3, then what is the Break- even Sales? (
+If Sales - ₹ 9,00,000 ; Margin of safety = 40% ; P/V Ratio = 2/3, then what is the Break- even Sales?
 
-a) ₹ 4,50,000 (  
-b) ₹ 3,60,000 (  
-c) ₹ 5,40,000 (  
+a) ₹ 4,50,000
+b) ₹ 3,60,000
+c) ₹ 5,40,000
 d) ₹ 6,00,000
 
 ### 1 (vi) - 2 marks
 
-Sale for two consecutive months, of a company are ₹3,80,000 and ₹ 4,20,000.The company‘s net profits for these months amounted to ₹ 24,000 and ₹ 40,000 respectively. There is no change in contribution/sales ratio or fixed costs. The contribution/sales ratio of the company________ is. 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING (
+Sale for two consecutive months, of a company are ₹3,80,000 and ₹ 4,20,000.The company‘s net profits for these months amounted to ₹ 24,000 and ₹ 40,000 respectively. There is no change in contribution/sales ratio or fixed costs. The contribution/sales ratio of the company________ is. 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
 
-a) 1/3 (  
-b) 2/5 (  
-c) 1/4 (  
+a) 1/3
+b) 2/5
+c) 1/4
 d) 3/8
 
 ### 1 (vii) - 2 marks
 
-Standard Cost is______ a cost. (
+Standard Cost is______ a cost.
 
-a) Pre-determined (  
-b) Actual (  
-c) Historical (  
+a) Pre-determined
+b) Actual
+c) Historical
 d) Short-term
 
 ### 1 (viii) - 2 marks
 
-Which of the following budgets should be prepared first? (
+Which of the following budgets should be prepared first?
 
-a) Production Budget (  
-b) Purchase Budget (  
-c) Master Budget (  
+a) Production Budget
+b) Purchase Budget
+c) Master Budget
 d) Sales Budget
 
 ### 1 (ix) - 2 marks
 
-Labour Turnover _________ (
+Labour Turnover _________
 
-a) The number of people working in the current period (  
-b) The number of people who left the organisation in the previous period (  
-c) Rate of change of labour force (  
+a) The number of people working in the current period
+b) The number of people who left the organisation in the previous period
+c) Rate of change of labour force
 d) The rate of the change in the wages of the labour force
 
 ### 1 (x) - 2 marks
 
-The per unit expenses of the_______portion varies with the volume of production while portion remains the same with volume. (
+The per unit expenses of the_______portion varies with the volume of production while portion remains the same with volume.
 
-a) Fixed; Variable (  
-b) Variable; Fixed (  
-c) Variable; Semi-Variable (  
+a) Fixed; Variable
+b) Variable; Fixed
+c) Variable; Semi-Variable
 d) Fixed; Semi-Variable
 
 ### 1 (xi) - 2 marks
 
-Which method of costing is commonly used by companies that produce unique products or services? (
+Which method of costing is commonly used by companies that produce unique products or services?
 
-a) Process costing (  
-b) Job costing (  
-c) Batch costing (  
+a) Process costing
+b) Job costing
+c) Batch costing
 d) Both A and C
 
 ### 1 (xii) - 2 marks
 
-Material price variance is calculated by________. (
+Material price variance is calculated by________.
 
-a) Standard Price × Actual Quantity - Actual Price × Actual Quantity (  
-b) Standard Price × Actual Quantity - Actual price × Standard Quantity (  
-c) Actual Price × Actual Quantity - Standard price × Standard Quantity (  
+a) Standard Price × Actual Quantity - Actual Price × Actual Quantity
+b) Standard Price × Actual Quantity - Actual price × Standard Quantity
+c) Actual Price × Actual Quantity - Standard price × Standard Quantity
 d) Actual price × Standard Quantity - Standard price × Standard Quantity
 
 ### 1 (xiii) - 2 marks
 
-Calculate the material price variance from the following: Actual Quantity - 2.5 kgs 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING Standard Price - ₹ 3 per kg Actual Price - ₹ 5 per kg Standard Quantity - 4.5 kgs (
+Calculate the material price variance from the following: Actual Quantity - 2.5 kgs 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 1 MODEL ANSWERS TERM – DEC 2024 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING Standard Price - ₹ 3 per kg Actual Price - ₹ 5 per kg Standard Quantity - 4.5 kgs
 
-a) ₹ 3(F) (  
-b) ₹ 5 (  
-A) (  
-c) ₹ 12 (  
-A) (  
+a) ₹ 3(F)
+b) ₹ 5
+A)
+c) ₹ 12
+A)
 d) ₹ 6 (F)
 
 ### 1 (xiv) - 2 marks
 
-Which budgeting technique involves preparing budgets from the bottom of the organization hierarchy to the top? (
+Which budgeting technique involves preparing budgets from the bottom of the organization hierarchy to the top?
 
-a) Top-down budgeting (  
-b) Zero-based budgeting (  
-c) Incremental budgeting (  
+a) Top-down budgeting
+b) Zero-based budgeting
+c) Incremental budgeting
 d) Bottom-up budgeting
 
 ### 1 (xv) - 2 marks
 
-A manufacturing company budgets to produce 10,000 units during a period. It expects to incur ₹50,000 in fixed overhead costs and ₹3 per unit in variable overhead costs. If the actual production turns out to be 9,500 units, what is the company's flexible budget overhead cost? (
+A manufacturing company budgets to produce 10,000 units during a period. It expects to incur ₹50,000 in fixed overhead costs and ₹3 per unit in variable overhead costs. If the actual production turns out to be 9,500 units, what is the company's flexible budget overhead cost?
 
-a) ₹74,500 (  
-b) ₹77,000 (  
-c) ₹79,500 (  
+a) ₹74,500
+b) ₹77,000
+c) ₹79,500
 d) ₹78,500
 
 ### Answer:
