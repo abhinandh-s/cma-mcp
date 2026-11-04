@@ -24,137 +24,137 @@
 
 ROB Ltd., has estimated the unit contribution of Product Z to be ₹10. Budgeted Sales for the year are 25000 units. Estimated fixed Costs are follows: Fixed Cost P.
 
-A. (₹) 100000 150000 20000 300000 Probability 0.20 0.25 0.40 0.15 What is the probability that the company will equal or exceed the target profit of ₹ 48,000? (  
-A) 85 % (  
-B) 55 % (  
-C) 40 % (  
+A. (₹) 100000 150000 20000 300000 Probability 0.20 0.25 0.40 0.15 What is the probability that the company will equal or exceed the target profit of ₹ 48,000?
+A) 85 %
+B) 55 %
+C) 40 %
 D) None of the above
 
 ### 1 (ii) - 2 marks
 
-TUSN Ltd., maintains Margin of Safety (MOS) of 20% on its current sales and earns a profit of ₹ 30 Lakh per annum. If the company has P/V Ratio of 25 %, its current sales will be (
+TUSN Ltd., maintains Margin of Safety (MOS) of 20% on its current sales and earns a profit of ₹ 30 Lakh per annum. If the company has P/V Ratio of 25 %, its current sales will be
 
-A) ₹ 800 Lakh (  
-B) ₹ 600 Lakh (  
-C) ₹ 400 Lakh (  
+A) ₹ 800 Lakh
+B) ₹ 600 Lakh
+C) ₹ 400 Lakh
 D) ₹ 500 Lakh
 
 ### 1 (iii) - 2 marks
 
-) BOSS Ltd. operates a marginal costing system. For the forthcoming year, variable costs are budgeted to be 60% of sales and fixed costs are budgeted to be 10% of sales. If selling price is increased by 10% and fixed costs, variable costs and sales volume remain unchanged, the effect on contribution will be (
+) BOSS Ltd. operates a marginal costing system. For the forthcoming year, variable costs are budgeted to be 60% of sales and fixed costs are budgeted to be 10% of sales. If selling price is increased by 10% and fixed costs, variable costs and sales volume remain unchanged, the effect on contribution will be
 
-A) a decrease of 2% (  
-B) an increase of 5% (  
-C) an increase of 10% (  
+A) a decrease of 2%
+B) an increase of 5%
+C) an increase of 10%
 D) an increase of 25%
 
 ### 1 (iv) - 2 marks
 
-) A company uses two activities for overhead allocation: Machine setups (cost ₹60,000, 300 setups) and Quality inspections (cost ₹40,000, 200 inspections). Product A requires 30 setups and 20 inspections. What is the overhead allocated to Product A? (
+) A company uses two activities for overhead allocation: Machine setups (cost ₹60,000, 300 setups) and Quality inspections (cost ₹40,000, 200 inspections). Product A requires 30 setups and 20 inspections. What is the overhead allocated to Product A?
 
-A) ₹6,000 (  
-B) ₹8,000 (  
-C) ₹10,000 (  
+A) ₹6,000
+B) ₹8,000
+C) ₹10,000
 D) ₹12,000
 
 ### 1 (v) - 2 marks
 
-) The budgeted production of a company is 20,000 units per month. The standard cost sheet is as under: Direct materials: 1.5 kgs. @ ₹ 6 per kg, Direct labour: 6 hours @ ₹5 per hour, Variable overheads: 6 hours @ ₹ 4 per hour, Fixed overheads: ₹ 3 per unit, Selling price: ₹72 per unit Actual production and sales for the month is 18,750 units. The Sales volume variance (in gross margin) is: (
+) The budgeted production of a company is 20,000 units per month. The standard cost sheet is as under: Direct materials: 1.5 kgs. @ ₹ 6 per kg, Direct labour: 6 hours @ ₹5 per hour, Variable overheads: 6 hours @ ₹ 4 per hour, Fixed overheads: ₹ 3 per unit, Selling price: ₹72 per unit Actual production and sales for the month is 18,750 units. The Sales volume variance (in gross margin) is:
 
-A) ₹ 7800 (F) (  
-B) ₹ 9000 (F) (  
-C) ₹ 7500 (  
-A) (  
+A) ₹ 7800 (F)
+B) ₹ 9000 (F)
+C) ₹ 7500
+A)
 D) None of the above
 
 ### 1 (vi) - 2 marks
 
-) A transport company must move 100 units from two plants (P1: 40 units, P2: 60 units) to two warehouses (W1: 50 units, W2: 50 units). Costs per unit: P1→W1 ₹4, P1→W2 ₹6, P2→W1 ₹5, P2→W2 ₹3. What is the minimum total transport cost? (
+) A transport company must move 100 units from two plants (P1: 40 units, P2: 60 units) to two warehouses (W1: 50 units, W2: 50 units). Costs per unit: P1→W1 ₹4, P1→W2 ₹6, P2→W1 ₹5, P2→W2 ₹3. What is the minimum total transport cost?
 
-A) ₹460 (  
-B) ₹470 (  
-C) ₹480 (  
+A) ₹460
+B) ₹470
+C) ₹480
 D) None of the above
 
 ### 1 (vii) - 2 marks
 
-) Two firms A and B compete on pricing. Payoff matrix (profit for A in ₹000) is: B: Low Price B: High Price A: Low Price 80 120 A: High Price 60 100 What is the Maximin strategy payoff for Firm A? (
+) Two firms A and B compete on pricing. Payoff matrix (profit for A in ₹000) is: B: Low Price B: High Price A: Low Price 80 120 A: High Price 60 100 What is the Maximin strategy payoff for Firm A?
 
-A) 60 (  
-B) 80 (  
-C) 100 (  
+A) 60
+B) 80
+C) 100
 D) 120
 
 ### 1 (viii) - 2 marks
 
-) For a learning curve percentage of 72%, the time to be taken to complete the 4th unit of a job involved in the assembly line, if the initial unit requires 80 hours, will be (
+) For a learning curve percentage of 72%, the time to be taken to complete the 4th unit of a job involved in the assembly line, if the initial unit requires 80 hours, will be
 
-A) 41.47 hours (  
-B) 43.50 hours (  
-C) 46.71 hours (  
+A) 41.47 hours
+B) 43.50 hours
+C) 46.71 hours
 D) 40.95 hours
 
 ### 1 (ix) - 2 marks
 
-) Which of the following tools for Statistical Data Analysis is used most commonly in the Social Sciences and is considered as easiest to learn among enterprise Statistical tools? (
+) Which of the following tools for Statistical Data Analysis is used most commonly in the Social Sciences and is considered as easiest to learn among enterprise Statistical tools?
 
-A) SAS (Statistical Analysis System) (  
-B) E Views (  
-C) SPSS (Software Package for Statistical System) (  
+A) SAS (Statistical Analysis System)
+B) E Views
+C) SPSS (Software Package for Statistical System)
 D) Microsoft Dynamics
 
 ### 1 (x) - 2 marks
 
-) Which of the following Quality Cost (s) is / are incurred in Warranty replacements? (
+) Which of the following Quality Cost (s) is / are incurred in Warranty replacements?
 
-A) Appraisal Costs (  
-B) Prevention Costs (  
-C) Internal failure Costs (  
+A) Appraisal Costs
+B) Prevention Costs
+C) Internal failure Costs
 D) External failure Costs
 
 ### 1 (xi) - 2 marks
 
-) Which of the following decision making techniques is a technique that determines the best pricing policy for optimizing profits? (
+) Which of the following decision making techniques is a technique that determines the best pricing policy for optimizing profits?
 
-A) Cost leadership (  
-B) Yield Management (  
-C) Kaizen Costing (  
+A) Cost leadership
+B) Yield Management
+C) Kaizen Costing
 D) Life Cycle Costing
 
 ### 1 (xii) - 2 marks
 
-) Which of the following is a critical requirement for successful JIT implementation? (
+) Which of the following is a critical requirement for successful JIT implementation?
 
-A) Large safety stocks (  
-B) Long supplier lead times (  
-C) Close supplier relationships and frequent deliveries (  
+A) Large safety stocks
+B) Long supplier lead times
+C) Close supplier relationships and frequent deliveries
 D) Higher inspection costs
 
 ### 1 (xiii) - 2 marks
 
-) Which of the following variances denotes the deviation between revised proposition and the actual incidence ? (
+) Which of the following variances denotes the deviation between revised proposition and the actual incidence ?
 
-A) Planning variance (  
-B) Revenue Variance (  
-C) Operating Variance (  
+A) Planning variance
+B) Revenue Variance
+C) Operating Variance
 D) Controllable Variance
 
 ### 1 (xiv) - 2 marks
 
-) A major risk in implementing Business Process Reengineering is (
+) A major risk in implementing Business Process Reengineering is
 
-A) Over dependence on Information Technology (  
-B) Increase in product prices (  
-C) Reduced market share (  
+A) Over dependence on Information Technology
+B) Increase in product prices
+C) Reduced market share
 D) Employee resistance to change
 
 ### 1 (xv) - 2 marks
 
-) Marketing department of RON Ltd. estimates that 40,000 of new mixers could be sold annually at a price of ₹60 each. To design, develop and produce these new mixers an investment of ₹40,00,000 would be required. The company desires a 15% return on investment (ROI). Given these data, the target cost to manufacture, sell, distribute and service one mixer will be (
+) Marketing department of RON Ltd. estimates that 40,000 of new mixers could be sold annually at a price of ₹60 each. To design, develop and produce these new mixers an investment of ₹40,00,000 would be required. The company desires a 15% return on investment (ROI). Given these data, the target cost to manufacture, sell, distribute and service one mixer will be
 
-A) ₹37.50 (  
-B) ₹40.00 (  
-C) ₹45.00 (  
+A) ₹37.50
+B) ₹40.00
+C) ₹45.00
 D) ₹48.60
 
 ### Answer:

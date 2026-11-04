@@ -23,137 +23,137 @@
 
 ### 1 (i) - 2 marks
 
-While referring to the Customer Service aspect of Operations Management, if primary consideration is “Movement of a given, requested or acceptable specification”. Which principal function can be closely associated with it ? (
+While referring to the Customer Service aspect of Operations Management, if primary consideration is “Movement of a given, requested or acceptable specification”. Which principal function can be closely associated with it ?
 
-A) Supply (  
-B) Transport (  
-C) Manufacture (  
+A) Supply
+B) Transport
+C) Manufacture
 D) Service
 
 ### 1 (ii) - 2 marks
 
-For Quality Assurance in Production and installation the _________ Model is to be used. (
+For Quality Assurance in Production and installation the _________ Model is to be used.
 
-A) ISO 9002 Model (  
-B) ISO 9001 Model (  
-C) ISO 9003 Model (  
+A) ISO 9002 Model
+B) ISO 9001 Model
+C) ISO 9003 Model
 D) None of the above
 
 ### 1 (iii) - 2 marks
 
-In a factory of TOB Ltd., there are 20 workers manufacturing a single product and the output per month consisting of 25 days of that particular product is 500 units. How much is the monthly productivity per worker ? (
+In a factory of TOB Ltd., there are 20 workers manufacturing a single product and the output per month consisting of 25 days of that particular product is 500 units. How much is the monthly productivity per worker ?
 
-A) 25 units (  
-B) 30 units (  
-C) 20 units (  
+A) 25 units
+B) 30 units
+C) 20 units
 D) 15 units
 
 ### 1 (iv) - 2 marks
 
-In which one of the following phases the objective is to hold the existing customers and create now customers ? (
+In which one of the following phases the objective is to hold the existing customers and create now customers ?
 
-A) Introduction (  
-B) Maturity (  
-C) Growth (  
+A) Introduction
+B) Maturity
+C) Growth
 D) Decline Directorate Of Studies, The Institute of Cost Accountants of India 1 INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM –JUNE 2026 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT AND STRATEGIC MANAGEMENT
 
 ### 1 (v) - 2 marks
 
-Which one of the important charts used in Programme control is ________ ? (
+Which one of the important charts used in Programme control is ________ ?
 
-A) Material Chart (  
-B) Gantt Chart (  
-C) Route Chart (  
+A) Material Chart
+B) Gantt Chart
+C) Route Chart
 D) Inspection Chart
 
 ### 1 (vi) - 2 marks
 
-Which one of the following phases of Project Management Life Cycle is where the bulk of project happens ? (
+Which one of the following phases of Project Management Life Cycle is where the bulk of project happens ?
 
-A) Planning Phase (  
-B) Project Quality Management (  
-C) Execution Phase (  
+A) Planning Phase
+B) Project Quality Management
+C) Execution Phase
 D) Project Closure
 
 ### 1 (vii) - 2 marks
 
-The Slack time of Tail event of Activity-TB of a Project-KB is 3 days. If the independent float of the Activity- TB is 2 days, What will be the Free Float of the Activity-TB ? (
+The Slack time of Tail event of Activity-TB of a Project-KB is 3 days. If the independent float of the Activity- TB is 2 days, What will be the Free Float of the Activity-TB ?
 
-A) 3 days (  
-B) 5 days (  
-C) 1 days (  
+A) 3 days
+B) 5 days
+C) 1 days
 D) 2 days
 
 ### 1 (viii) - 2 marks
 
-TESLA Ltd. which is going for expansion has made the following time estimate for completion of a major activity on the Critical path. Time (in months) Optimistic : 9 Pessimistic : 21 Most likely : 15 The variance of the activity would be _______ months. (
+TESLA Ltd. which is going for expansion has made the following time estimate for completion of a major activity on the Critical path. Time (in months) Optimistic : 9 Pessimistic : 21 Most likely : 15 The variance of the activity would be _______ months.
 
-A) 2 (  
-B) 4 (  
-C) 9 (  
+A) 2
+B) 4
+C) 9
 D) None of the above Directorate Of Studies, The Institute of Cost Accountants of India 2 INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM –JUNE 2026 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT AND STRATEGIC MANAGEMENT
 
 ### 1 (ix) - 2 marks
 
-The type of Spare parts which are generally thought of as items of plant or assets that periodically are changed out for repair or overhaul. (
+The type of Spare parts which are generally thought of as items of plant or assets that periodically are changed out for repair or overhaul.
 
-A) Insurance spares (  
-B) Capital Spares (  
-C) Regular Spares (  
+A) Insurance spares
+B) Capital Spares
+C) Regular Spares
 D) Rotable Spares
 
 ### 1 (x) - 2 marks
 
-A workshop of TBN Company has 20 Nos. of identical machines. From the failure pattern of the machines, it is calculated that the expected time before failure is 4 Months. It cost Rs. 500/- to attend a failure machine and rectify the same. What will be the yearly cost of servicing the broken down machines ? (
+A workshop of TBN Company has 20 Nos. of identical machines. From the failure pattern of the machines, it is calculated that the expected time before failure is 4 Months. It cost Rs. 500/- to attend a failure machine and rectify the same. What will be the yearly cost of servicing the broken down machines ?
 
-A) Rs. 30000 (  
-B) Rs. 45000 (  
-C) Rs. 25000 (  
+A) Rs. 30000
+B) Rs. 45000
+C) Rs. 25000
 D) None of the above
 
 ### 1 (xi) - 2 marks
 
-Which of the following is / are true for a Blue Ocean Strategy ? (
+Which of the following is / are true for a Blue Ocean Strategy ?
 
-A) Create and Capture new demand (  
-B) Boat the Competition (  
-C) Exploit existing demand (  
+A) Create and Capture new demand
+B) Boat the Competition
+C) Exploit existing demand
 D) Compete in existing Markets
 
 ### 1 (xii) - 2 marks
 
-For which of the following organisations, the mission statement is “To make human life multi planetary ” ? (
+For which of the following organisations, the mission statement is “To make human life multi planetary ” ?
 
-A) Alibaba (  
-B) SpaceX (  
-C) Google (  
+A) Alibaba
+B) SpaceX
+C) Google
 D) Tesla
 
 ### 1 (xiii) - 2 marks
 
-In the “SMART” Framework, the letter “M” represents : (
+In the “SMART” Framework, the letter “M” represents :
 
-A) Measurable (  
-B) Maintainable (  
-C) Mission (  
+A) Measurable
+B) Maintainable
+C) Mission
 D) Motivation Directorate Of Studies, The Institute of Cost Accountants of India 3 INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM –JUNE 2026 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT AND STRATEGIC MANAGEMENT
 
 ### 1 (xiv) - 2 marks
 
-______________ are outcomes of changes in the Characteristics of a population. (
+______________ are outcomes of changes in the Characteristics of a population.
 
-A) Macro-economic forces (  
-B) Demographic forces (  
-C) Technological forces (  
+A) Macro-economic forces
+B) Demographic forces
+C) Technological forces
 D) Political forces
 
 ### 1 (xv) - 2 marks
 
-BPR has resulted in major gains in which three areas ? (
+BPR has resulted in major gains in which three areas ?
 
-A) Marketing, Sales, and Advertisement Satisfaction (  
-B) Efficiency, quality and speed (  
-C) Hiring, training and retention (  
+A) Marketing, Sales, and Advertisement Satisfaction
+B) Efficiency, quality and speed
+C) Hiring, training and retention
 D) Finance, Accounting and Auditing
 
 ### Answer:

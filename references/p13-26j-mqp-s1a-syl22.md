@@ -28,137 +28,137 @@ Scenario for MCQs (I) TO (IV) Sunrise Ltd., a public company, appointed Mr. Rame
 
 ### 1 (ii) - 2 marks
 
-What is the consequence of Mr. Ramesh not filing Form ADT-3 with the ROC within the prescribed time? (
+What is the consequence of Mr. Ramesh not filing Form ADT-3 with the ROC within the prescribed time?
 
-A) Penalty of ₹50,000 only (  
-B) Minimum penalty ₹50,000 and continuing default ₹500 per day, maximum ₹2,00,000 (  
-C) Penalty of ₹2,00,000 and ₹1,000 per day for continuing default (  
+A) Penalty of ₹50,000 only
+B) Minimum penalty ₹50,000 and continuing default ₹500 per day, maximum ₹2,00,000
+C) Penalty of ₹2,00,000 and ₹1,000 per day for continuing default
 D) No penalty, only warning by ROC
 
 ### 1 (iii) - 2 marks
 
-The new auditor appointed by the Board owes ₹1,50,000 to Sunrise Ltd. Is he eligible to be appointed? (
+The new auditor appointed by the Board owes ₹1,50,000 to Sunrise Ltd. Is he eligible to be appointed?
 
-A) Yes, since the threshold limit is ₹2,00,000 (  
-B) Yes, since the limit applies only to secured loans (  
-C) Yes, since indebtedness applies only to relatives of the auditor (  
+A) Yes, since the threshold limit is ₹2,00,000
+B) Yes, since the limit applies only to secured loans
+C) Yes, since indebtedness applies only to relatives of the auditor
 D) No, since indebtedness beyond ₹1,00,000 disqualifies an auditor
 
 ### 1 (iv) - 2 marks
 
-Suppose Mr. Ramesh was charged by GST authorities for fraud of ₹1.5 crore but not yet convicted. Can he continue as auditor? (
+Suppose Mr. Ramesh was charged by GST authorities for fraud of ₹1.5 crore but not yet convicted. Can he continue as auditor?
 
-A) No, he must resign immediately (  
-B) Yes, unless convicted by a court of law (  
-C) No, NFRA disqualifies him upon charge (  
+A) No, he must resign immediately
+B) Yes, unless convicted by a court of law
+C) No, NFRA disqualifies him upon charge
 D) Yes, for five years even if convicted
 
 ### 1 (v) - 2 marks
 
-If Sunrise Ltd. were a company controlled by the State Government, who would have the authority to fill the vacancy caused by the resignation of Mr. Ramesh? (
+If Sunrise Ltd. were a company controlled by the State Government, who would have the authority to fill the vacancy caused by the resignation of Mr. Ramesh?
 
-A) The Board of Directors (  
-B) The Central Government (  
-C) The Members of the company (  
+A) The Board of Directors
+B) The Central Government
+C) The Members of the company
 D) The Comptroller and Auditor General of India Independent MCQs [(v) to (xv)]
 
 ### 1 (vi) - 2 marks
 
-Bright Ltd. defaults on a loan of ₹50 crore. The creditors demand that Mr. Arun, holding 20% shares, personally repay 20% of the loan. (
+Bright Ltd. defaults on a loan of ₹50 crore. The creditors demand that Mr. Arun, holding 20% shares, personally repay 20% of the loan.
 
-A) Mr. Arun is liable to the extent of his shareholding percentage (20%). (  
-B) Mr. Arun’s liability is limited only to the unpaid amount on his shares. (  
-C) Mr. Arun is liable jointly with other shareholders for the entire debt. (  
+A) Mr. Arun is liable to the extent of his shareholding percentage (20%).
+B) Mr. Arun’s liability is limited only to the unpaid amount on his shares.
+C) Mr. Arun is liable jointly with other shareholders for the entire debt.
 D) Mr. Arun is liable only if he is also a director of the company.
 
 ### 1 (vii) - 2 marks
 
-Certificate of Incorporation of a company is issued by: (
+Certificate of Incorporation of a company is issued by:
 
-A) Central Government (  
-B) Registrar of Companies (  
-C) Regional Director (  
+A) Central Government
+B) Registrar of Companies
+C) Regional Director
 D) Ministry of Corporate Affairs
 
 ### 1 (viii) - 2 marks
 
-Under IBC, 2016, the Corporate Insolvency Resolution Process (CIRP) must be completed within ___ days: (
+Under IBC, 2016, the Corporate Insolvency Resolution Process (CIRP) must be completed within ___ days:
 
-A) 330 (  
-B) 270 (  
-C) 300 (  
+A) 330
+B) 270
+C) 300
 D) 365
 
 ### 1 (ix) - 2 marks
 
-Which of the following is not a sustainable development activity? (
+Which of the following is not a sustainable development activity?
 
-A) Rainwater harvesting (  
-B) Solar energy (  
-C) Paddy cultivation (  
+A) Rainwater harvesting
+B) Solar energy
+C) Paddy cultivation
 D) Plantation of saplings
 
 ### 1 (x) - 2 marks
 
-Triple Bottom Line approach refers to: (
+Triple Bottom Line approach refers to:
 
-A) People, Planet, Profit (  
-B) People, Purpose, Profit (  
-C) Planet, Profit, Period (  
+A) People, Planet, Profit
+B) People, Purpose, Profit
+C) Planet, Profit, Period
 D) Planet, People, Purpose
 
 ### 1 (xi) - 2 marks
 
-Selling products/services below the cost is called ______. (
+Selling products/services below the cost is called ______.
 
-A) Undercut pricing (  
-B) Under invoicing (  
-C) Predatory pricing (  
+A) Undercut pricing
+B) Under invoicing
+C) Predatory pricing
 D) Introductory pricing
 
 ### 1 (xii) - 2 marks
 
-Under SEBI (ICDR) Regulations, 2018, a company must have net tangible assets of at least ₹ crore in the preceding 3 years: (
+Under SEBI (ICDR) Regulations, 2018, a company must have net tangible assets of at least ₹ crore in the preceding 3 years:
 
-A) 1 (  
-B) 3 (  
-C) 5 (  
+A) 1
+B) 3
+C) 5
 D) 10
 
 ### 1 (xiii) - 2 marks
 
-Under Section 2(f) of the Competition Act, 2002, a consumer includes: (
+Under Section 2(f) of the Competition Act, 2002, a consumer includes:
 
-A) Only persons buying goods for personal use (  
-B) Persons buying goods for resale or commercial purpose also (  
-C) Only persons who have fully paid consideration (  
+A) Only persons buying goods for personal use
+B) Persons buying goods for resale or commercial purpose also
+C) Only persons who have fully paid consideration
 D) None of the above
 
 ### 1 (xiv) - 2 marks
 
-Under FEMA, eligible borrowers can raise up to million USD per financial year under automatic route for ECB. (
+Under FEMA, eligible borrowers can raise up to million USD per financial year under automatic route for ECB.
 
-A) 400 (  
-B) 600 (  
-C) 750 (  
+A) 400
+B) 600
+C) 750
 D) 1000
 
 ### 1 (xv) - 2 marks
 
-The Reserve Bank of India is primarily responsible for: (
+The Reserve Bank of India is primarily responsible for:
 
-A) Framing monetary policy (  
-B) Supervising insurance companies (  
-C) Regulating stock exchanges (  
+A) Framing monetary policy
+B) Supervising insurance companies
+C) Regulating stock exchanges
 D) Enforcing competition law
 
 ### 1 (16) - 2 marks
 
-Under the Prevention of Money Laundering Act, 2002, a “Scheduled Offence” is termed as: (
+Under the Prevention of Money Laundering Act, 2002, a “Scheduled Offence” is termed as:
 
-A) Money Laundering Offence (  
-B) Predicate Offence (  
-C) Punishable Offence (  
+A) Money Laundering Offence
+B) Predicate Offence
+C) Punishable Offence
 D) Pre-requisite Offence
 
 ### Answer:
