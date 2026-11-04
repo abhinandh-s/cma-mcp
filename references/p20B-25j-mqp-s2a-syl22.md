@@ -159,8 +159,8 @@ What is the amount of net NPA?
 a. ₹ 800 Crores.  
 b. ₹ 1000 Crores.  
 c. ₹ 1200 Crores.  
-d. Incomplete information 1. (  
-a) i ii iii iv v vi vii viii ix x c d a a c d b b c b (  
+d. Incomplete information 1.
+a) i ii iii iv v vi vii viii ix x c d a a c d b b c b
 b) i ii iii iv v c c b b a
 
 ### Answer:

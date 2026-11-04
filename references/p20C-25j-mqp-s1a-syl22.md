@@ -185,8 +185,8 @@ What strategic element was critical to GE's ecomagination strategy and helped it
 a. Hiring external consultants to oversee the environmental initiatives  
 b. Focusing solely on reducing energy costs without considering environmental impact  
 c. Tying executive compensation to the achievement of environmental performance goals  
-d. Expanding into completely new markets unrelated to its core business. (  
-a) i ii iii iv v vi vii viii ix x c b a a d c b d d a (  
+d. Expanding into completely new markets unrelated to its core business.
+a) i ii iii iv v vi vii viii ix x c b a a d c b d d a
 b) i ii iii iv v b a b d c
 
 ### Answer:

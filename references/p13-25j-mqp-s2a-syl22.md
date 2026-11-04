@@ -139,8 +139,8 @@ Credit facilities in the ordinary course of business is an example of
 
 a) Capital account transaction  
 b) Current account transaction  
-c) Either (  
-a) or (  
+c) Either
+a) or
 b)  
 d) None of the above
 
