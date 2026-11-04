@@ -1,22 +1,31 @@
-# Paper 5 December 2023 PYQ — extraction repair note
+# Paper 5 December 2023 PYQ — extraction repair record
 
-## Status: source PDF required
+## Status: transcription restored from the supplied question-paper PDF
 
-The current repository file `references/p5-23d-pyq-syl22.md` has a materially incomplete extraction. The uploaded source archives supplied for this repair contain model question papers and their suggested answers, but do not contain the December 2023 PYQ PDF. The matching suggested-answer file in the repository provides the MCQ answer key and descriptive answers, but it does not reproduce the complete original MCQ stems.
+The question-paper transcription in `p5-23d-pyq-syl22.md` was reconstructed against the four page images of the supplied December 2023 Paper 5 question-paper PDF.
 
-## Confirmed defects in the current Markdown
+## Repairs
 
-- The first two MCQ stems/options run together and contain OCR substitutions.
-- MCQ numbering and stems become displaced from Question 1(ix) onward.
-- The literal placeholder `Question stem...` replaces a missing MCQ.
-- The Section A questions following this placeholder are displaced into Section B.
-- Page headers, page numbers and footer text interrupt the question content.
-- Section B question numbering/labels are corrupted or displaced.
+- Restored all 15 Section A MCQ stems and their four options in the original sequence.
+- Repaired the displaced MCQ numbering from (i) to (xv).
+- Removed OCR substitutions and page-header/footer debris.
+- Restored Section B question numbering and all subquestion labels.
+- Recovered the full text of Questions 2(a) through 8(b) from the scanned pages.
+- Kept the question wording and original terminology; formatting and obvious OCR corrections were applied for readability.
 
-## Why the source has not been reconstructed here
+## Source
 
-The missing question stems cannot be reliably inferred from the answer key alone. Replacing the affected text with guesses would create unsupported exam content. Please supply the original December 2023 Paper 5 question-paper PDF (not only the suggested answers) to complete a source-faithful repair.
+The supplied file `p5-23d-pyq-syl22.pdf`, 4 pages:
+- Page 1: examination heading and MCQs (i)–(iv).
+- Page 2: MCQs (v)–(x).
+- Page 3: MCQs (xi)–(xv), Section B Questions 2 and 3.
+- Page 4: Section B Questions 4–8.
 
-## Validation performed
+## Cross-check
 
-The uploaded `p5.zip` and `p5_md.zip` were inspected. Both contain the Paper 5 MQP/answer files, not the December 2023 PYQ source file. The repository's existing suggested-answer file was also inspected and confirms the answer key and descriptive answers, but not all missing MCQ question text.
+The Section A answer-key sequence was cross-checked against `references/p5-23d-pyq-sa-syl22.md` in the repository. The suggested answers file also covers the descriptive questions, but the question-paper PDF was used as the source for the question text.
+
+## Notes
+
+- The PDF is scanned; its embedded text layer is empty. Transcription was therefore performed from the rendered page images.
+- Minor typographical and punctuation normalization is for Markdown readability and does not change the questions' substance.
