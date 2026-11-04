@@ -23,140 +23,140 @@
 
 ### 1 (i) - 2 marks
 
-In ROLN LTD., a product manufacturing Company, the question “Are we producing the right things”? can be closely related to: (
+In ROLN LTD., a product manufacturing Company, the question “Are we producing the right things”? can be closely related to:
 
-A) Process Selection (  
-B) Inventory Management (  
-C) Maintenance Management (  
+A) Process Selection
+B) Inventory Management
+C) Maintenance Management
 D) Quality Management
 
 ### 1 (ii) - 2 marks
 
-For Quality Assurance in Design, Production, Installation and Servicing the __________ model is to be used. (
+For Quality Assurance in Design, Production, Installation and Servicing the __________ model is to be used.
 
-A) ISO 9002 Model (  
-B) ISO 9001 Model (  
-C) ISO 9003 Model (  
+A) ISO 9002 Model
+B) ISO 9001 Model
+C) ISO 9003 Model
 D) None of the above
 
 ### 1 (iii) - 2 marks
 
-A Factory of XONT Ltd., has 13 workers producing a single product. The total output in a month of 24 working days is 370 units. What is the monthly productivity per worker? (
+A Factory of XONT Ltd., has 13 workers producing a single product. The total output in a month of 24 working days is 370 units. What is the monthly productivity per worker?
 
-A) 30 (  
-B) 28.46 (  
-C) 15.42 (  
+A) 30
+B) 28.46
+C) 15.42
 D) 20
 
 ### 1 (iv) - 2 marks
 
-The Growth phase of the Product Life Cycle is characterized by: (
+The Growth phase of the Product Life Cycle is characterized by:
 
-A) Decline in market share and profits (  
-B) Rapid increase in sales and market expansion (  
-C) Withdrawal of the product from the market (  
+A) Decline in market share and profits
+B) Rapid increase in sales and market expansion
+C) Withdrawal of the product from the market
 D) Lack of promotional activity
 
 ### 1 (v) - 2 marks
 
-Which of the following phases of Project Management Life Cycle, Signals the official end of the Project and provides a period for reflection, Wrap-up, and organization of materials? (
+Which of the following phases of Project Management Life Cycle, Signals the official end of the Project and provides a period for reflection, Wrap-up, and organization of materials?
 
-A) Execution Phase (  
-B) Project Quality Management (  
-C) Project closure (  
+A) Execution Phase
+B) Project Quality Management
+C) Project closure
 D) Planning Phase 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT & STRATEGIC MANAGEMENT
 
 ### 1 (vi) - 2 marks
 
-A Gantt Chart is also known as a ______________ (
+A Gantt Chart is also known as a ______________
 
-A) Bar Chart (  
-B) Flow Chart (  
-C) Line Graph (  
+A) Bar Chart
+B) Flow Chart
+C) Line Graph
 D) “Z” Chart
 
 ### 1 (vii) - 2 marks
 
-Which of the following is / are the primary Constraint(s) of a Project? (
+Which of the following is / are the primary Constraint(s) of a Project?
 
-A) Quality (  
-B) Time (  
-C) Cost (  
-D) All of the above (  
-A), (  
-B) and (  
+A) Quality
+B) Time
+C) Cost
+D) All of the above
+A),
+B) and
 C)
 
 ### 1 (viii) - 2 marks
 
-The SLACK Time of Head event of Activity-ZB of a Project-ROT is 2 days. If the total Float and Independent float of the Activity-ZB are 10 days and 5 days respectively, the Slack time of Tail event of the same will be ___________ (
+The SLACK Time of Head event of Activity-ZB of a Project-ROT is 2 days. If the total Float and Independent float of the Activity-ZB are 10 days and 5 days respectively, the Slack time of Tail event of the same will be ___________
 
-A) 4 Days (  
-B) 3 Days (  
-C) 2 Days (  
+A) 4 Days
+B) 3 Days
+C) 2 Days
 D) None of these
 
 ### 1 (ix) - 2 marks
 
-BXON Ltd., produces a Product-XN in its Machine-MB. Its Product-XN has a Mean Time Between Failure (MTBF) of 13.50 hours and has a Mean Time to Repair (MTTR) a Machine of 1.50 hours. What will be the availability of a Machine of Product-XN? (
+BXON Ltd., produces a Product-XN in its Machine-MB. Its Product-XN has a Mean Time Between Failure (MTBF) of 13.50 hours and has a Mean Time to Repair (MTTR) a Machine of 1.50 hours. What will be the availability of a Machine of Product-XN?
 
-A) 80 % (  
-B) 90 % (  
-C) 75 % (  
+A) 80 %
+B) 90 %
+C) 75 %
 D) None of the above
 
 ### 1 (x) - 2 marks
 
-POTN Company has kept records of breakdowns of its Machines for 300 days work a year as shown below: No. of Breakdown Frequency in days 1 90 2 150 3 60 If the Company estimates that each breakdown Costs ₹ 750, What will be the Cost of breakdown per day? (
+POTN Company has kept records of breakdowns of its Machines for 300 days work a year as shown below: No. of Breakdown Frequency in days 1 90 2 150 3 60 If the Company estimates that each breakdown Costs ₹ 750, What will be the Cost of breakdown per day?
 
-A) ₹ 1500 (  
-B) ₹ 1425 (  
-C) ₹ 1348 (  
+A) ₹ 1500
+B) ₹ 1425
+C) ₹ 1348
 D) None of the above 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT & STRATEGIC MANAGEMENT
 
 ### 1 (xi) - 2 marks
 
-Which of the following Types of Strategy, is about how to Compete Successfully in particular markets? (
+Which of the following Types of Strategy, is about how to Compete Successfully in particular markets?
 
-A) Corporate Strategy (  
-B) Business Strategy (  
-C) Functional Strategy (  
+A) Corporate Strategy
+B) Business Strategy
+C) Functional Strategy
 D) Operational Strategy
 
 ### 1 (xii) - 2 marks
 
-Which of the following organization is associated with the Vision in a brief phase “To make the world more open and connected”? (
+Which of the following organization is associated with the Vision in a brief phase “To make the world more open and connected”?
 
-A) Amazon (  
-B) Infosys (  
-C) Facebook (  
+A) Amazon
+B) Infosys
+C) Facebook
 D) Tesla
 
 ### 1 (xiii) - 2 marks
 
-What does “F” in the FAST goal setting framework stand for? (
+What does “F” in the FAST goal setting framework stand for?
 
-A) Financially Viable (  
-B) Fully achievable (  
-C) Frequently discussed (  
+A) Financially Viable
+B) Fully achievable
+C) Frequently discussed
 D) Fully Transparent
 
 ### 1 (xiv) - 2 marks
 
-Business Environment is ______________ (
+Business Environment is ______________
 
-A) Complex (  
-B) Dynamic (  
-C) Multi-faceted (  
+A) Complex
+B) Dynamic
+C) Multi-faceted
 D) All of the above
 
 ### 1 (xv) - 2 marks
 
-Which among the following is true? (
+Which among the following is true?
 
-A) BPR has resulted in major gains in efficiency. (  
-B) BPR has resulted in major gains in speed. (  
-C) BPR has resulted in major gains in quality. (  
+A) BPR has resulted in major gains in efficiency.
+B) BPR has resulted in major gains in speed.
+C) BPR has resulted in major gains in quality.
 D) BPR has resulted in major gains in efficiency, quality and speed. 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT & STRATEGIC MANAGEMENT
 
 # SECTION – B

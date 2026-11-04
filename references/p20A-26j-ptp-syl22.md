@@ -22,92 +22,92 @@
 
 ### 1 (i) - 2 marks
 
-The ________ ratios are used to compare financial statements of different size companies or the same company over different periods. (
+The ________ ratios are used to compare financial statements of different size companies or the same company over different periods.
 
-a) Common size (  
-b) DuPont (  
-c) Liquidity (  
+a) Common size
+b) DuPont
+c) Liquidity
 d) P/E
 
 ### 1 (ii) - 2 marks
 
-Mura and Muri refer to _____ and _____ respectively (
+Mura and Muri refer to _____ and _____ respectively
 
-a) Unevenness, waste (  
-b) Unevenness, overburden (  
-c) Overburden, waste (  
+a) Unevenness, waste
+b) Unevenness, overburden
+c) Overburden, waste
 d) Overburden, poka-yoke
 
 ### 1 (iii) - 2 marks
 
-A firm’s marginal revenue is defined as: (
+A firm’s marginal revenue is defined as:
 
-a) ratio of total revenue to total quantity produced; (  
-b) The additional output produced by lowering price (  
-c) The additional revenue received due to technical innovation; (  
+a) ratio of total revenue to total quantity produced;
+b) The additional output produced by lowering price
+c) The additional revenue received due to technical innovation;
 d) The additional revenue received when selling one more unit of output.
 
 ### 1 (iv) - 2 marks
 
-One of the following is not a qualitative method used for determining the level of risk of a business. (
+One of the following is not a qualitative method used for determining the level of risk of a business.
 
-a) Brainstorming (  
-b) Computer simulation (  
-c) Evaluation for multidisciplinary groups (  
+a) Brainstorming
+b) Computer simulation
+c) Evaluation for multidisciplinary groups
 d) Judgment of specialists and experts (Delphi Technique)
 
 ### 1 (v) - 2 marks
 
-Companies that grow and earn a return on capital that exceeds their cost of capital create value. (
+Companies that grow and earn a return on capital that exceeds their cost of capital create value.
 
-a) Alfred Marshall (  
-b) Black scholes (  
-c) Michael Porter (  
+a) Alfred Marshall
+b) Black scholes
+c) Michael Porter
 d) None of the above
 
 ### 1 (vi) - 2 marks
 
-Which method in a capital budgeting is based on the discounted cash flow? (
+Which method in a capital budgeting is based on the discounted cash flow?
 
-a) Net equity budgeting method (  
-b) Net capital budgeting method 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (  
-c) Net future value method (  
+a) Net equity budgeting method
+b) Net capital budgeting method 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
+c) Net future value method
 d) Net present value method
 
 ### 1 (vii) - 2 marks
 
-__________assumes that an individual generates work value as he or she occupies and moves along organisation roles and renders service to the enterprise (
+__________assumes that an individual generates work value as he or she occupies and moves along organisation roles and renders service to the enterprise
 
-a) Lev and Schwartz model (  
-b) Flam Holtz’s Stochastic Rewards Valuation Model (  
-c) Multi period excess earnings method (  
+a) Lev and Schwartz model
+b) Flam Holtz’s Stochastic Rewards Valuation Model
+c) Multi period excess earnings method
 d) None of the above
 
 ### 1 (viii) - 2 marks
 
-Credit rating AAA denotes for: (
+Credit rating AAA denotes for:
 
-a) Extremely unlikely to default (  
-b) Unlikely to default (  
-c) Likely to default (  
+a) Extremely unlikely to default
+b) Unlikely to default
+c) Likely to default
 d) Currently in default
 
 ### 1 (ix) - 2 marks
 
-If a bond of a company is trading at a premium in the market then its yield-to-maturity will be _________its current yield. (
+If a bond of a company is trading at a premium in the market then its yield-to-maturity will be _________its current yield.
 
-a) more than (  
-b) less than (  
-c) same as (  
+a) more than
+b) less than
+c) same as
 d) no effect on
 
 ### 1 (x) - 2 marks
 
-Which of the followings is not a attribute of good financial models (
+Which of the followings is not a attribute of good financial models
 
-a) Realistic (  
-b) Flexible (  
-c) Hard coded values (  
+a) Realistic
+b) Flexible
+c) Hard coded values
 d) Good documentation
 
 (b) Read the following scenario and answer the following questions:
@@ -135,47 +135,47 @@ Choose the correct option from the given alternatives based on the above scenari
 
 ### 1 (xi) - 2 marks
 
-Which firm has the highest efficiency? (
+Which firm has the highest efficiency?
 
-a) A (  
-b) B (  
-c) C (  
+a) A
+b) B
+c) C
 d) D
 
 ### 1 (xii) - 2 marks
 
-Relative efficiency of Firm B is (
+Relative efficiency of Firm B is
 
-a) 85.88 (  
-b) 43.40 (  
-c) 62.08 (  
+a) 85.88
+b) 43.40
+c) 62.08
 d) 100
 
 ### 1 (xiii) - 2 marks
 
-For inefficient firm, (
+For inefficient firm,
 
-a) Input Target = Actual Input (  
-b) Input Target > Actual Input (  
-c) Input Target < Actual Input (  
+a) Input Target = Actual Input
+b) Input Target > Actual Input
+c) Input Target < Actual Input
 d) Input Target = Input Slack
 
 ### 1 (xiv) - 2 marks
 
-Input slack for Firm B is (
+Input slack for Firm B is
 
-a) 2.2 (  
-b) 1.245 (  
-c) 0 (  
+a) 2.2
+b) 1.245
+c) 0
 d) 0.955
 
 ### 1 (xv) - 2 marks
 
-Output Target for Firm B is (
+Output Target for Firm B is
 
-a) ₹46 million (  
-b) ₹0.26 million (  
-c) ₹0.95 million (  
+a) ₹46 million
+b) ₹0.26 million
+c) ₹0.95 million
 d) ₹0.80 million 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 # SECTION – B
