@@ -23,11 +23,11 @@
 
 ### 1 (i) - 2 marks
 
-In Supply Chain Management, ATP stands for ______. (
+In Supply Chain Management, ATP stands for ______.
 
-A) Acquire, Track & Perform (  
-B) Available to Promise (  
-C) Access to Point (  
+A) Acquire, Track & Perform
+B) Available to Promise
+C) Access to Point
 D) Active Transport Protocol
 
 ### 1 (ii) - 2 marks
@@ -37,82 +37,82 @@ Arrange the five measurements below in the order of cause-and-effect ____.
 a. Improve customer loyalty.  
 b. Improve return on capital employed.  
 c. Improve repeat and expanded sales.  
-d. Improve cycle time. e. Improve on time delivery to customers (  
-A) b c a e d (  
-B) e d c  a  b (  
-C) d e a  c  b (  
+d. Improve cycle time. e. Improve on time delivery to customers
+A) b c a e d
+B) e d c  a  b
+C) d e a  c  b
 D) a d e b  c
 
 ### 1 (iii) - 2 marks
 
-Pareto Improvement is an action that makes ______. (
+Pareto Improvement is an action that makes ______.
 
-A) Both the person better off (  
-B) At least one person worse off (  
-C) At least one person worse off without making anyone better off (  
+A) Both the person better off
+B) At least one person worse off
+C) At least one person worse off without making anyone better off
 D) At least one person better off without making anyone worse off
 
 ### 1 (iv) - 2 marks
 
-When portfolio risk comprising of two securities A & B is -1,_____. (
+When portfolio risk comprising of two securities A & B is -1,_____.
 
-A) it does nothing to help reduce risk (  
-B) the overall portfolio risk can be eliminated (  
-C) systematic risk can be diversified (  
+A) it does nothing to help reduce risk
+B) the overall portfolio risk can be eliminated
+C) systematic risk can be diversified
 D) political risk can be diversified
 
 ### 1 (v) - 2 marks
 
-Tangible assets are usually valued using any of the following premises except _____. (
+Tangible assets are usually valued using any of the following premises except _____.
 
-A) Going Concern (  
-B) Forced Sale (  
-C) Orderly liquidation (  
+A) Going Concern
+B) Forced Sale
+C) Orderly liquidation
 D) Highest and best use 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (vi) - 2 marks
 
-Advik & Co’s debt is twice that of the equity. The required returns on the company's debt and equity are 8% and 10%, respectively. The company's marginal tax rate is 30%. The WACC of Advik & Co is closest to: (
+Advik & Co’s debt is twice that of the equity. The required returns on the company's debt and equity are 8% and 10%, respectively. The company's marginal tax rate is 30%. The WACC of Advik & Co is closest to:
 
-A) 6.07% (  
-B) 7.07% (  
-C) 8.67% (  
+A) 6.07%
+B) 7.07%
+C) 8.67%
 D) 8.07%
 
 ### 1 (vii) - 2 marks
 
-Which valuation method is primarily used to value franchise agreements and certain licenses? (
+Which valuation method is primarily used to value franchise agreements and certain licenses?
 
-A) Relief-from-royalty method (  
-B) Multi period excess earning method (  
-C) Greenfield method (  
+A) Relief-from-royalty method
+B) Multi period excess earning method
+C) Greenfield method
 D) With and without method
 
 ### 1 (viii) - 2 marks
 
-Current forecasts are for JSB Estates to pay dividends of ₹3, ₹3.24 & ₹3.50 over the next years respectively. At the end of three years, you anticipate selling your stock at a market price of ₹94.48. What is the price of the stock given a 12% expected return? (
+Current forecasts are for JSB Estates to pay dividends of ₹3, ₹3.24 & ₹3.50 over the next years respectively. At the end of three years, you anticipate selling your stock at a market price of ₹94.48. What is the price of the stock given a 12% expected return?
 
-A) ₹75.00 (  
-B) ₹70.00 (  
-C) ₹104.22 (  
+A) ₹75.00
+B) ₹70.00
+C) ₹104.22
 D) ₹84.74
 
 ### 1 (ix) - 2 marks
 
-X ltd. has ₹100 crores worth of common equity comprising of 50 lakh shares. The company’s market value added is ₹24 crores. What is company’s stock price? (
+X ltd. has ₹100 crores worth of common equity comprising of 50 lakh shares. The company’s market value added is ₹24 crores. What is company’s stock price?
 
-A) 230 (  
-B) 248 (  
-C) 238 (  
+A) 230
+B) 248
+C) 238
 D) 264
 
 ### 1 (x) - 2 marks
 
-An acquisition is being considered where the acquirer would pay ₹200 million for a target company that has a standalone value of ₹150 million. The acquirer has estimated ₹60 million in synergies, but expects the cost of integration to be ₹20 million. What is the net gain or loss? (
+An acquisition is being considered where the acquirer would pay ₹200 million for a target company that has a standalone value of ₹150 million. The acquirer has estimated ₹60 million in synergies, but expects the cost of integration to be ₹20 million. What is the net gain or loss?
 
-A) ₹10 million net loss (  
-B) ₹10 million net gain (  
-C) ₹30 million net loss (  
+A) ₹10 million net loss
+B) ₹10 million net gain
+C) ₹30 million net loss
 D) ₹30 million net gain
 
 b) Read the following scenario and answer the following questions:
@@ -150,49 +150,49 @@ Answer the following questions based on the above scenario.
 
 ### 1 (xi) - 2 marks
 
-What is the EVA of the API Division? (
+What is the EVA of the API Division?
 
-A) ₹630 lakhs (  
-B) ₹1,400 lakhs (  
-C) ₹620 lakhs (  
+A) ₹630 lakhs
+B) ₹1,400 lakhs
+C) ₹620 lakhs
 D) ₹1,330 lakhs
 
 ### 1 (xii) - 2 marks
 
-Which divisions have outperformed the industry benchmark ROI of 18%? (
+Which divisions have outperformed the industry benchmark ROI of 18%?
 
-A) FD and R&D (  
-B) API and R&D (  
-C) FD& API (  
+A) FD and R&D
+B) API and R&D
+C) FD& API
 D) API
 
 ### 1 (xiii) - 2 marks
 
-Based on Balanced Scorecard’s Learning & Growth perspective, which division is performing best? (
+Based on Balanced Scorecard’s Learning & Growth perspective, which division is performing best?
 
-A) RD (  
-B) API (  
-C) FD (  
+A) RD
+B) API
+C) FD
 D) All are performing at the same level
 
 ### 1 (xiv) - 2 marks
 
-If Asterix plans to benchmark non-financial performance, which combination of metrics below would be MOST appropriate for the R&D division? (
+If Asterix plans to benchmark non-financial performance, which combination of metrics below would be MOST appropriate for the R&D division?
 
-A) Operating profit, ROI (  
-B) Capital Employed, WACC (  
-C) EVA, Training hours (  
+A) Operating profit, ROI
+B) Capital Employed, WACC
+C) EVA, Training hours
 D) Customer Satisfaction, Employee Training Hours
 
 ### 1 (xv) - 2 marks
 
-What strategic insight does the negative EVA and ROI of the R&D division provide in the context of long-term strategic performance management? (
+What strategic insight does the negative EVA and ROI of the R&D division provide in the context of long-term strategic performance management?
 
-A) R&D should be shut down due to poor returns. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (  
-B) Financial metrics alone are insufficient to evaluate R&D (  
-C) R&D is underperforming due to capital misallocation (  
-D) EVA is not applicable for R&D (5×2 = 10) Question No. Correct Option (  
-a) (i) B (ii) C (iii) D (iv) B (v) A (vi) B (vii) C (viii) A (ix) B (x) A (  
+A) R&D should be shut down due to poor returns. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
+B) Financial metrics alone are insufficient to evaluate R&D
+C) R&D is underperforming due to capital misallocation
+D) EVA is not applicable for R&D (5×2 = 10) Question No. Correct Option
+a) (i) B (ii) C (iii) D (iv) B (v) A (vi) B (vii) C (viii) A (ix) B (x) A
 b) (xi) A (xii) C (xiii) A (xiv) D (xv) B
 
 ### Answer:
