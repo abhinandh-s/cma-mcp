@@ -92,7 +92,7 @@ pub fn handle_get_exam_paper(args: Option<&Map<String, Value>>, cat: &CatalogCac
     let Some(raw_paper) = args.and_then(|a| a.get("paper")).and_then(Value::as_str) else {
         return tool_text_result(
             format!(
-                "Provide either `query` (e.g. `p5 26j pyq sa`) or `paper` (`p1`..`p20c`). Available files: {:?}",
+                "Provide either `query` (e.g. `p5 26j pyq sa`) or `paper` (`p1`..`p20c`). Use `list_exam_papers` to discover files.",
             ),
             true,
         );
@@ -232,7 +232,7 @@ fn match_and_read_reference(query: &RefQuery, cat: &CatalogCache) -> Value {
             let prefix = query.canonical_prefix();
             tool_text_result(
                 format!(
-                    "No reference file found matching `{prefix}`. Available files: {:?}",
+                    "No reference file found matching `{prefix}`. Use `list_exam_papers` with filters to discover files.",
                 ),
                 true,
             )
