@@ -23,92 +23,92 @@
 
 ### 1 (i) - 2 marks
 
-According to McClelland's Human motivation theory which of the following is not a main driving motivators. (
+According to McClelland's Human motivation theory which of the following is not a main driving motivators.
 
-A) Needs for Achievement (  
-B) Needs for Affiliation (  
-C) Needs for Power (  
+A) Needs for Achievement
+B) Needs for Affiliation
+C) Needs for Power
 D) Needs for Consoling
 
 ### 1 (ii) - 2 marks
 
-The Order -to- Cash is an integration point between .............................. (
+The Order -to- Cash is an integration point between ..............................
 
-A) Finance and Accounts (  
-B) Finance and Sales (  
-C) Finance and Materials (  
+A) Finance and Accounts
+B) Finance and Sales
+C) Finance and Materials
 D) Finance and Factoring
 
 ### 1 (iii) - 2 marks
 
-........... is a Funding model that lets you collect small contributions from many individuals (
+........... is a Funding model that lets you collect small contributions from many individuals
 
-A) Angel Financing (  
-B) Incubators (  
-C) Crowdfunding (  
+A) Angel Financing
+B) Incubators
+C) Crowdfunding
 D) Family and Friend Circle
 
 ### 1 (iv) - 2 marks
 
-................... of the product is determined by some emotional consideration as well as by tangible elements. (
+................... of the product is determined by some emotional consideration as well as by tangible elements.
 
-A) Market Value (  
-B) Perceived Value (  
-C) Credible Value (  
+A) Market Value
+B) Perceived Value
+C) Credible Value
 D) Psychological Value
 
 ### 1 (v) - 2 marks
 
-Identification of ............... in terms of products and services is an important task of an entrepreneur. (
+Identification of ............... in terms of products and services is an important task of an entrepreneur.
 
-A) Gaps (  
-B) Size (  
-C) Partners (  
+A) Gaps
+B) Size
+C) Partners
 D) Competitors
 
 ### 1 (vi) - 2 marks
 
-The process of redefining problems, understanding the challenges faced by users and coming up with an innovative solution is known as ................ 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20C SYLLABUS 2022 ENTREPRENEURSHIP AND STARTUP (
+The process of redefining problems, understanding the challenges faced by users and coming up with an innovative solution is known as ................ 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20C SYLLABUS 2022 ENTREPRENEURSHIP AND STARTUP
 
-A) Design thinking (  
-B) Positioning (  
-C) Scalability (  
+A) Design thinking
+B) Positioning
+C) Scalability
 D) Market traction
 
 ### 1 (vii) - 2 marks
 
-.............are firms that are able to command a high market share in an industry dominated by low growth. (
+.............are firms that are able to command a high market share in an industry dominated by low growth.
 
-A) Cash cows (  
-B) Leverage buyout (  
-C) Milestone (  
+A) Cash cows
+B) Leverage buyout
+C) Milestone
 D) Critical mass
 
 ### 1 (viii) - 2 marks
 
-.................... is an important concept in supply chain management (
+.................... is an important concept in supply chain management
 
-A) Risk pooling (  
-B) Risk mitigation (  
-C) Risk monitoring (  
+A) Risk pooling
+B) Risk mitigation
+C) Risk monitoring
 D) Risk reduction
 
 ### 1 (ix) - 2 marks
 
-Honesty, Integrity, Fairness and a host of other admirable qualities are example of (
+Honesty, Integrity, Fairness and a host of other admirable qualities are example of
 
-A) Ethical behaviour (  
-B) Sustainability (  
-C) Best practices (  
+A) Ethical behaviour
+B) Sustainability
+C) Best practices
 D) Business ethics
 
 ### 1 (x) - 2 marks
 
-..................... has been formulated for enhancing agricultural productivity specially in rained area focusing on integrated farming, water use efficiency and soil health. (
+..................... has been formulated for enhancing agricultural productivity specially in rained area focusing on integrated farming, water use efficiency and soil health.
 
-A) NMSA (National Mission for Sustainable Agriculture) (  
-B) E-NAM (National Agricultural Market) (  
-C) PMKSY (Pradhan Mantri Krishi Sinachai Yojana) (  
+A) NMSA (National Mission for Sustainable Agriculture)
+B) E-NAM (National Agricultural Market)
+C) PMKSY (Pradhan Mantri Krishi Sinachai Yojana)
 D) PKVY (Paramparagat Krishi Vikas Yojana)
 
 (b) Read the following Scenario (Case study) and answer the following Questions: [5×2=10]
@@ -133,64 +133,64 @@ Choose the Correct option from the given four alternatives based on the above Sc
 
 ### 1 (xi) - 2 marks
 
-One of the biggest disadvantage of Bootstrapping is (
+One of the biggest disadvantage of Bootstrapping is
 
-A) Ownership diluted (  
-B) Less control over decisions (  
-C) Limited capital for growth (  
+A) Ownership diluted
+B) Less control over decisions
+C) Limited capital for growth
 D) Complete loss of ownership
 
 ### 1 (xii) - 2 marks
 
-Which of the following is not a stage of Bootstrapping (
+Which of the following is not a stage of Bootstrapping
 
-A) Beginner Stage (  
-B) Venture Stage (  
-C) Customer Funded Stage (  
+A) Beginner Stage
+B) Venture Stage
+C) Customer Funded Stage
 D) Credit Stage
 
 ### 1 (xiii) - 2 marks
 
-Bootstrapping is best suited for entrepreneurs who (
+Bootstrapping is best suited for entrepreneurs who
 
-A) What to scale rapidly using external funds. (  
-B) Are comfortable with giving up control to investors. (  
-C) Prefer financial independence and control. (  
+A) What to scale rapidly using external funds.
+B) Are comfortable with giving up control to investors.
+C) Prefer financial independence and control.
 D) Have access to venture capital funding.
 
 ### 1 (xiv) - 2 marks
 
-Which of the following is not a Bootstrapping Strategy. (
+Which of the following is not a Bootstrapping Strategy.
 
-A) Reinvest net profit (  
-B) Make joint ventures (  
-C) Use network opportunities (  
+A) Reinvest net profit
+B) Make joint ventures
+C) Use network opportunities
 D) Attract a mentor
 
 ### 1 (xv) - 2 marks
 
-Bootstrapping is generally more feasible when (
+Bootstrapping is generally more feasible when
 
-A) The business has high startup capital needs. (  
-B) The entrepreneur is not willing to take risks. (  
-C) The business model can generate quick cash flow. (  
-D) The product requires long R&D cycles. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20C SYLLABUS 2022 ENTREPRENEURSHIP AND STARTUP (  
-a) (i) (  
-D) (ii) (  
-B) (iii) (  
-C) (iv) (  
-B) (v) (  
-A) (vi) (  
-A) (vii) (  
-A) (viii) (  
-A) (ix) (  
-A) (x) (  
-A) (  
-b) (i) (  
-C) (ii) (  
-B) (iii) (  
-C) (iv) (  
-B) (v) (  
+A) The business has high startup capital needs.
+B) The entrepreneur is not willing to take risks.
+C) The business model can generate quick cash flow.
+D) The product requires long R&D cycles. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20C SYLLABUS 2022 ENTREPRENEURSHIP AND STARTUP
+a) (i)
+D) (ii)
+B) (iii)
+C) (iv)
+B) (v)
+A) (vi)
+A) (vii)
+A) (viii)
+A) (ix)
+A) (x)
+A)
+b) (i)
+C) (ii)
+B) (iii)
+C) (iv)
+B) (v)
 C)
 
 ### Answer:

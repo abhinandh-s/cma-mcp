@@ -98,8 +98,8 @@ Tableau is a -
 
 a) Business Intelligence Tool  
 b) Visualisation Tool  
-c) Both (  
-a) and (  
+c) Both
+a) and
 b)  
 d) None of the above
 

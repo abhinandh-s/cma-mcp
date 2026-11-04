@@ -178,8 +178,8 @@ Output Target for Firm B is
 a) ₹0.46 million  
 b) ₹0.26 million  
 c) ₹0.95 million  
-d) ₹0.80 million (  
-a) i ii iii iv v vi vii viii ix x d d c d a a b b c d 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (  
+d) ₹0.80 million
+a) i ii iii iv v vi vii viii ix x d d c d a a b b c d 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 2 MODEL ANSWERS TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 b) i ii iii iv v a b c b a
 
 ### Answer:

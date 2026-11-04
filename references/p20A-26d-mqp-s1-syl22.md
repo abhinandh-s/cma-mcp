@@ -25,90 +25,90 @@
 
 Which process is not part of Payne & Frow’s 5-process model relating to CRM?
 
-A) Risk Mitigation Process (  
-B) Value Creation Process (  
-C) Multi-channel Integration Process (  
+A) Risk Mitigation Process
+B) Value Creation Process
+C) Multi-channel Integration Process
 D) Strategy Development Process
 
 ### 1 (ii) - 2 marks
 
 Small / mid-sized Six Sigma projects are executed by professionals titled as
 
-A) Champion (  
-B) Black Belt (  
-C) Site Champion (  
+A) Champion
+B) Black Belt
+C) Site Champion
 D) Green Belt
 
 ### 1 (iii) - 2 marks
 
 Grow more, a startup company has stated that it wishes to ensure that it delivers 95% of goods to customers within 15 days of placing an order. It is an example of ______.
 
-A) Mission (  
-B) Vision (  
-C) Key Performance Indicator (  
+A) Mission
+B) Vision
+C) Key Performance Indicator
 D) Critical Success Factor
 
 ### 1 (iv) - 2 marks
 
 Which is not part of risk response that deals with the prioritization of risks?
 
-A) Risk Avoidance (  
-B) Risk Reporting (  
-C) Risk Sharing (  
+A) Risk Avoidance
+B) Risk Reporting
+C) Risk Sharing
 D) Risk Acceptance
 
 ### 1 (v) - 2 marks
 
 Which valuation approach is based on the principle of substitution, suggesting a buyer will not pay more for an asset than the cost to obtain an equal utility asset?
 
-A) Income Approach (  
-B) Market Approach (  
-C) Cost Approach (  
+A) Income Approach
+B) Market Approach
+C) Cost Approach
 D) Dividend Discount Model
 
 ### 1 (vi) - 2 marks
 
 A firm has an expected dividend payout ratio of 60% and an expected future growth rate of 7%. What should be the firm’s P/E ratio if the required return is 15%?
 
-A) 5 times (  
-B) 2.5 times (  
-C) 10 times (  
+A) 5 times
+B) 2.5 times
+C) 10 times
 D) 7.5 times
 
 ### 1 (vii) - 2 marks
 
 XFR Limited has announced the issue of warrants on a 1:1 basis for its equity shareholders. The current price of the stock is ₹10 and warrants are convertible at an exercise price of ₹11.71 per share. Warrants are detachable and are trading at ₹3. What is the minimum price of the warrant?
 
-A) ₹1.71 (  
-B) ₹3.00 (  
-C) ₹3.71 (  
+A) ₹1.71
+B) ₹3.00
+C) ₹3.71
 D) NIL
 
 ### 1 (viii) - 2 marks
 
 A 4-year bond with 10% coupon rate, maturity value of ₹1,000, is currently selling at ₹900. The YTM of the bond is
 
-A) 16.60% (  
-B) 10.40 % (  
-C) 13.39% (  
+A) 16.60%
+B) 10.40 %
+C) 13.39%
 D) 13.89%
 
 ### 1 (ix) - 2 marks
 
 Value Gap is the difference between
 
-A) Synergy Value and purchase price (  
-B) Intrinsic value and purchase price (  
-C) Market Value and Purchase Price (  
+A) Synergy Value and purchase price
+B) Intrinsic value and purchase price
+C) Market Value and Purchase Price
 D) Intrinsic Value and Synergy Value
 
 ### 1 (x) - 2 marks
 
 A poison pill is a strategy used as a
 
-A) Synergistic merger tactic (  
-B) Method for calculating fair value exchange ratios (  
-C) Reactive takeover defense to make a target unattractive. (  
+A) Synergistic merger tactic
+B) Method for calculating fair value exchange ratios
+C) Reactive takeover defense to make a target unattractive.
 D) Performance improvement tool in Lean Management.
 
 (b) Read the following scenario and answer the following questions:
@@ -140,45 +140,45 @@ Answer the following questions based on the above scenario.
 
 Which division currently exhibits the highest Return on Investment (ROI) and what is its value?
 
-A) Division G; 18% (  
-B) Division X; 16.5% (  
-C) Division G; 14% (  
+A) Division G; 18%
+B) Division X; 16.5%
+C) Division G; 14%
 D) Division P; 13.6%
 
 ### 1 (xii) - 2 marks
 
 If Division G is evaluated solely on ROI, its manager is likely to:
 
-A) Accept the new investment because its ROI (14%) meets the company's hurdle rate. (  
-B) Reject the new investment because it would dilute the division's current ROI from 18% to approximately 16.8% (  
-C) Accept the investment because it increases the absolute Residual Income of the division. (  
+A) Accept the new investment because its ROI (14%) meets the company's hurdle rate.
+B) Reject the new investment because it would dilute the division's current ROI from 18% to approximately 16.8%
+C) Accept the investment because it increases the absolute Residual Income of the division.
 D) Reject the investment because the incremental ROI is lower than the 14% desired rate.
 
 ### 1 (xiii) - 2 marks
 
 Calculate the current Residual Income (RI) for Division X and determine its status:
 
-A) ₹ 1,73,250; Positive RI indicating value creation. (  
-B) ₹ 26,250; Positive RI indicates the division exceeds its cost of capital. (  
-C) ₹ (1,08,000); Negative RI indicating value destruction. (  
+A) ₹ 1,73,250; Positive RI indicating value creation.
+B) ₹ 26,250; Positive RI indicates the division exceeds its cost of capital.
+C) ₹ (1,08,000); Negative RI indicating value destruction.
 D) ₹ 1,47,000; Positive RI based on a 14% capital charge.
 
 ### 1 (xiv) - 2 marks
 
 Evaluate KIC’s liquidity performance by calculating its current Days’ Sales Outstanding (DSO). How does it compare to the industry average?
 
-A) 54.75 days; KIC is less efficient than the industry. (  
-B) 36.50 days; KIC is more efficient than the industry. (  
-C) 45.00 days; KIC is performing at par with the industry. (  
+A) 54.75 days; KIC is less efficient than the industry.
+B) 36.50 days; KIC is more efficient than the industry.
+C) 45.00 days; KIC is performing at par with the industry.
 D) 15.00 days; KIC has superior collection policies.
 
 ### 1 (xv) - 2 marks
 
 Considering the trends in Building Permits and IIP, what is the most plausible interpretation of the current economic phase?
 
-A) A downturn is imminent as IIP is a leading indicator showing minimal growth. (  
-B) The economy is in a recession as building permits are lagging indicators. (  
-C) The economy is in an expansion/recovery phase as both leading and coincident indicators are rising. (  
+A) A downturn is imminent as IIP is a leading indicator showing minimal growth.
+B) The economy is in a recession as building permits are lagging indicators.
+C) The economy is in an expansion/recovery phase as both leading and coincident indicators are rising.
 D) The data is inconclusive as Building Permits and IIP are unrelated to the business cycle.
 
 # SECTION – B

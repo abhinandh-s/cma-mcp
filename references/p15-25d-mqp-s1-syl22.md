@@ -22,102 +22,102 @@
 
 ### 1 (i) - 2 marks
 
-What is the due date of filing the return of income in case of a company who is required to furnish a report in Form No. 3CEB under section 92E? (
+What is the due date of filing the return of income in case of a company who is required to furnish a report in Form No. 3CEB under section 92E?
 
-a) September 30 of the assessment year (  
-b) July 31 of the assessment year (  
-c) June 30 of relevant assessment the year (  
+a) September 30 of the assessment year
+b) July 31 of the assessment year
+c) June 30 of relevant assessment the year
 d) November 30 of the assessment the year
 
 ### 1 (ii) - 2 marks
 
-Vijay Child Welfare Trust is registered under section 12AA of the Income-tax Act. For the Assessment year 2025-2026 its income before allowing exemption under section 11 and under section 12 exceeded the maximum amount which is not chargeable to income-tax. It failed to file its return of income by ‘due date’ as specified under section 139(1). How much is the quantum of penalty that could be levied on the assessee for its failure to file its ITR on or before the ‘due date’? (
+Vijay Child Welfare Trust is registered under section 12AA of the Income-tax Act. For the Assessment year 2025-2026 its income before allowing exemption under section 11 and under section 12 exceeded the maximum amount which is not chargeable to income-tax. It failed to file its return of income by ‘due date’ as specified under section 139(1). How much is the quantum of penalty that could be levied on the assessee for its failure to file its ITR on or before the ‘due date’?
 
-a) ₹100 per day for which the default continues (  
-b) ₹200 per day for which the default continues (  
-c) ₹500 per day for which the default continues (  
+a) ₹100 per day for which the default continues
+b) ₹200 per day for which the default continues
+c) ₹500 per day for which the default continues
 d) ₹10,000
 
 ### 1 (iii) - 2 marks
 
-During the P.Y. 2024-25, Mr. Manoj has the following income and brought forward losses: Short-term capital gains on sale of shares: ₹1,75,000 Brought forward Long-term capital loss (AY 2022-23): ₹96,000 Brought forward Short-term capital loss (AY 2023-24): ₹42,000 Long-term capital gain u/s 112: ₹85,000 As per the provisions of the Income-tax Act, 1961, what will be the taxable capital gain in the hands of Mr. Manoj for AY 2025-26? (
+During the P.Y. 2024-25, Mr. Manoj has the following income and brought forward losses: Short-term capital gains on sale of shares: ₹1,75,000 Brought forward Long-term capital loss (AY 2022-23): ₹96,000 Brought forward Short-term capital loss (AY 2023-24): ₹42,000 Long-term capital gain u/s 112: ₹85,000 As per the provisions of the Income-tax Act, 1961, what will be the taxable capital gain in the hands of Mr. Manoj for AY 2025-26?
 
-a) ₹1,33,000 (  
-b) ₹1,75,000 (  
-c) ₹85,000 (  
+a) ₹1,33,000
+b) ₹1,75,000
+c) ₹85,000
 d) Nil
 
 ### 1 (iv) - 2 marks
 
-In case of an application made by the assessee u/s 154, the income-tax authority shall rectify the order/refuse the rectification within __________ from the end of the month in which the application is received by the authority. (
+In case of an application made by the assessee u/s 154, the income-tax authority shall rectify the order/refuse the rectification within __________ from the end of the month in which the application is received by the authority.
 
-a) 4 years (  
-b) 2 years (  
-c) 1 year (  
+a) 4 years
+b) 2 years
+c) 1 year
 d) 6 months
 
 ### 1 (v) - 2 marks
 
 Mr. Krishna, a resident individual aged 48 years, did not furnish his return of income for
 
-A.Y. 2025-26. His total income was assessed u/s 144 at ₹12,00,000. As per section 270A of the Income-tax Act, 1961, is penalty attracted in this case, and if so, what is the quantum of penalty leviable? (  
-a) No penalty is leviable, since tax has been assessed u/s 144. (  
-b) Yes, penalty is leviable @50% of tax payable, i.e., ₹41,600. (  
-c) Yes, penalty is leviable @200% of tax payable, i.e., ₹1,66,400. (  
+A.Y. 2025-26. His total income was assessed u/s 144 at ₹12,00,000. As per section 270A of the Income-tax Act, 1961, is penalty attracted in this case, and if so, what is the quantum of penalty leviable?
+a) No penalty is leviable, since tax has been assessed u/s 144.
+b) Yes, penalty is leviable @50% of tax payable, i.e., ₹41,600.
+c) Yes, penalty is leviable @200% of tax payable, i.e., ₹1,66,400.
 d) No penalty, since income is below ₹15,00,000
 
 ### 1 (vi) - 2 marks
 
-The Joint Commissioner of Income-tax (Appeals) is the ________ appellate authority. (
+The Joint Commissioner of Income-tax (Appeals) is the ________ appellate authority.
 
-a) First (  
-b) Second (  
-c) Third (  
+a) First
+b) Second
+c) Third
 d) Fourth
 
 ### 1 (vii) - 2 marks
 
-ICDS is applicable in case of income under the head: (
+ICDS is applicable in case of income under the head:
 
-a) Profits and gains from Business or Profession (  
-b) Capital Gains (  
-c) Income from House Property (  
+a) Profits and gains from Business or Profession
+b) Capital Gains
+c) Income from House Property
 d) All heads of income
 
 ### 1 (viii) - 2 marks
 
-The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 extends to: (
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 extends to:
 
-a) Whole of India (  
-b) Whole of India excluding Jammu and Kashmir (  
-c) Whole of India excluding Jammu and Kashmir and Arunachal Pradesh (  
+a) Whole of India
+b) Whole of India excluding Jammu and Kashmir
+c) Whole of India excluding Jammu and Kashmir and Arunachal Pradesh
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-According to sec. 2(42C), _______________ means transfer, by any means, of undertaking(s) for a lump sum consideration without assigning values to the individual assets of such undertaking(s). (
+According to sec. 2(42C), _______________ means transfer, by any means, of undertaking(s) for a lump sum consideration without assigning values to the individual assets of such undertaking(s).
 
-a) Amalgamation (  
-b) Demerger (  
-c) Slump Sale (  
+a) Amalgamation
+b) Demerger
+c) Slump Sale
 d) None of the above.
 
 ### 1 (x) - 2 marks
 
-The provisions of sec. 92 will apply only if the aggregate value of specified domestic transactions entered into by the taxpayer during the year exceeds a sum of ₹ _____. (
+The provisions of sec. 92 will apply only if the aggregate value of specified domestic transactions entered into by the taxpayer during the year exceeds a sum of ₹ _____.
 
-a) 100 crores (  
-b) 5 crores (  
-c) 10 crores (  
+a) 100 crores
+b) 5 crores
+c) 10 crores
 a) 20 crores
 
 ### 1 (xi) - 2 marks
 
-Advance Pricing Agreement shall be valid for such period not exceeding _____ consecutive previous years as may be specified in the agreement. (
+Advance Pricing Agreement shall be valid for such period not exceeding _____ consecutive previous years as may be specified in the agreement.
 
-a) 5 (  
-b) 3 (  
-c) 10 (  
+a) 5
+b) 3
+c) 10
 d) 2
 
 ### 1 (xii) - 2 marks
@@ -126,37 +126,37 @@ B is a foreign company having permanent establishment (namely
 
 A) in India. C, a non-resident associated enterprise, has invested ₹ 900 crore through debt in  
 A. Earnings before interest, taxes, depreciation and amortisation (EBITDA) of A during the financial year was ₹ 150 crore. What is the amount of interest allowable in respect of the debt assuming that the debt was invested on the first day of the financial year and the rate of interest is 10% p.  
-a.? (  
-a) ₹ 45 crore (  
-b) ₹ 90 crore (  
-c) ₹ 30 crore (  
+a.?
+a) ₹ 45 crore
+b) ₹ 90 crore
+c) ₹ 30 crore
 d) ₹ 27 crore
 
 ### 1 (xiii) - 2 marks
 
-In respect of DTAA, generally, India follows: (
+In respect of DTAA, generally, India follows:
 
-a) UN Model (  
-b) UK Model (  
-c) OECD Model (  
+a) UN Model
+b) UK Model
+c) OECD Model
 d) US Model
 
 ### 1 (xiv) - 2 marks
 
-In UN model of DTAA, there are VII chapters which contains ______________ articles. (
+In UN model of DTAA, there are VII chapters which contains ______________ articles.
 
-a) 32 (  
-b) 31 (  
-c) 30 (  
+a) 32
+b) 31
+c) 30
 d) None of the above
 
 ### 1 (xv) - 2 marks
 
-GAAR provisions shall not apply to: (
+GAAR provisions shall not apply to:
 
-a) an arrangement where the tax benefit in the relevant assessment year arising, in aggregate, to all the parties to the arrangement does not exceed a sum of ₹ 3 crore (  
-b) an arrangement where the tax benefit in the relevant assessment year arising, in aggregate, to all the parties to the arrangement does not exceed a sum of ₹5 crore (  
-c) an arrangement where the tax benefit in the relevant assessment year arising, in aggregate, to all the parties to the arrangement does not exceed a sum of ₹1 crore (  
+a) an arrangement where the tax benefit in the relevant assessment year arising, in aggregate, to all the parties to the arrangement does not exceed a sum of ₹ 3 crore
+b) an arrangement where the tax benefit in the relevant assessment year arising, in aggregate, to all the parties to the arrangement does not exceed a sum of ₹5 crore
+c) an arrangement where the tax benefit in the relevant assessment year arising, in aggregate, to all the parties to the arrangement does not exceed a sum of ₹1 crore
 d) None of the above
 
 # SECTION – B

@@ -22,137 +22,137 @@
 
 ### 1 (i) - 2 marks
 
-A department store has one storekeeper. The average number of customers handled by the storekeeper is 30 per hour. If the customer arrives at the store at mean rate of 25 per hour, what will be the average number of customers in the system: (
+A department store has one storekeeper. The average number of customers handled by the storekeeper is 30 per hour. If the customer arrives at the store at mean rate of 25 per hour, what will be the average number of customers in the system:
 
-a) 2 customers. (  
-b) 3 customers. (  
-c) 5 customers. (  
+a) 2 customers.
+b) 3 customers.
+c) 5 customers.
 d) None of the above.
 
 ### 1 (ii) - 2 marks
 
-Which one of the following standards is associated with the "Quality Assurance” in Final Inspection Test"? (
+Which one of the following standards is associated with the "Quality Assurance” in Final Inspection Test"?
 
-a) ISO 9001. (  
-b) ISO 9002. (  
-c) ISO 9003. (  
+a) ISO 9001.
+b) ISO 9002.
+c) ISO 9003.
 d) ISO 9004.
 
 ### 1 (iii) - 2 marks
 
-Business Process Re-engineering is: (
+Business Process Re-engineering is:
 
-a) eliminating loss-making process. (  
-b) redesigning operational processes. (  
-c) redesigning the product and services. (  
+a) eliminating loss-making process.
+b) redesigning operational processes.
+c) redesigning the product and services.
 d) recruiting the process engineers.
 
 ### 1 (iv) - 2 marks
 
-Forecasting the weather is an example of: (
+Forecasting the weather is an example of:
 
-a) Narrow AI. (  
-b) General AI/human-level. (  
-c) Super AI. (  
+a) Narrow AI.
+b) General AI/human-level.
+c) Super AI.
 d) Deep- learning.
 
 ### 1 (v) - 2 marks
 
-‘Z’ chart is a chart used in: (
+‘Z’ chart is a chart used in:
 
-a) Programme control. (  
-b) Job control. (  
-c) Cost control. (  
+a) Programme control.
+b) Job control.
+c) Cost control.
 d) Quality control.
 
 ### 1 (vi) - 2 marks
 
-The starting point of Production cycle is (
+The starting point of Production cycle is
 
-a) Product design (  
-b) Production planning (  
-c) Routing (  
+a) Product design
+b) Production planning
+c) Routing
 d) Market Research
 
 ### 1 (vii) - 2 marks
 
-The lead-time is the time: (
+The lead-time is the time:
 
-a) To place holders for materials. (  
-b) Time of receiving materials. (  
-c) Time between receipt of material and using materials. (  
+a) To place holders for materials.
+b) Time of receiving materials.
+c) Time between receipt of material and using materials.
 d) Time between placing the order and receiving the materials.
 
 ### 1 (viii) - 2 marks
 
-The type of production control which is typically found where a particular bottleneck machines exists in the process of manufacturing is (
+The type of production control which is typically found where a particular bottleneck machines exists in the process of manufacturing is
 
-a) Block control (  
-b) Load control (  
-c) Flow control (  
+a) Block control
+b) Load control
+c) Flow control
 d) Batch control
 
 ### 1 (ix) - 2 marks
 
-Which one of the following is NOT the advantage of Preventive Maintenance? (
+Which one of the following is NOT the advantage of Preventive Maintenance?
 
-a) Better product quality (  
-b) Greater safety of workers (  
-c) Increased breakdowns and downtime (  
+a) Better product quality
+b) Greater safety of workers
+c) Increased breakdowns and downtime
 d) Fewer large-scale repairs
 
 ### 1 (x) - 2 marks
 
-A Ltd., a large scale industry manufactures Product K of 24 units per shift of 8 hours. The standard time per unit is 15 minutes. What is the productivity of the per shift of 8 hours? (
+A Ltd., a large scale industry manufactures Product K of 24 units per shift of 8 hours. The standard time per unit is 15 minutes. What is the productivity of the per shift of 8 hours?
 
-a) 50% (  
-b) 60% (  
-c) 75% (  
+a) 50%
+b) 60%
+c) 75%
 d) 80%
 
 ### 1 (xi) - 2 marks
 
-The objective function of a LPP is Z = 3x + 2x . If x = 10 and x = 5, then the value of Z is: 1 2 1 2 (
+The objective function of a LPP is Z = 3x + 2x . If x = 10 and x = 5, then the value of Z is: 1 2 1 2
 
-a) 35 (  
-b) 40 (  
-c) 45 (  
+a) 35
+b) 40
+c) 45
 d) 50
 
 ### 1 (xii) - 2 marks
 
-A _______________ is a business unit in a growing market, but not yet with high market share. (
+A _______________ is a business unit in a growing market, but not yet with high market share.
 
-a) cash cow (  
-b) dog (  
-c) question mark (  
+a) cash cow
+b) dog
+c) question mark
 d) star
 
 ### 1 (xiii) - 2 marks
 
-The test is a catch-all category, indicating that the structure must fit legal, stakeholder, trade union or similar constraints. (
+The test is a catch-all category, indicating that the structure must fit legal, stakeholder, trade union or similar constraints.
 
-a) The Feasibility Test (  
-b) The People Test (  
-c) The Parenting Advantage Test (  
+a) The Feasibility Test
+b) The People Test
+c) The Parenting Advantage Test
 d) The Specialised Cultures Test
 
 ### 1 (xiv) - 2 marks
 
-________ is similar to referral programs. (
+________ is similar to referral programs.
 
-a) Influencer marketing (  
-b) Affiliate Marketing (  
-c) Pay-per-click (  
+a) Influencer marketing
+b) Affiliate Marketing
+c) Pay-per-click
 d) Content marketing
 
 ### 1 (xv) - 2 marks
 
-What describes the categories of activities within and around an organization, which together create a product or service? (
+What describes the categories of activities within and around an organization, which together create a product or service?
 
-a) SWOT analysis (  
-b) BCG framework (  
-c) Value chain (  
+a) SWOT analysis
+b) BCG framework
+c) Value chain
 d) Brain storming
 
 ### Answer:

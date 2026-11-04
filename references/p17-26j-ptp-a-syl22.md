@@ -111,7 +111,7 @@ If your actions are the result of misleading, intentional actions or inaction (i
 A) Perjury  
 B) Contempt  
 C) Treason  
-D) Fraud (  
+D) Fraud
 b) Choose the correct option: [2 X 5 = 10] Vikash Ltd., which is manufacturing consumer products, has two divisions: Assembling and Finishing. The two divisions are operating as Cost Centres. Present activities and costs involved in the Assembling Division and Finishing Division in a year are as under: Number of Sets Assembled 14,000 Cost of Manufacturing of parts (including material) ₹ 9,00,000 Parts purchased from the market ₹ 5,00,000 Other variable overhead: Welding Cost ₹ 6,50,000 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION ANSWERS TO PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 17 SYLLABUS 2022 COST AND MANAGEMENT AUDIT Assembling Cost ₹ 9,50,000 Fixed Cost for the unit ₹ 12,00,000 25% of the production of the Assembling Division is sold in the market for ₹ 400 per set and 75% is transferred to Finishing Division at ₹ 370. The Cost incurred in Finishing Division: Painting Cost - ₹ 6,00,000 Polishing Cost - ₹ 1,50,000 Fixed Cost - ₹ 4,50,000 The selling price per set ₹ 550 Find out the correct option in respect of the following items:
 
 ### 1 (xi) - 2 marks

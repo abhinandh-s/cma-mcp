@@ -23,94 +23,94 @@
 
 ### 1 (i) - 2 marks
 
-_______is the uncertainty of the purchasing power of the monies to be received, in the future? (
+_______is the uncertainty of the purchasing power of the monies to be received, in the future?
 
-A) Market risk (  
-B) Physical risk (  
-C) Purchasing power risk (  
+A) Market risk
+B) Physical risk
+C) Purchasing power risk
 D) Interest rate risk
 
 ### 1 (ii) - 2 marks
 
-Under perfect competition and at the point of equilibrium of firm: (
+Under perfect competition and at the point of equilibrium of firm:
 
-A) MC curve must be falling (  
-B) MC curve must be rising (  
-C) MR curve must be falling (  
+A) MC curve must be falling
+B) MC curve must be rising
+C) MR curve must be falling
 D) None of the above
 
 ### 1 (iii) - 2 marks
 
-Risk Management Strategies are: (
+Risk Management Strategies are:
 
-A) Avoid Risk, Reduce Risk, Retain Risk, Combine Risk (  
-B) Transfer Risk, Share Risk and Hedge Risk (  
-C) Both (  
-a) and (  
-b) (  
+A) Avoid Risk, Reduce Risk, Retain Risk, Combine Risk
+B) Transfer Risk, Share Risk and Hedge Risk
+C) Both
+a) and
+b)
 D) None of the above
 
 ### 1 (iv) - 2 marks
 
-Benchmarking focuses on: (
+Benchmarking focuses on:
 
-A) Production (  
-B) Profit (  
-C) Best Practices (  
+A) Production
+B) Profit
+C) Best Practices
 D) Best performance
 
 ### 1 (v) - 2 marks
 
-The _________ elements of Going Concern Value result from factors such as having a trained work force, an operational plant, the necessary licenses, marketing systems, and procedures in place etc. (
+The _________ elements of Going Concern Value result from factors such as having a trained work force, an operational plant, the necessary licenses, marketing systems, and procedures in place etc.
 
-A) Intangible (  
-B) Tangible (  
-C) Fixed Asset (  
+A) Intangible
+B) Tangible
+C) Fixed Asset
 D) Current Asset 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (vi) - 2 marks
 
-Estimated fair value of an asset is based on the __________ value of operating cash flows. (
+Estimated fair value of an asset is based on the __________ value of operating cash flows.
 
-A) Current (  
-B) Discounted (  
-C) Future (  
+A) Current
+B) Discounted
+C) Future
 D) None of these
 
 ### 1 (vii) - 2 marks
 
-________is the yield actually earned by the investor on his investment and depends on the reinvestment rate and the holding period chosen by him. (
+________is the yield actually earned by the investor on his investment and depends on the reinvestment rate and the holding period chosen by him.
 
-A) Realised Yield (  
-B) Yield to Maturity (  
-C) Current Yield (  
+A) Realised Yield
+B) Yield to Maturity
+C) Current Yield
 D) None of the above
 
 ### 1 (viii) - 2 marks
 
-If the Value of target Co. is ₹ 500 Million and the value of acquiring company is ₹ 800 Million. Present value of cost savings if the two companies are merged together is ₹ 100 million. Acquiring company expects the cost of integration as ₹ 80 million and the shareholders of Target Co. are expecting a deal premium to be paid of 15 percent over their company’s value. what is the value of Combined entity? (
+If the Value of target Co. is ₹ 500 Million and the value of acquiring company is ₹ 800 Million. Present value of cost savings if the two companies are merged together is ₹ 100 million. Acquiring company expects the cost of integration as ₹ 80 million and the shareholders of Target Co. are expecting a deal premium to be paid of 15 percent over their company’s value. what is the value of Combined entity?
 
-A) ₹ 1400 million (  
-B) ₹ 1345 million (  
-C) ₹ 1445 million (  
+A) ₹ 1400 million
+B) ₹ 1345 million
+C) ₹ 1445 million
 D) ₹ 1540 million
 
 ### 1 (ix) - 2 marks
 
-________ are often done by Private Equities, Venture Capitalists and portfolio companies who acquirer a company purely for their value and normally do not make significant operational changes. (
+________ are often done by Private Equities, Venture Capitalists and portfolio companies who acquirer a company purely for their value and normally do not make significant operational changes.
 
-A) Financial Acquisition (  
-B) Strategic acquisitions (  
-C) Hostile takeover (  
+A) Financial Acquisition
+B) Strategic acquisitions
+C) Hostile takeover
 D) None of these
 
 ### 1 (x) - 2 marks
 
-8% bond of Face Value ₹ 100 is selling for ₹ 96. What would be its Current Yield? (
+8% bond of Face Value ₹ 100 is selling for ₹ 96. What would be its Current Yield?
 
-A) 8% (  
-B) 12% (  
-C) 8.33% (  
+A) 8%
+B) 12%
+C) 8.33%
 D) None of the above 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 (b) There are eight stores (A to H) across a city in which certain number of employees
@@ -123,47 +123,47 @@ Based on the above case, you are required to answer the questions no. from (xi) 
 
 ### 1 (xi) - 2 marks
 
-What is the efficiency in terms of sales per employee of Store F? (
+What is the efficiency in terms of sales per employee of Store F?
 
-A) 1.25 (  
-B) 0.80 (  
-C) Insufficient data (  
+A) 1.25
+B) 0.80
+C) Insufficient data
 D) None of the above.
 
 ### 1 (xii) - 2 marks
 
-From the above table, which Store has the highest efficiency score in terms of sales per employee? (
+From the above table, which Store has the highest efficiency score in terms of sales per employee?
 
-A) A (  
-B) B (  
-C) C (  
+A) A
+B) B
+C) C
 D) D
 
 ### 1 (xiii) - 2 marks
 
-If the efficiency scores are plotted with number of employees on the horizontal axis and sales on the vertical axis, the slope of the line connecting each point to the origin corresponds to the sales per employee and the highest slope is attained by the line from the origin, is called _______________ (
+If the efficiency scores are plotted with number of employees on the horizontal axis and sales on the vertical axis, the slope of the line connecting each point to the origin corresponds to the sales per employee and the highest slope is attained by the line from the origin, is called _______________
 
-A) Regression Line (  
-B) Efficient Frontier (  
-C) Relative Efficiency Line (  
+A) Regression Line
+B) Efficient Frontier
+C) Relative Efficiency Line
 D) None of the above.
 
 ### 1 (xiv) - 2 marks
 
-As per the above Q. No. (xiii), the highest slope line will touch the point for Store _______. (
+As per the above Q. No. (xiii), the highest slope line will touch the point for Store _______.
 
-A) B (  
-B) D (  
-C) F (  
+A) B
+B) D
+C) F
 D) G
 
 ### 1 (xv) - 2 marks
 
-The above case is an example of: (
+The above case is an example of:
 
-A) Data Envelopment Analysis (  
-B) Du-Pont Analysis (  
-C) RONA Model (  
+A) Data Envelopment Analysis
+B) Du-Pont Analysis
+C) RONA Model
 D) Total Productive Maintenance 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 # SECTION – B

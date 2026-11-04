@@ -23,92 +23,92 @@
 
 ### 1 (i) - 2 marks
 
-The ________ ratios are used to compare financial statements of different size companies or the same company over different periods. (
+The ________ ratios are used to compare financial statements of different size companies or the same company over different periods.
 
-A) Common size (  
-B) DuPont (  
-C) Liquidity (  
+A) Common size
+B) DuPont
+C) Liquidity
 D) P/E
 
 ### 1 (ii) - 2 marks
 
-Trend analysis is an important tool of financial statement analysis and is also known as ______. (
+Trend analysis is an important tool of financial statement analysis and is also known as ______.
 
-A) Horizontal analysis (  
-B) Vertical analysis (  
-C) Pyramid method (  
+A) Horizontal analysis
+B) Vertical analysis
+C) Pyramid method
 D) None of the above
 
 ### 1 (iii) - 2 marks
 
-Market price per share of a firm having equity capital of ₹ 100,000 consisting of shares of ₹ 10 each, profit after tax of ₹ 82,000 & P/E ratio of 8 is: (
+Market price per share of a firm having equity capital of ₹ 100,000 consisting of shares of ₹ 10 each, profit after tax of ₹ 82,000 & P/E ratio of 8 is:
 
-A) ₹65.70 (  
-B) ₹10.25 (  
-C) ₹65.60 (  
+A) ₹65.70
+B) ₹10.25
+C) ₹65.60
 D) ₹1.025
 
 ### 1 (iv) - 2 marks
 
-X Ltd. has ₹ 100 crores worth of common equity on its balance sheet comprising of 50 lakhs shares. The company’s market value Added (MVA) is ₹ 24 crores. What is company’s stock price? (
+X Ltd. has ₹ 100 crores worth of common equity on its balance sheet comprising of 50 lakhs shares. The company’s market value Added (MVA) is ₹ 24 crores. What is company’s stock price?
 
-A) ₹ 230 (  
-B) ₹ 238 (  
-C) ₹ 248 (  
+A) ₹ 230
+B) ₹ 238
+C) ₹ 248
 D) ₹ 264
 
 ### 1 (v) - 2 marks
 
-Reverse mapping is a bottom up approach used in ______. (
+Reverse mapping is a bottom up approach used in ______.
 
-A) Strategy formulation (  
-B) Strategy implementation 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (  
-C) Formulation of operational plan (  
+A) Strategy formulation
+B) Strategy implementation 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
+C) Formulation of operational plan
 D) Formulation of tactical plan
 
 ### 1 (vi) - 2 marks
 
-X Ltd.’s share beta factor is 1.40. The risk free rate of interest on government securities is 9%. The expected rate of return on the company equity shares is 16%. The cost of equity capital based on CAPM is: (
+X Ltd.’s share beta factor is 1.40. The risk free rate of interest on government securities is 9%. The expected rate of return on the company equity shares is 16%. The cost of equity capital based on CAPM is:
 
-A) 15.8% (  
-B) 16% (  
-C) 18.8% (  
+A) 15.8%
+B) 16%
+C) 18.8%
 D) 9%
 
 ### 1 (vii) - 2 marks
 
-If an all equity firm has cash from operating Activities amounting to ₹ 60 lakhs, Depreciation ₹ 30 lakhs, increase in non-cash working capital ₹25 lakhs and capital expenditure ₹ 20 lakhs, its Free cash flows to Equity amounts to (in ₹ Lakhs): (
+If an all equity firm has cash from operating Activities amounting to ₹ 60 lakhs, Depreciation ₹ 30 lakhs, increase in non-cash working capital ₹25 lakhs and capital expenditure ₹ 20 lakhs, its Free cash flows to Equity amounts to (in ₹ Lakhs):
 
-A) ₹40 lakhs (  
-B) ₹45 lakhs (  
-C) ₹60 lakhs (  
+A) ₹40 lakhs
+B) ₹45 lakhs
+C) ₹60 lakhs
 D) ₹90 lakhs
 
 ### 1 (viii) - 2 marks
 
-Given the growth rate in the dividends is expected to be 8%. The Beta of the Stock is 1.60 and return on the market index is 13%. The required rate of return would be: (
+Given the growth rate in the dividends is expected to be 8%. The Beta of the Stock is 1.60 and return on the market index is 13%. The required rate of return would be:
 
-A) 14% (  
-B) 16% (  
-C) 18% (  
+A) 14%
+B) 16%
+C) 18%
 D) 20%
 
 ### 1 (ix) - 2 marks
 
-Which one of the following cannot be classified as systematic risk? (
+Which one of the following cannot be classified as systematic risk?
 
-A) Interest rate risk (  
-B) Political risk (  
-C) Credit risk (  
+A) Interest rate risk
+B) Political risk
+C) Credit risk
 D) Foreign exchange risk
 
 ### 1 (x) - 2 marks
 
-If the Value of target Co. is ₹ 500 Million and the value of acquiring company is ₹ 800 Million. Present value of cost savings if the two companies are merged together is ₹ 100 million. Acquiring company expects the cost of integration as ₹ 80 million and the shareholders of Target Co. are expecting a deal premium to be paid of 15 percent over their company’s value. What is the value of the combined entity? (
+If the Value of target Co. is ₹ 500 Million and the value of acquiring company is ₹ 800 Million. Present value of cost savings if the two companies are merged together is ₹ 100 million. Acquiring company expects the cost of integration as ₹ 80 million and the shareholders of Target Co. are expecting a deal premium to be paid of 15 percent over their company’s value. What is the value of the combined entity?
 
-A) ₹ 1,400 million (  
-B) ₹ 1,345 million (  
-C) ₹ 1,445 million 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (  
+A) ₹ 1,400 million
+B) ₹ 1,345 million
+C) ₹ 1,445 million 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 D) ₹ 1,540 million
 
 (b) An investor has been watching two similar companies, Lotus Inc., and ASA Inc. that
@@ -139,32 +139,32 @@ Average Assets 5,000 4,800 8,750 8,750
 
 ### 1 (xiv) - 2 marks
 
-Average Equity 2,000 2,000 5,000 3,500 Based on the above case, you are required to answer the questions no. from (i) to (v): (i) The profit margin of Lotus Inc. in the Year 2 will be: (
+Average Equity 2,000 2,000 5,000 3,500 Based on the above case, you are required to answer the questions no. from (i) to (v): (i) The profit margin of Lotus Inc. in the Year 2 will be:
 
-A) 8.33 (  
-B) 0.1 (  
-C) 0.12 (  
-D) None of the above. (ii) What will be the asset turnover ratio of ASA Inc. in Year 1? (  
-A) 2 (  
-B) 2.08 (  
-C) 0.5 (  
-D) None of the above. (iii) Which company has better ROE in Year 1? (  
-A) Lotus Inc. (  
-B) ASA Inc. (  
-C) Both companies have same ROE (  
-D) None of the above. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (iv) The ROE of Lotus Inc. in the Year 1 will be: (  
-A) 42% (  
-B) 50% (  
-C) 60% (  
+A) 8.33
+B) 0.1
+C) 0.12
+D) None of the above. (ii) What will be the asset turnover ratio of ASA Inc. in Year 1?
+A) 2
+B) 2.08
+C) 0.5
+D) None of the above. (iii) Which company has better ROE in Year 1?
+A) Lotus Inc.
+B) ASA Inc.
+C) Both companies have same ROE
+D) None of the above. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (iv) The ROE of Lotus Inc. in the Year 1 will be:
+A) 42%
+B) 50%
+C) 60%
 D) None of the above.
 
 ### 1 (xv) - 2 marks
 
-The equity multiplier of ASA Inc. in Year 1 and Year 2 will be respectively: (
+The equity multiplier of ASA Inc. in Year 1 and Year 2 will be respectively:
 
-A) 2.5 and 2.4 (  
-B) 2.5 and 1.75 (  
-C) 1.75 and 2.5 (  
+A) 2.5 and 2.4
+B) 2.5 and 1.75
+C) 1.75 and 2.5
 D) None of the above.
 
 # SECTION – B

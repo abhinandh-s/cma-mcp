@@ -23,138 +23,138 @@
 
 ### 1 (i) - 2 marks
 
-The basic principles of concept are that business is assumed to exist for an indefinite period (
+The basic principles of concept are that business is assumed to exist for an indefinite period
 
-A) Business Entity (  
-B) Accounting Period (  
-C) Going Concern (  
+A) Business Entity
+B) Accounting Period
+C) Going Concern
 D) Materiality
 
 ### 1 (ii) - 2 marks
 
-Ledger Folio (L.F.) column in the journal is filled at the time of (
+Ledger Folio (L.F.) column in the journal is filled at the time of
 
-A) Journalising (  
-B) Posting (  
-C) Casting (  
+A) Journalising
+B) Posting
+C) Casting
 D) Balancing
 
 ### 1 (iii) - 2 marks
 
-A cash book in which only one amount column is maintained on each side to record transactions involving____ (
+A cash book in which only one amount column is maintained on each side to record transactions involving____
 
-A) Cash Discount (  
-B) Discount Received (  
-C) Trade Discount (  
+A) Cash Discount
+B) Discount Received
+C) Trade Discount
 D) Liquid Cash
 
 ### 1 (iv) - 2 marks
 
-On 01.04.2025, balance in Provision for Bad Debts was ₹10,000. Bad Debt during the year 2025-26 was ₹3,000. Further Bad debt was ₹5,000. Debtor at the end of the year before further Bad debt was ₹50,000. Provision for Bad and doubtful Debt to be made @ 10% on Sundry Debtors The amount to be Dr / Cr to Profit and Loss Account at the end of the year would be of bad debts (
+On 01.04.2025, balance in Provision for Bad Debts was ₹10,000. Bad Debt during the year 2025-26 was ₹3,000. Further Bad debt was ₹5,000. Debtor at the end of the year before further Bad debt was ₹50,000. Provision for Bad and doubtful Debt to be made @ 10% on Sundry Debtors The amount to be Dr / Cr to Profit and Loss Account at the end of the year would be of bad debts
 
-A) Credit to P/L Account- ₹2,500 (  
-B) Debit to P/L Account- ₹5,000 (  
-C) Debit to P/L Account- ₹3,000 (  
+A) Credit to P/L Account- ₹2,500
+B) Debit to P/L Account- ₹5,000
+C) Debit to P/L Account- ₹3,000
 D) Debit to P/L Account- ₹2,500
 
 ### 1 (v) - 2 marks
 
 Ms. Sakshi draws a Bill of exchange on Shreya for ₹50000 payable after 3 months. On the due date the bill was dishonoured and noting charge of ₹100 paid by Sakshi. Shreya requested to draw another bill for one month with 12% p.
 
-a. interest on Bills of exchange. The amount of Bill to be drawn by Sakshi would be (  
-A) ₹50,000 (  
-B) ₹50,100 (  
-C) ₹50,600 (  
+a. interest on Bills of exchange. The amount of Bill to be drawn by Sakshi would be
+A) ₹50,000
+B) ₹50,100
+C) ₹50,600
 D) ₹50,500 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWER TERM – JUNE 2026 PAPER – 6 SYLLABUS 2022 FINANCIAL ACCOUNTING
 
 ### 1 (vi) - 2 marks
 
-Cash sales are ₹2,25,000 and del credere commission is ₹37,500. If the consignee is entitled to del credere commission @5% on gross sales then the amount of credit sales will be (
+Cash sales are ₹2,25,000 and del credere commission is ₹37,500. If the consignee is entitled to del credere commission @5% on gross sales then the amount of credit sales will be
 
-A) ₹7,50,000 (  
-B) ₹5,25,000 (  
-C) ₹5,00,000 (  
+A) ₹7,50,000
+B) ₹5,25,000
+C) ₹5,00,000
 D) ₹6,00,000
 
 ### 1 (vii) - 2 marks
 
-Given Opening sundry creditors ₹19,000 Cash paid to sundry creditors ₹ 54,800 Discount received ₹1,000 Credit purchases ₹ 61,200. The value of sundry creditors at the end of the year will be (
+Given Opening sundry creditors ₹19,000 Cash paid to sundry creditors ₹ 54,800 Discount received ₹1,000 Credit purchases ₹ 61,200. The value of sundry creditors at the end of the year will be
 
-A) ₹26,400 (  
-B) ₹25,400 (  
-C) ₹24,400 (  
+A) ₹26,400
+B) ₹25,400
+C) ₹24,400
 D) ₹18,600
 
 ### 1 (viii) - 2 marks
 
-Shiva and Shivam are entered in the business of buy and sale of food grain for a period of one year and sharing the profit in the ratio of 3 :2, this agreement is a (
+Shiva and Shivam are entered in the business of buy and sale of food grain for a period of one year and sharing the profit in the ratio of 3 :2, this agreement is a
 
-A) Lease (  
-B) Consignment (  
-C) Partnership (  
+A) Lease
+B) Consignment
+C) Partnership
 D) Joint Venture
 
 ### 1 (ix) - 2 marks
 
-A and B are partners having profit sharing ratio of 3:2. They admitted C into the firm giving him 1/5th share., What should be the new profit-sharing ratio? (
+A and B are partners having profit sharing ratio of 3:2. They admitted C into the firm giving him 1/5th share., What should be the new profit-sharing ratio?
 
-A) 3:2:1 (  
-B) 12:8:5 (  
-C) 18:24:13 (  
+A) 3:2:1
+B) 12:8:5
+C) 18:24:13
 D) 17:11:12
 
 ### 1 (x) - 2 marks
 
-Given Average Profit ₹ 17,34,000 Total Assets ₹ 1,35,00,000 Outside Liabilities ₹ 83,00,000 Normal Rate of Return 12% The value of goodwill under capitalisation of average profits will be (
+Given Average Profit ₹ 17,34,000 Total Assets ₹ 1,35,00,000 Outside Liabilities ₹ 83,00,000 Normal Rate of Return 12% The value of goodwill under capitalisation of average profits will be
 
-A) ₹9,50,000 (  
-B) ₹92,50,000 (  
-C) ₹61,50,000 (  
+A) ₹9,50,000
+B) ₹92,50,000
+C) ₹61,50,000
 D) ₹1,44,50,000 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWER TERM – JUNE 2026 PAPER – 6 SYLLABUS 2022 FINANCIAL ACCOUNTING
 
 ### 1 (xi) - 2 marks
 
-Departmental Trading A/c for Department X & Department Y is given below: Particulars Dept. X Dept Y Particulars Dept. X Dept Y Opening stock, 9,20,000 50,000 Sales 8,80,000 1,80,000 Purchase and Direct Exp 1,20,000 Goods transferred to Y 1,20,000 Goods transferred from X Closing stock 80,000 24,000 Gross profit 1,60,000 34,000 10,80,000 2,04,000 10,80,000 2,04,000 Goods were sold by X to Y on usual selling price. The unrealized profit in the closing stock of Y will be (
+Departmental Trading A/c for Department X & Department Y is given below: Particulars Dept. X Dept Y Particulars Dept. X Dept Y Opening stock, 9,20,000 50,000 Sales 8,80,000 1,80,000 Purchase and Direct Exp 1,20,000 Goods transferred to Y 1,20,000 Goods transferred from X Closing stock 80,000 24,000 Gross profit 1,60,000 34,000 10,80,000 2,04,000 10,80,000 2,04,000 Goods were sold by X to Y on usual selling price. The unrealized profit in the closing stock of Y will be
 
-A) ₹3,800 (  
-B) ₹3,820 (  
-C) ₹3,840 (  
+A) ₹3,800
+B) ₹3,820
+C) ₹3,840
 D) ₹3,860
 
 ### 1 (xii) - 2 marks
 
-Short-term lease which is often cancellable is known as (
+Short-term lease which is often cancellable is known as
 
-A) Finance Lease (  
-B) Net Lease (  
-C) Operating Lease (  
+A) Finance Lease
+B) Net Lease
+C) Operating Lease
 D) Leverage Lease
 
 ### 1 (xiii) - 2 marks
 
-Which of the following are Fundamental Accounting Assumptions as per AS-1? (
+Which of the following are Fundamental Accounting Assumptions as per AS-1?
 
-A) Going Concern, Matching & Consistency (  
-B) Money measurement, Going Concern & Prudence (  
-C) Going Concern, Consistency & Accruals (  
+A) Going Concern, Matching & Consistency
+B) Money measurement, Going Concern & Prudence
+C) Going Concern, Consistency & Accruals
 D) Accounting Period, Going Concern & Entity Concept
 
 ### 1 (xiv) - 2 marks
 
-Presently in India, _____ deals with ‘Income Taxes’. (
+Presently in India, _____ deals with ‘Income Taxes’.
 
-A) AS 12 (  
-B) AS 20 (  
-C) AS 22 (  
+A) AS 12
+B) AS 20
+C) AS 22
 D) AS 23
 
 ### 1 (xv) - 2 marks
 
-Subscription of ₹6,25,000 had been shown in the Income and Expenditure Account prepared for the year ending 31st March, 2026. Additional information is as below: Particulars On 31st March, 2025 (₹) On 31st March, 2026 (₹) Subscription Outstanding 55,000 72,000 Subscription Received in Advance 31,000 37,000 The amount of subscription received during the year 2025-26would be: (
+Subscription of ₹6,25,000 had been shown in the Income and Expenditure Account prepared for the year ending 31st March, 2026. Additional information is as below: Particulars On 31st March, 2025 (₹) On 31st March, 2026 (₹) Subscription Outstanding 55,000 72,000 Subscription Received in Advance 31,000 37,000 The amount of subscription received during the year 2025-26would be:
 
-A) ₹6,14,000 (  
-B) ₹6,02,000 (  
-C) ₹6,36,000 (  
+A) ₹6,14,000
+B) ₹6,02,000
+C) ₹6,36,000
 D) ₹6,48,000 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWER TERM – JUNE 2026 PAPER – 6 SYLLABUS 2022 FINANCIAL ACCOUNTING
 
 ### Answer:

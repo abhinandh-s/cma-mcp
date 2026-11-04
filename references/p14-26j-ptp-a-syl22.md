@@ -22,119 +22,119 @@
 
 ### 1 (i) - 2 marks
 
-K Ltd. is considering a new project with an initial outlay of ₹70,000. The project has a lifespan of four years with cash inflows of ₹25,000, ₹30,000, ₹18,000 and ₹16,000 for year 1, 2, 3 and 4 respectively. If the cost of capital is 10% per annum, the Profitability Index (PI) of the project will be: (
+K Ltd. is considering a new project with an initial outlay of ₹70,000. The project has a lifespan of four years with cash inflows of ₹25,000, ₹30,000, ₹18,000 and ₹16,000 for year 1, 2, 3 and 4 respectively. If the cost of capital is 10% per annum, the Profitability Index (PI) of the project will be:
 
-a) 1.0278 (  
-b) 0.9728 (  
-c) 0.7865 (  
+a) 1.0278
+b) 0.9728
+c) 0.7865
 d) 1.2714
 
 ### 1 (ii) - 2 marks
 
-Given, expected value of profit without perfect information is ₹2,300 and expected value of perfect information is ₹500, the expected value of profit with perfect information will be ________ (
+Given, expected value of profit without perfect information is ₹2,300 and expected value of perfect information is ₹500, the expected value of profit with perfect information will be ________
 
-a) ₹1800 (  
-b) ₹2800 (  
-c) ₹2300 (  
+a) ₹1800
+b) ₹2800
+c) ₹2300
 d) None of the above
 
 ### 1 (iii) - 2 marks
 
-The following information is available with respect to Project X NPV Estimate (₹) 40,000 50,000 1,40,000 1,50,000 Probability 0.1 0.4 0.3 0.2 The expected NPV of the project will be: (
+The following information is available with respect to Project X NPV Estimate (₹) 40,000 50,000 1,40,000 1,50,000 Probability 0.1 0.4 0.3 0.2 The expected NPV of the project will be:
 
-a) ₹1,00,000 (  
-b) ₹90,000 (  
-c) ₹96,000 (  
+a) ₹1,00,000
+b) ₹90,000
+c) ₹96,000
 d) ₹1,20,000
 
 ### 1 (iv) - 2 marks
 
-Which of the following certificates issued under securitisation has a multiple-maturity structure? (
+Which of the following certificates issued under securitisation has a multiple-maturity structure?
 
-a) Pass through certificate (  
-b) Pay through certificate (  
-c) Preferred stock certificate (  
+a) Pass through certificate
+b) Pay through certificate
+c) Preferred stock certificate
 d) Interest only certificate
 
 ### 1 (v) - 2 marks
 
-Degree of financial leverage (DFL) expresses the relationship between: (
+Degree of financial leverage (DFL) expresses the relationship between:
 
-a) EPS and EAIT (  
-b) EPS and P/E (  
-c) EPS and EBIT (  
+a) EPS and EAIT
+b) EPS and P/E
+c) EPS and EBIT
 d) EPS and Sales
 
 ### 1 (vi) - 2 marks
 
-A bond with a par value of ₹1,000 has a 6% annual coupon rate. Interest is paid semi-annually and the price of the bond is ₹1,025. The annual current yield of the bond is: (
+A bond with a par value of ₹1,000 has a 6% annual coupon rate. Interest is paid semi-annually and the price of the bond is ₹1,025. The annual current yield of the bond is:
 
-a) 3.0% (  
-b) 2.9% (  
-c) 6.2% (  
+a) 3.0%
+b) 2.9%
+c) 6.2%
 d) 5.9% 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION ANSWERS TO PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 14 SYLLABUS 2022 STRATEGIC FINANCIAL MANAGEMENT
 
 ### 1 (vii) - 2 marks
 
-Which type of risk is substantially reduced by holding a well-diversified portfolio? (
+Which type of risk is substantially reduced by holding a well-diversified portfolio?
 
-a) Total risk (  
-b) Systematic risk (  
-c) Non-systematic risk (  
+a) Total risk
+b) Systematic risk
+c) Non-systematic risk
 d) None of the above
 
 ### 1 (viii) - 2 marks
 
-A firm has a capital structure consisting of 60% equity and 40% debt. The unlevered beta is 1.00 and the corporate tax rate is 25%. The levered beta of the firm will be: (
+A firm has a capital structure consisting of 60% equity and 40% debt. The unlevered beta is 1.00 and the corporate tax rate is 25%. The levered beta of the firm will be:
 
-a) 1.30 (  
-b) 1.40 (  
-c) 1.50 (  
+a) 1.30
+b) 1.40
+c) 1.50
 d) 1.60
 
 ### 1 (ix) - 2 marks
 
-Mr. X is long on a forward contract to purchase a non-dividend paying share after 3 months. The current market price of the share is ₹70. The risk-free rate of interest is 6% per annum, continuously compounded. The theoretical forward price of the share is: (
+Mr. X is long on a forward contract to purchase a non-dividend paying share after 3 months. The current market price of the share is ₹70. The risk-free rate of interest is 6% per annum, continuously compounded. The theoretical forward price of the share is:
 
-a) ₹ 70.90 (  
-b) ₹ 71.90 (  
-c) ₹ 71.06 (  
+a) ₹ 70.90
+b) ₹ 71.90
+c) ₹ 71.06
 d) ₹ 72.10
 
 ### 1 (x) - 2 marks
 
-DY has purchased a ₹400 million cap (call option on interest rates) with a strike rate of 9% at a premium of 0.65% of face value. A ₹400 million floor (put option on interest rates) with a strike rate of 4% is also available at a premium of 0.69% of face value. If the market interest rate rises to 10%, what is the amount received by DY under the cap, and what are the net savings after deducting the premium? (Assume annual settlement.) (
+DY has purchased a ₹400 million cap (call option on interest rates) with a strike rate of 9% at a premium of 0.65% of face value. A ₹400 million floor (put option on interest rates) with a strike rate of 4% is also available at a premium of 0.69% of face value. If the market interest rate rises to 10%, what is the amount received by DY under the cap, and what are the net savings after deducting the premium? (Assume annual settlement.)
 
-a) Amount received ₹4.00 million; Net savings ₹1.40 million (  
-b) Amount received ₹3.60 million; Net savings ₹1.00 million (  
-c) Amount received ₹4.00 million; Net savings ₹0.80 million (  
+a) Amount received ₹4.00 million; Net savings ₹1.40 million
+b) Amount received ₹3.60 million; Net savings ₹1.00 million
+c) Amount received ₹4.00 million; Net savings ₹0.80 million
 d) Amount received ₹2.60 million; Net savings ₹1.40 million
 
 ### 1 (xi) - 2 marks
 
-If you sell a call option on a share with a strike price of ₹375, market price of ₹360, and a premium of ₹21.What is the maximum loss on expiry of this position? (
+If you sell a call option on a share with a strike price of ₹375, market price of ₹360, and a premium of ₹21.What is the maximum loss on expiry of this position?
 
-a) ₹354 (  
-b) Unlimited (  
-c) ₹396 (  
+a) ₹354
+b) Unlimited
+c) ₹396
 d) None of these
 
 ### 1 (xii) - 2 marks
 
-Depository Receipts represent__________. (
+Depository Receipts represent__________.
 
-a) Debentures (  
-b) Bonds (  
-c) Equity shares of a company (  
+a) Debentures
+b) Bonds
+c) Equity shares of a company
 d) Government securities 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION ANSWERS TO PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 14 SYLLABUS 2022 STRATEGIC FINANCIAL MANAGEMENT
 
 ### 1 (xiii) - 2 marks
 
-In foreign exchange markets, the buying rate is also known as the: (
+In foreign exchange markets, the buying rate is also known as the:
 
-a) Bid rate (  
-b) Offer rate (  
-c) Spread (  
+a) Bid rate
+b) Offer rate
+c) Spread
 d) Swap
 
 ### 1 (xiv) - 2 marks
@@ -142,19 +142,19 @@ d) Swap
 The US Dollar is selling in India at ₹45.20. The interest rate for 6-months borrowing in India is 10% p.
 
 a. and the corresponding rate in the USA is 4% p.  
-a. Using the Interest Rate Parity Theory, the rate of forward premium / (discount) on the US Dollar will be: (  
-a) 5.93% (  
-b) 5.88% (  
-c) (5.17%) (  
+a. Using the Interest Rate Parity Theory, the rate of forward premium / (discount) on the US Dollar will be:
+a) 5.93%
+b) 5.88%
+c) (5.17%)
 d) (5.52%)
 
 ### 1 (xv) - 2 marks
 
-In India, the regulation of payment and settlement systems is governed by the: (
+In India, the regulation of payment and settlement systems is governed by the:
 
-a) RBI Act, 1934 (  
-b) Banking Regulation Act, 1949 (  
-c) Payment and Settlement Systems Act, 2007 (  
+a) RBI Act, 1934
+b) Banking Regulation Act, 1949
+c) Payment and Settlement Systems Act, 2007
 d) SBI Act, 1955
 
 ### Answer:

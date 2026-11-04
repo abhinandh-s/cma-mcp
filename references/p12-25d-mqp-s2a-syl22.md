@@ -155,8 +155,8 @@ The minimum expected opportunity loss (EOL) is:
 a. Equal to EVPI  
 b. Minimum regret  
 c. Equal to EMV  
-d. Both (  
-a) and (  
+d. Both
+a) and
 b)
 
 ### Answer:

@@ -163,11 +163,11 @@ Which of the following risks is not associated with this loan issued to Excel Ma
 a. Liquidity Risk  
 b. Equity Risk  
 c. Credit Risk  
-d. Operational Risk i. (  
-c) ii. (  
-d) iii. (  
-a) iv. (  
-b) v. (  
+d. Operational Risk i.
+c) ii.
+d) iii.
+a) iv.
+b) v.
 b) 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL ANSWERS TERM – JUNE 2024 PAPER – 20B SYLLABUS - 2022 RISK MANAGEMENT IN BANKING AND INSURANCE
 
 ### Answer:

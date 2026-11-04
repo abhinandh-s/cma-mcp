@@ -106,11 +106,11 @@ d. ₹100 unfavourable
 
 What is the labour rate variance if standard hours for 100 units of output are 400 @ ₹2 per hour and actual hours taken are 380 @ ₹2.25 per hour?
 
-a. ₹120 (  
+a. ₹120
 A)  
-b. ₹100 (  
+b. ₹100
 A)  
-c. ₹95 (  
+c. ₹95
 A)  
 d. ₹25 (F)
 

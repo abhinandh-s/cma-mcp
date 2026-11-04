@@ -23,137 +23,137 @@
 
 ### 1 (i) - 2 marks
 
-Management Accounting focused on reduction of Waste of resources in production processes by elimination “no-value activities” during the _____________ (
+Management Accounting focused on reduction of Waste of resources in production processes by elimination “no-value activities” during the _____________
 
-A) 1st Stage (  
-B) 2nd Stage (  
-C) 3rd Stage (  
+A) 1st Stage
+B) 2nd Stage
+C) 3rd Stage
 D) 4th Stage
 
 ### 1 (ii) - 2 marks
 
-Which one of the following is not true of Contemporary Techniques? (
+Which one of the following is not true of Contemporary Techniques?
 
-A) Marginal Costing (  
-B) SWOT Analysis (  
-C) Target Cost (  
+A) Marginal Costing
+B) SWOT Analysis
+C) Target Cost
 D) Just in time
 
 ### 1 (iii) - 2 marks
 
-A ____________ activity support the production of a Specific product or Service. (
+A ____________ activity support the production of a Specific product or Service.
 
-A) Product - level (  
-B) Batch - Level (  
-C) Unit - Level (  
+A) Product - level
+B) Batch - Level
+C) Unit - Level
 D) Facility - Level
 
 ### 1 (iv) - 2 marks
 
-ALM Ltd. manufactures two types of products S, and Z following Activity based Costing (ABC) System. During the month of October 2025, the Company incurred ₹1,56,000 as inspection Cost and it was worked for 17 and 22 production runs respectively for producing Products S, and Z. The inspection Costs for Product Z under the ABC System was: (
+ALM Ltd. manufactures two types of products S, and Z following Activity based Costing (ABC) System. During the month of October 2025, the Company incurred ₹1,56,000 as inspection Cost and it was worked for 17 and 22 production runs respectively for producing Products S, and Z. The inspection Costs for Product Z under the ABC System was:
 
-A) ₹ 88,000 (  
-B) ₹ 32,000 (  
-C) ₹ 48,000 (  
+A) ₹ 88,000
+B) ₹ 32,000
+C) ₹ 48,000
 D) ₹ 38,000
 
 ### 1 (v) - 2 marks
 
-The Chart that shows the relationship between Profit and Sales Volume is _________. (
+The Chart that shows the relationship between Profit and Sales Volume is _________.
 
-A) Break-even Chart (  
-B) Profit – Volume Chart 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING (  
-C) Contribution Break-even Chart (  
+A) Break-even Chart
+B) Profit – Volume Chart 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
+C) Contribution Break-even Chart
 D) None of the above
 
 ### 1 (vi) - 2 marks
 
-For the coming year, a manufacturing company has budgeted as under: Contribution / Sales (C/S) Ratio = 45% Margin of Safety Ratio = 2 Directorate of Studies, The Institute of Cost Accountants of India 3 3 1 3 % Fixed Costs = ₹ 5,85,000. What will be the profit for the coming year? (
+For the coming year, a manufacturing company has budgeted as under: Contribution / Sales (C/S) Ratio = 45% Margin of Safety Ratio = 2 Directorate of Studies, The Institute of Cost Accountants of India 3 3 1 3 % Fixed Costs = ₹ 5,85,000. What will be the profit for the coming year?
 
-A) ₹3,25,000 (  
-B) ₹2,92,500 (  
-C) ₹3,00,000 (  
+A) ₹3,25,000
+B) ₹2,92,500
+C) ₹3,00,000
 D) ₹3,20,000
 
 ### 1 (vii) - 2 marks
 
-A radio manufacturer finds that its costs ₹6.25 per unit to make component Meu and the same is available in the market at ₹5.75 each. Continuous supply is also fully assured. The break-down cost per unit as follows: Materials ₹2.75, Labour ₹1.75 other variable expenses ₹0.50, Depreciation and other fixed cost ₹1.25. What would be your decision, if the supplier offered the component at ₹4.85 per unit? (
+A radio manufacturer finds that its costs ₹6.25 per unit to make component Meu and the same is available in the market at ₹5.75 each. Continuous supply is also fully assured. The break-down cost per unit as follows: Materials ₹2.75, Labour ₹1.75 other variable expenses ₹0.50, Depreciation and other fixed cost ₹1.25. What would be your decision, if the supplier offered the component at ₹4.85 per unit?
 
-A) Make (  
-B) Buy (  
-C) Sell (  
+A) Make
+B) Buy
+C) Sell
 D) None of the above
 
 ### 1 (viii) - 2 marks
 
-Which of the following is / are not method of transfer pricing? (
+Which of the following is / are not method of transfer pricing?
 
-A) Total cost Method (  
-B) Marginal cost Method (  
-C) Market price Method (  
+A) Total cost Method
+B) Marginal cost Method
+C) Market price Method
 D) Skimming price Method.
 
 ### 1 (ix) - 2 marks
 
-Z Ltd. uses a Standard Costing System. The following information pertains to direct Labour Costs for a Month. Standard Labour Rate per hour ₹15 Actual Labour hours worked 12,000 hours Standard Labour hours for production 10,000 hours Labour rate variance ₹18,000 (Adv.) What will be the actual labour rate per hour? (
+Z Ltd. uses a Standard Costing System. The following information pertains to direct Labour Costs for a Month. Standard Labour Rate per hour ₹15 Actual Labour hours worked 12,000 hours Standard Labour hours for production 10,000 hours Labour rate variance ₹18,000 (Adv.) What will be the actual labour rate per hour?
 
-A) ₹16.50 (  
-B) ₹12.50 (  
-C) ₹13.50 (  
+A) ₹16.50
+B) ₹12.50
+C) ₹13.50
 D) ₹21.27
 
 ### 1 (x) - 2 marks
 
-R Ltd. a manufacturer of Product N using Standard Costing System provides the following information pertaining to Fixed overhead for the month of September 2025. INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING Budgeted Fixed Overhead ₹ 60,000 Budgeted hours 2,000 Actual Fixed Overhead incurred ₹ 61,000 Actual hours worked 2,100 Fixed overhead Cost Variance will be __________ (
+R Ltd. a manufacturer of Product N using Standard Costing System provides the following information pertaining to Fixed overhead for the month of September 2025. INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING Budgeted Fixed Overhead ₹ 60,000 Budgeted hours 2,000 Actual Fixed Overhead incurred ₹ 61,000 Actual hours worked 2,100 Fixed overhead Cost Variance will be __________
 
-A) ₹ 2,000 (Adv.) (  
-B) ₹ 2,000 (Fav.) (  
-C) ₹ 1,000 (Adv.) (  
+A) ₹ 2,000 (Adv.)
+B) ₹ 2,000 (Fav.)
+C) ₹ 1,000 (Adv.)
 D) ₹ 1,000 (Fav.)
 
 ### 1 (xi) - 2 marks
 
-A budgeting process which demands each manager to justify his entire budget in detail from beginning is __________ (
+A budgeting process which demands each manager to justify his entire budget in detail from beginning is __________
 
-A) Master Budget (  
-B) Zero Base Budgeting (  
-C) Functional Budget (  
+A) Master Budget
+B) Zero Base Budgeting
+C) Functional Budget
 D) None of the above.
 
 ### 1 (xii) - 2 marks
 
-To complete the first setup on a new machine an employee took 100 minutes. Using an 80% Incremental unit-time learning model indicates that the second set-up on the new machine is expected to take. (
+To complete the first setup on a new machine an employee took 100 minutes. Using an 80% Incremental unit-time learning model indicates that the second set-up on the new machine is expected to take.
 
-A) 80 minutes (  
-B) 60 minutes (  
-C) 40 minutes (  
+A) 80 minutes
+B) 60 minutes
+C) 40 minutes
 D) 30 minutes
 
 ### 1 (xiii) - 2 marks
 
-Which one of the following responsibility Centers is an organizational unit whose manager is responsible for generating revenues and managing expenses related to current Activity? (
+Which one of the following responsibility Centers is an organizational unit whose manager is responsible for generating revenues and managing expenses related to current Activity?
 
-A) Expense or Cost Center (  
-B) Profit Center (  
-C) Revenue Center (  
+A) Expense or Cost Center
+B) Profit Center
+C) Revenue Center
 D) Investment Centre
 
 ### 1 (xiv) - 2 marks
 
-Mr. Dinesh, a businessman is trying to decide which of the three mutually exclusive projects to undertake. Each of the projects could lead to varying net profit under three possible Scenarios. Profits / Project Scenarios P Q T I 110 70 50 II 80 130 90 III (10) 20 80 Using Minimax which Project is to be selected? (
+Mr. Dinesh, a businessman is trying to decide which of the three mutually exclusive projects to undertake. Each of the projects could lead to varying net profit under three possible Scenarios. Profits / Project Scenarios P Q T I 110 70 50 II 80 130 90 III (10) 20 80 Using Minimax which Project is to be selected?
 
-A) T 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING (  
-B) Q (  
-C) P (  
+A) T 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2026 PAPER – 12 SYLLABUS 2022 MANAGEMENT ACCOUNTING
+B) Q
+C) P
 D) None of the above.
 
 ### 1 (xv) - 2 marks
 
-The decision maker’s knowledge and experience may influence the decision-making process when using the criterion of (
+The decision maker’s knowledge and experience may influence the decision-making process when using the criterion of
 
-A) Maximum (  
-B) Realism (  
-C) Maximin (  
+A) Maximum
+B) Realism
+C) Maximin
 D) Maximax Regret
 
 # SECTION – B

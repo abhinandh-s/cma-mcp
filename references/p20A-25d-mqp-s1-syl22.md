@@ -23,92 +23,92 @@
 
 ### 1 (i) - 2 marks
 
-If A Bottom-up approach used in strategy formulation is known as______. (
+If A Bottom-up approach used in strategy formulation is known as______.
 
-a) Strategy Implantation (  
-b) Formulation of operational plan (  
-c) Formulation of tactical plan (  
+a) Strategy Implantation
+b) Formulation of operational plan
+c) Formulation of tactical plan
 d) Reverse mapping
 
 ### 1 (ii) - 2 marks
 
-Small/Mid-sized Six Sigma projects are executed by professionals titled as: (
+Small/Mid-sized Six Sigma projects are executed by professionals titled as:
 
-a) Champion (  
-b) Green Belt (  
-c) Black Belt (  
+a) Champion
+b) Green Belt
+c) Black Belt
 d) Site Champion
 
 ### 1 (iii) - 2 marks
 
-Monopolistic competition and Oligopoly are the examples of______. (
+Monopolistic competition and Oligopoly are the examples of______.
 
-a) Perfect (  
-b) Imperfect (  
-c) No market structure (  
+a) Perfect
+b) Imperfect
+c) No market structure
 d) All of the above
 
 ### 1 (iv) - 2 marks
 
-Which of the following are not the element/ parameter of NCAER model of corporate distress prediction? (
+Which of the following are not the element/ parameter of NCAER model of corporate distress prediction?
 
-a) Net worth position (  
-b) Outstanding liability position (  
-c) Net working capital position (  
+a) Net worth position
+b) Outstanding liability position
+c) Net working capital position
 d) Cash profit position
 
 ### 1 (v) - 2 marks
 
-What does Warren Buffet’s phrase ‘Price is what you pay and value is what you get’ suggest? (
+What does Warren Buffet’s phrase ‘Price is what you pay and value is what you get’ suggest?
 
-a) Price and value are always the same. (  
-b) Price is more important than value. (  
-c) Price is less important than value. (  
+a) Price and value are always the same.
+b) Price is more important than value.
+c) Price is less important than value.
 d) Price and value can be different. 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DECEMBER 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (vi) - 2 marks
 
-A project assumed monetary gain or loss by discounting entire cash inflows and outflows by utilising the necessary rate of return is listed as (
+A project assumed monetary gain or loss by discounting entire cash inflows and outflows by utilising the necessary rate of return is listed as
 
-a) Net recorded cash value (  
-b) Net discounted value (  
-c) Net future value (  
+a) Net recorded cash value
+b) Net discounted value
+c) Net future value
 d) Net present value
 
 ### 1 (vii) - 2 marks
 
-Which of the following is true about the callable bond? (
+Which of the following is true about the callable bond?
 
-a) Callable bonds always trade at a discount to non-callable bonds (  
-b) Callable bonds expose issuers to the risk of reduced re-investment return (  
-c) Callable bonds are actually variable tenor bonds (  
+a) Callable bonds always trade at a discount to non-callable bonds
+b) Callable bonds expose issuers to the risk of reduced re-investment return
+c) Callable bonds are actually variable tenor bonds
 d) Callable bonds are not as liquid as non-callable bonds
 
 ### 1 (viii) - 2 marks
 
-8% bond of Face Value ₹100 is selling for ₹96. What would be its Current Yield? (
+8% bond of Face Value ₹100 is selling for ₹96. What would be its Current Yield?
 
-a) 8% (  
-b) 12% (  
-c) 8.33% (  
+a) 8%
+b) 12%
+c) 8.33%
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-If X ltd has ₹100 crores worth of common equity on its balance sheet comprising of 50 lakhs shares. The company’s market value Added (MVA) is ₹24 crores. What is company’s stock price? (
+If X ltd has ₹100 crores worth of common equity on its balance sheet comprising of 50 lakhs shares. The company’s market value Added (MVA) is ₹24 crores. What is company’s stock price?
 
-a) 230 (  
-b) 238 (  
-c) 248 (  
+a) 230
+b) 238
+c) 248
 d) 264
 
 ### 1 (x) - 2 marks
 
-If purchase consideration is more than net assets of the transferor company, then difference will be shown as: (
+If purchase consideration is more than net assets of the transferor company, then difference will be shown as:
 
-a) Goodwill account (  
-b) Capital reserve account (  
-c) General reserve account (  
+a) Goodwill account
+b) Capital reserve account
+c) General reserve account
 d) None of the above
 
 (b) Read the following scenario and answer the following questions:
@@ -144,32 +144,32 @@ Average Assets 5,000 4,800 8,750 8,750
 
 ### 1 (xiv) - 2 marks
 
-Average Equity 2,000 2,000 5,000 3,500 Based on the above case, you are required to answer the questions no. from (i) to (v): (i) The profit margin of Lotus Inc. in the Year 2 will be: (
+Average Equity 2,000 2,000 5,000 3,500 Based on the above case, you are required to answer the questions no. from (i) to (v): (i) The profit margin of Lotus Inc. in the Year 2 will be:
 
-a) 8.33 (  
-b) 0.1 (  
-c) 0.12 (  
-d) None of the above. (ii) What will be the asset turnover ratio of ASA Inc. in Year 1? (  
-a) 2 (  
-b) 2.08 (  
-c) 0.5 (  
-d) None of the above. (iii) Which company has better ROE in Year 1? (  
-a) Lotus Inc. (  
-b) ASA Inc. (  
-c) Both companies have same ROE (  
-d) None of the above. (iv) The ROE of Lotus Inc. in the Year 1 will be: (  
-a) 42% (  
-b) 50% (  
-c) 60% (  
+a) 8.33
+b) 0.1
+c) 0.12
+d) None of the above. (ii) What will be the asset turnover ratio of ASA Inc. in Year 1?
+a) 2
+b) 2.08
+c) 0.5
+d) None of the above. (iii) Which company has better ROE in Year 1?
+a) Lotus Inc.
+b) ASA Inc.
+c) Both companies have same ROE
+d) None of the above. (iv) The ROE of Lotus Inc. in the Year 1 will be:
+a) 42%
+b) 50%
+c) 60%
 d) None of the above.
 
 ### 1 (xv) - 2 marks
 
-The equity multiplier of ASA Inc. in Year 1 and Year 2 will be respectively: (
+The equity multiplier of ASA Inc. in Year 1 and Year 2 will be respectively:
 
-a) 2.5 and 2.4 (  
-b) 2.5 and 1.75 (  
-c) 1.75 and 2.5 (  
+a) 2.5 and 2.4
+b) 2.5 and 1.75
+c) 1.75 and 2.5
 d) None of the above. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – DECEMBER 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 # SECTION – B

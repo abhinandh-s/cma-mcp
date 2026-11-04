@@ -133,12 +133,12 @@ d. ₹ 25 (favourable)
 
 Standard cost of material for a given quantity of output is ₹ 15,000 while the actual cost of material used is ₹ 16,200. The material cost variance is:
 
-a. ₹ 1,200 (  
+a. ₹ 1,200
 A)  
-b. ₹ 16,200 (  
+b. ₹ 16,200
 A)  
 c. ₹ 15,000 (F)  
-d. ₹ 31,200 (  
+d. ₹ 31,200
 A)
 
 ### 1 (xiv) - 2 marks

@@ -25,90 +25,90 @@
 
 Which of the following is not a core dimension in Adversity Quotient?
 
-A) Control (  
-B) Ownership (  
-C) Leadership (  
+A) Control
+B) Ownership
+C) Leadership
 D) Origin
 
 ### 1 (ii) - 2 marks
 
 MUDRA was established to boost growth of small businesses in India through
 
-A) Training in Taxation (  
-B) Leadership (  
-C) Innovation (  
+A) Training in Taxation
+B) Leadership
+C) Innovation
 D) Credit Facilities
 
 ### 1 (iii) - 2 marks
 
 Kickstarter and Indiegogo are example of ................
 
-A) Equity Crowdfunding (  
-B) Reward Crowdfunding (  
-C) Donation Crowdfunding (  
+A) Equity Crowdfunding
+B) Reward Crowdfunding
+C) Donation Crowdfunding
 D) Micro Finance Crowdfunding
 
 ### 1 (iv) - 2 marks
 
 A ................... is a strategy used to initiate a new company or launch a new product on behalf of a present entrepreneur.
 
-A) Lean Startup (  
-B) Design Thinking (  
-C) Customer Validation (  
+A) Lean Startup
+B) Design Thinking
+C) Customer Validation
 D) Product Positioning
 
 ### 1 (v) - 2 marks
 
 Which of the following is not a primary reason that people become entrepreneurs ?
 
-A) Be their Own Boss (  
-B) Pursue their Own Ideas (  
-C) Pursue Financial Rewards. (  
+A) Be their Own Boss
+B) Pursue their Own Ideas
+C) Pursue Financial Rewards.
 D) Pursue Sustainability.
 
 ### 1 (vi) - 2 marks
 
 For any startup to implement design thinking, it must create a ..............
 
-A) Perception (  
-B) Culture (  
-C) Lean (  
+A) Perception
+B) Culture
+C) Lean
 D) Viability
 
 ### 1 (vii) - 2 marks
 
 Which of the following is not a common scaling strategies ?
 
-A) Automation (  
-B) Streamlining (  
-C) Franchise (  
+A) Automation
+B) Streamlining
+C) Franchise
 D) Raising Funds
 
 ### 1 (viii) - 2 marks
 
 ________ is an example of Systematic Risk?
 
-A) Business Risk (  
-B) Default Risk (  
-C) Financial Risk (  
+A) Business Risk
+B) Default Risk
+C) Financial Risk
 D) Interest Rate Risk
 
 ### 1 (ix) - 2 marks
 
 ..................... are strategic objectives of any organization
 
-A) Mission (  
-B) Vision (  
-C) Organization Goals (  
+A) Mission
+B) Vision
+C) Organization Goals
 D) Internal Control
 
 ### 1 (x) - 2 marks
 
 ..................... has been setup under NABARD
 
-A) Micro Irrigation Fund (  
-B) Live Stock Insurance Scheme (  
-C) National Scheme on Welfare of Fisherman (  
+A) Micro Irrigation Fund
+B) Live Stock Insurance Scheme
+C) National Scheme on Welfare of Fisherman
 D) Gramin Bhandaran Yojana
 
 (b) Read the following Scenario (case study) and answer the following questions. [5×2 = 10]
@@ -125,45 +125,45 @@ Choose the correct option from the given four alternatives based on the above sc
 
 Which of the following is not a branch of sustainability?
 
-A) Environment (  
-B) Need of present and future generation (  
-C) Economic and social factors (  
+A) Environment
+B) Need of present and future generation
+C) Economic and social factors
 D) Laws
 
 ### 1 (xii) - 2 marks
 
 What is a key challenge faced by MJK during the early stages of startup?
 
-A) Cost factor & scarce financial resources (  
-B) Technology (  
-C) Production cost of new product (  
+A) Cost factor & scarce financial resources
+B) Technology
+C) Production cost of new product
 D) Lack of experience in market
 
 ### 1 (xiii) - 2 marks
 
 Which strategy will help MJK in enhancing its Customer Base?
 
-A) Market segmentation (  
-B) Social media and branding of product (  
-C) Emphasis on rural market (  
+A) Market segmentation
+B) Social media and branding of product
+C) Emphasis on rural market
 D) Low price product
 
 ### 1 (xiv) - 2 marks
 
 Which Innovative Idea will help MJK in establishing itself as brand leader in future?
 
-A) Innovation in sustainable packaging (  
-B) E- Commerce (  
-C) Avoid the use of reusable product (  
+A) Innovation in sustainable packaging
+B) E- Commerce
+C) Avoid the use of reusable product
 D) Use of plastic waste product
 
 ### 1 (xv) - 2 marks
 
 How did MJK differentiate itself in the competitive market?
 
-A) Product quality and branding (  
-B) Price reduction (  
-C) Placement of its product (  
+A) Product quality and branding
+B) Price reduction
+C) Placement of its product
 D) Retail presence in rural area
 
 # SECTION – B

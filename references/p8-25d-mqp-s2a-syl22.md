@@ -23,140 +23,140 @@
 
 ### 1 (i) - 2 marks
 
-Which among the following is not the type of cost accounting system? (
+Which among the following is not the type of cost accounting system?
 
-a) Historical Costing (  
-b) Absorption Costing (  
-c) Standard Costing (  
+a) Historical Costing
+b) Absorption Costing
+c) Standard Costing
 d) Process Costing
 
 ### 1 (ii) - 2 marks
 
-The correct Idle time ratio is: 𝑰𝒅𝒍𝒆 𝑯𝒐𝒖𝒓𝒔 (
+The correct Idle time ratio is: 𝑰𝒅𝒍𝒆 𝑯𝒐𝒖𝒓𝒔
 
-a) ×𝟏𝟎𝟎 𝑻𝒐𝒕𝒂𝒍 𝒉𝒐𝒖𝒓𝒔 𝑻𝒐𝒕𝒂𝒍 𝒉𝒐𝒖𝒓𝒔 (  
-b) ×𝟏𝟎𝟎 𝑰𝒅𝒍𝒆 𝑯𝒐𝒖𝒓𝒔 (  
-c) Idle Hours × Total Hours (  
+a) ×𝟏𝟎𝟎 𝑻𝒐𝒕𝒂𝒍 𝒉𝒐𝒖𝒓𝒔 𝑻𝒐𝒕𝒂𝒍 𝒉𝒐𝒖𝒓𝒔
+b) ×𝟏𝟎𝟎 𝑰𝒅𝒍𝒆 𝑯𝒐𝒖𝒓𝒔
+c) Idle Hours × Total Hours
 d) Idle Hours × Hourly Rate
 
 ### 1 (iii) - 2 marks
 
-Directors’ remuneration and expenses form a part of: (
+Directors’ remuneration and expenses form a part of:
 
-a) Production Overhead (  
-b) Administration Overhead (  
-c) Selling Overhead (  
+a) Production Overhead
+b) Administration Overhead
+c) Selling Overhead
 d) Distribution Overhead
 
 ### 1 (iv) - 2 marks
 
-Which Cost Accounting Standard deals with Depreciation and Amortisation? (
+Which Cost Accounting Standard deals with Depreciation and Amortisation?
 
-a) CAS 16 (  
-b) CAS 10 (  
-c) CAS 9 (  
+a) CAS 16
+b) CAS 10
+c) CAS 9
 d) CAS 12
 
 ### 1 (v) - 2 marks
 
-Which Cost Accounting Standard deals with Repairs and Maintenance Cost? (
+Which Cost Accounting Standard deals with Repairs and Maintenance Cost?
 
-a) CAS 16 (  
-b) CAS 10 (  
-c) CAS 9 (  
+a) CAS 16
+b) CAS 10
+c) CAS 9
 d) CAS 12
 
 ### 1 (vi) - 2 marks
 
-What will be the journal entry for under-absorption of selling & distribution overhead as per Integrated Accounting System: (
+What will be the journal entry for under-absorption of selling & distribution overhead as per Integrated Accounting System:
 
-a) Profit and loss A/c Dr. To Selling & distribution overhead A/c (  
-b) Selling & distribution overhead A/c Dr. To Profit and Loss A/c 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 8 SYLLABUS 2022 COST ACCOUNTING (  
-c) Finished Goods Control A/c Dr. To Selling & distribution overhead A/c (  
+a) Profit and loss A/c Dr. To Selling & distribution overhead A/c
+b) Selling & distribution overhead A/c Dr. To Profit and Loss A/c 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 8 SYLLABUS 2022 COST ACCOUNTING
+c) Finished Goods Control A/c Dr. To Selling & distribution overhead A/c
 d) Costing Profit and Loss A/c Dr. To Selling & distribution overhead A/c
 
 ### 1 (vii) - 2 marks
 
-What is the objective of Reconciliation: (
+What is the objective of Reconciliation:
 
-a) To assure the mathematical accuracy and reliability of cost accounts (  
-b) To have proper control and ascertainment (  
-c) To ensure correct profit or loss in financial accounts (  
+a) To assure the mathematical accuracy and reliability of cost accounts
+b) To have proper control and ascertainment
+c) To ensure correct profit or loss in financial accounts
 d) All of the above
 
 ### 1 (viii) - 2 marks
 
-The type of process loss that should not be allowed to affect the cost of good units is called: (
+The type of process loss that should not be allowed to affect the cost of good units is called:
 
-a) Standard Loss (  
-b) Normal Loss (  
-c) Abnormal Loss (  
+a) Standard Loss
+b) Normal Loss
+c) Abnormal Loss
 d) Seasonal Loss
 
 ### 1 (ix) - 2 marks
 
-Value of work certified – (
+Value of work certified –
 
-a) Value of Contract × Work certified (%) (  
-b) Value of Contract × Work uncertified (%) (  
-c) Cost of work to date – (Cost of work uncertified+ Material in hand + Plant at site) (  
+a) Value of Contract × Work certified (%)
+b) Value of Contract × Work uncertified (%)
+c) Cost of work to date – (Cost of work uncertified+ Material in hand + Plant at site)
 d) Value of work certified- Payment made to contractor
 
 ### 1 (x) - 2 marks
 
-A hotel has 80 standard twin-bedded rooms. The hotel is fully occupied for each of the 350 days in each year that it is open. The total costs of running the hotel each year are₹ 33,60,000. What would be cost per unit per day? (
+A hotel has 80 standard twin-bedded rooms. The hotel is fully occupied for each of the 350 days in each year that it is open. The total costs of running the hotel each year are₹ 33,60,000. What would be cost per unit per day?
 
-a) ₹120 (  
-b) ₹122 (  
-c) ₹240 (  
+a) ₹120
+b) ₹122
+c) ₹240
 d) ₹102
 
 ### 1 (xi) - 2 marks
 
-ASA Ltd. manufactures a particular fountain pen called ASA Durga, incurring variable costs of ₹30 per unit and fixed costs of ₹20,000 per month. If the product sells for ₹50 per unit, then the breakeven point will be– (
+ASA Ltd. manufactures a particular fountain pen called ASA Durga, incurring variable costs of ₹30 per unit and fixed costs of ₹20,000 per month. If the product sells for ₹50 per unit, then the breakeven point will be–
 
-a) 666.667 (  
-b) 1000 (  
-c) 400 (  
+a) 666.667
+b) 1000
+c) 400
 d) 250 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 8 SYLLABUS 2022 COST ACCOUNTING
 
 ### 1 (xii) - 2 marks
 
-Mrs. S sells a product at ₹20 each and the variable cost is ₹12 each and she sold 2000 units in the market. She also has incurred ₹5,000 fixed cost in producing such product. Determine the value of break-even point. (
+Mrs. S sells a product at ₹20 each and the variable cost is ₹12 each and she sold 2000 units in the market. She also has incurred ₹5,000 fixed cost in producing such product. Determine the value of break-even point.
 
-a) 8333.33 (  
-b) 12,500 (  
-c) 27,500 (  
+a) 8333.33
+b) 12,500
+c) 27,500
 d) 50,000
 
 ### 1 (xiii) - 2 marks
 
-Which among the following is incorrect? (
+Which among the following is incorrect?
 
-a) Material Mix variance = (Revised standard quantity – Actual quantity) × Standard price (  
+a) Material Mix variance = (Revised standard quantity – Actual quantity) × Standard price
 b)  
-b) Material Yield variance = (standard quantity–revised standard quantity) × Standard price (  
-c) Material Mix variance = (Revised standard quantity- actual quantity) × Standard price (  
+b) Material Yield variance = (standard quantity–revised standard quantity) × Standard price
+c) Material Mix variance = (Revised standard quantity- actual quantity) × Standard price
 d) Material Usage Variance = (Standard price – actual quantity) ×𝐬𝐭𝐚𝐧𝐝𝐚𝐫𝐝 𝐪𝐮𝐚𝐧𝐭𝐢𝐭𝐲
 
 ### 1 (xiv) - 2 marks
 
-Which is not the limitation of zero-based budget? (
+Which is not the limitation of zero-based budget?
 
-a) It is very detailed procedure and naturally it is time consuming and lot of paperwork involved in the same (  
-b) Cost involved in preparation and implementation of this system is very low. (  
-c) Morale of the staff is very low as they feel threatened if a particular activity is discontinued (  
+a) It is very detailed procedure and naturally it is time consuming and lot of paperwork involved in the same
+b) Cost involved in preparation and implementation of this system is very low.
+c) Morale of the staff is very low as they feel threatened if a particular activity is discontinued
 d) Ranking of activities and decision-making may become subjective at times.
 
 ### 1 (xv) - 2 marks
 
-Budgets are shown in-terms: (
+Budgets are shown in-terms:
 
-a) Qualitative (  
-b) Quantitative (  
-c) Materialistic (  
-d) Both (  
-b) and (  
+a) Qualitative
+b) Quantitative
+c) Materialistic
+d) Both
+b) and
 c) 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 2 MODEL ANSWERS TERM – DECEMBER 2025 PAPER – 8 SYLLABUS 2022 COST ACCOUNTING
 
 ### Answer:

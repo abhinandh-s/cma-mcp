@@ -24,136 +24,136 @@
 
 Mrs. Sandhya, aged 38 years, is engaged in the business of growing, curing, roasting, and grinding coffee in India after mixing it with chicory. During the financial year ended 31st March 2025, she earned an income of ₹6,00,000 from this business, which was her only source of income. Based on the facts given, is Mrs. Sandhya required to file a return of income for
 
-A.Y. 2025–26 under Section 139(1)? (  
-a) Yes, because her total income exceeds ₹2,50,000. (  
-b) Yes, because income from coffee mixed with chicory is fully taxable as business income. (  
-c) No, because 40% of her income is taxable, which is below the basic exemption limit. (  
+A.Y. 2025–26 under Section 139(1)?
+a) Yes, because her total income exceeds ₹2,50,000.
+b) Yes, because income from coffee mixed with chicory is fully taxable as business income.
+c) No, because 40% of her income is taxable, which is below the basic exemption limit.
 d) No, because agricultural income is exempt in all cases.
 
 ### 1 (ii) - 2 marks
 
-When an assessee has paid advance tax more than the tax due on the returned income and the return is filed before the ‘due date’ specified in section 139(1), the refund amount is eligible for interest @ — (
+When an assessee has paid advance tax more than the tax due on the returned income and the return is filed before the ‘due date’ specified in section 139(1), the refund amount is eligible for interest @ —
 
-a) 1% per month (  
-b) ½% per month (  
-c) ¾% per month (  
+a) 1% per month
+b) ½% per month
+c) ¾% per month
 d) 1.50% per month
 
 ### 1 (iii) - 2 marks
 
-As per section 115JB, every taxpayer being a company is liable to pay MAT, if the Income tax payable on the total income, computed as per the provisions of the Income-tax Act in respect of any year is less than ____________ (
+As per section 115JB, every taxpayer being a company is liable to pay MAT, if the Income tax payable on the total income, computed as per the provisions of the Income-tax Act in respect of any year is less than ____________
 
-a) 15.50% (  
-b) 18.00% (  
-c) 15.00% (  
+a) 15.50%
+b) 18.00%
+c) 15.00%
 d) 20.00%
 
 ### 1 (iv) - 2 marks
 
-Assessing Officer or the assessee, as the case may be, on receipt of notice that an appeal against the order of the Commissioner (Appeals) has been filed by the other party, may file a memorandum of cross objection with the Tribunal in Form _____ and within _________ days of receipt of notice that appeal has been filed by the other party (
+Assessing Officer or the assessee, as the case may be, on receipt of notice that an appeal against the order of the Commissioner (Appeals) has been filed by the other party, may file a memorandum of cross objection with the Tribunal in Form _____ and within _________ days of receipt of notice that appeal has been filed by the other party
 
-a) Form 36A; 15 days (  
-b) Form 36A; 45 days (  
-c) Form 36A; 30 days (  
+a) Form 36A; 15 days
+b) Form 36A; 45 days
+c) Form 36A; 30 days
 d) Form 36; 60 days
 
 ### 1 (v) - 2 marks
 
-If the amount of income in respect of which the penalty is imposed or imposable for the relevant year(s) exceeds ₹ _______, then no order reducing or waiving the penalty under section 273A(1) shall be made by the Principal Commissioner or Commissioner, except with the previous approval of the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General, as the case may be (
+If the amount of income in respect of which the penalty is imposed or imposable for the relevant year(s) exceeds ₹ _______, then no order reducing or waiving the penalty under section 273A(1) shall be made by the Principal Commissioner or Commissioner, except with the previous approval of the Principal Chief Commissioner or Chief Commissioner or Principal Director General or Director General, as the case may be
 
-a) 1,00,000 (  
-b) 2,00,000 (  
-c) 5,00,000 (  
+a) 1,00,000
+b) 2,00,000
+c) 5,00,000
 d) 10,00,000
 
 ### 1 (vi) - 2 marks
 
-Z ltd issues a credit note for ₹ 36,000 for brokerage payable to A, who is the son of G, managing director of the company. The purpose is to reduce Z ltd. income and increase A’s income from ₹18,000 to ₹ 54,000. This is the case of (
+Z ltd issues a credit note for ₹ 36,000 for brokerage payable to A, who is the son of G, managing director of the company. The purpose is to reduce Z ltd. income and increase A’s income from ₹18,000 to ₹ 54,000. This is the case of
 
-a) Tax Avoidance (  
-b) Tax Planning (  
-c) Tax Evasion (  
+a) Tax Avoidance
+b) Tax Planning
+c) Tax Evasion
 d) Tax Management
 
 ### 1 (vii) - 2 marks
 
-ICDS is applicable in case of income under the head: (
+ICDS is applicable in case of income under the head:
 
-a) Profits and gains from Business or Profession (  
-b) Capital Gains (  
-c) Income from House Property (  
+a) Profits and gains from Business or Profession
+b) Capital Gains
+c) Income from House Property
 d) All heads of income
 
 ### 1 (viii) - 2 marks
 
-The rate of tax provided by the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 is (
+The rate of tax provided by the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 is
 
-a) 30% (  
-b) 60% (  
-c) 50% (  
+a) 30%
+b) 60%
+c) 50%
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-For computing capital gain under Section 50B, the cost of acquisition of the undertaking is taken as: (
+For computing capital gain under Section 50B, the cost of acquisition of the undertaking is taken as:
 
-a) Market value of assets (  
-b) Written-down value of fixed assets (  
-c) Net worth of the undertaking (  
+a) Market value of assets
+b) Written-down value of fixed assets
+c) Net worth of the undertaking
 d) Indexed cost of acquisition
 
 ### 1 (x) - 2 marks
 
-During A Co. Ltd. of Chennai and Sky Inc. of Singapore are associate enterprises. A Co. Ltd. imported 1000 television sets at ₹ 16,000 per set without any warranty period. A Co. Ltd. also imports similar TV sets from unrelated party Sign Inc. of Japan. It is imported at ₹15,000 per set with warranty time of 2 years. The cost of warranty in respect of goods imported from Sky Inc. for a period of 2 years would cost ₹ 2,000. Determine the Arm’s Length Price (ALP) per television set using the Comparable Uncontrolled Price (CUP) Method. (
+During A Co. Ltd. of Chennai and Sky Inc. of Singapore are associate enterprises. A Co. Ltd. imported 1000 television sets at ₹ 16,000 per set without any warranty period. A Co. Ltd. also imports similar TV sets from unrelated party Sign Inc. of Japan. It is imported at ₹15,000 per set with warranty time of 2 years. The cost of warranty in respect of goods imported from Sky Inc. for a period of 2 years would cost ₹ 2,000. Determine the Arm’s Length Price (ALP) per television set using the Comparable Uncontrolled Price (CUP) Method.
 
-a) ₹ ₹15,000 per unit (  
-b) ₹ 13,000 per unit (  
-c) ₹16,000 per unit (  
+a) ₹ ₹15,000 per unit
+b) ₹ 13,000 per unit
+c) ₹16,000 per unit
 d) ₹ 17,000 per unit
 
 ### 1 (xi) - 2 marks
 
-Under the Indian Income Tax Act, an APA is valid for a period of: (
+Under the Indian Income Tax Act, an APA is valid for a period of:
 
-a) 2 consecutive assessment years (  
-b) 3 consecutive assessment years (  
-c) Up to 5 consecutive assessment years (  
+a) 2 consecutive assessment years
+b) 3 consecutive assessment years
+c) Up to 5 consecutive assessment years
 d) Up to 10 consecutive assessment years
 
 ### 1 (xii) - 2 marks
 
-In India, under Income-tax Act, 1961 Section 92CE, a secondary adjustment arises when a primary transfer pricing adjustment has been made and: (
+In India, under Income-tax Act, 1961 Section 92CE, a secondary adjustment arises when a primary transfer pricing adjustment has been made and:
 
-a) the excess money is repatriated to India within 90 days (  
-b) the excess money is not repatriated to India within 90 days (  
-c) the primary adjustment is less than ₹1 crore (  
+a) the excess money is repatriated to India within 90 days
+b) the excess money is not repatriated to India within 90 days
+c) the primary adjustment is less than ₹1 crore
 d) no primary adjustment has been made
 
 ### 1 (xiii) - 2 marks
 
-The main purpose of DTAA is to: (
+The main purpose of DTAA is to:
 
-a) Increase global tax rates (  
-b) Avoid tax evasion only (  
-c) Avoid double taxation on the same income (  
+a) Increase global tax rates
+b) Avoid tax evasion only
+c) Avoid double taxation on the same income
 d) Restrict foreign investments
 
 ### 1 (xiv) - 2 marks
 
-The OECD Model Tax Convention is primarily designed for: (
+The OECD Model Tax Convention is primarily designed for:
 
-a) Developing nations (  
-b) Developed nations (  
-c) Middle-income countries (  
+a) Developing nations
+b) Developed nations
+c) Middle-income countries
 d) Least developed countries
 
 ### 1 (xv) - 2 marks
 
-Main objective of GAAR is to: (
+Main objective of GAAR is to:
 
-a) Reduce tax rates (  
-b) Prevent aggressive tax avoidance (  
-c) Promote foreign trade (  
+a) Reduce tax rates
+b) Prevent aggressive tax avoidance
+c) Promote foreign trade
 d) Encourage tax shelters
 
 ### Answer:

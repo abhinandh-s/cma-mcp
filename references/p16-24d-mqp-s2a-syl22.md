@@ -135,8 +135,8 @@ Which of the following considers difference between least cost and the cost just
 a) North West Corner Method  
 b) Least Cost Method  
 c) Vogel’s Approximation Method  
-d) Both (  
-b) and (  
+d) Both
+b) and
 c) above
 
 ### 1 (xiv) - 2 marks

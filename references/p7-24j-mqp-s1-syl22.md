@@ -23,140 +23,140 @@
 
 ### 1 (i) - 2 marks
 
-An individual has loss under the head ‘house property’ ₹ 2,50,000 for the assessment year 2024-25 and income under the head ‘Salaries’ ₹ 14,00,000. What is his total income, if he is paying tax u/s 115BAC(1A)? (
+An individual has loss under the head ‘house property’ ₹ 2,50,000 for the assessment year 2024-25 and income under the head ‘Salaries’ ₹ 14,00,000. What is his total income, if he is paying tax u/s 115BAC(1A)?
 
-a) ₹11,50,000 (  
-b) ₹ 12,00,000 (  
-c) ₹ 14,00,000 (  
+a) ₹11,50,000
+b) ₹ 12,00,000
+c) ₹ 14,00,000
 d) None of the above
 
 ### 1 (ii) - 2 marks
 
-An assessee has incurred preliminary expenses of ₹ 20,000/- in the month of April 2023. His business started in the month of May 2023. What is the amount of deduction allowable to him u/s 35D for the assessment year 2024-25? (
+An assessee has incurred preliminary expenses of ₹ 20,000/- in the month of April 2023. His business started in the month of May 2023. What is the amount of deduction allowable to him u/s 35D for the assessment year 2024-25?
 
-a) ₹ 4,000 (  
-b) ₹ 5,000 (  
-c) ₹ 10,000 (  
+a) ₹ 4,000
+b) ₹ 5,000
+c) ₹ 10,000
 d) ₹ 20,000
 
 ### 1 (iii) - 2 marks
 
-Ram (age 64) has earned interest on fixed deposit ₹ 55,000. What is the amount of deduction available to him under chapter VIA, if he has exercised the option available u/s 115BAC(6)? (
+Ram (age 64) has earned interest on fixed deposit ₹ 55,000. What is the amount of deduction available to him under chapter VIA, if he has exercised the option available u/s 115BAC(6)?
 
-a) ₹ 50,000 u/s 80TTB (  
-b) ₹ 10,000 u/s 80TTA (  
-c) ₹ 25,000 u/s 80TTB (  
+a) ₹ 50,000 u/s 80TTB
+b) ₹ 10,000 u/s 80TTA
+c) ₹ 25,000 u/s 80TTB
 d) Nil
 
 ### 1 (iv) - 2 marks
 
-Miss Monica, a foreign national, comes India every year for 100 days since 2007-08. What would be her residential status for the previous year 2023-24? 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 7 SYLLABUS 2022 DIRECT AND INDIRECT TAXATION (
+Miss Monica, a foreign national, comes India every year for 100 days since 2007-08. What would be her residential status for the previous year 2023-24? 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 7 SYLLABUS 2022 DIRECT AND INDIRECT TAXATION
 
-a) Non-Resident (  
-b) Resident and Ordinarily resident (  
-c) Resident but not ordinarily resident (  
+a) Non-Resident
+b) Resident and Ordinarily resident
+c) Resident but not ordinarily resident
 d) Deemed Resident
 
 ### 1 (v) - 2 marks
 
 Mr. Amit has retired from his job on 31/3/2023. From 1/4/2023, he was entitled to a pension of ₹ 12,500 p.m. What would be his income under the head “Salaries” for the
 
-A.Y. 2024-25, if he has not exercised the option available u/s 115BAC(6)? (  
-a) ₹ 1,00,000 (  
-b) ₹ 1,50,000 (  
-c) ₹ 50,000 (  
+A.Y. 2024-25, if he has not exercised the option available u/s 115BAC(6)?
+a) ₹ 1,00,000
+b) ₹ 1,50,000
+c) ₹ 50,000
 d) Nil
 
 ### 1 (vi) - 2 marks
 
-Pallavi engaged in manufacturing of rubber in India and earns a profit of ₹ 12,00,000. What is her agricultural income for computation of total income? (
+Pallavi engaged in manufacturing of rubber in India and earns a profit of ₹ 12,00,000. What is her agricultural income for computation of total income?
 
-a) 65% of profit (  
-b) 35% of profit (  
-c) 100% of profit (  
+a) 65% of profit
+b) 35% of profit
+c) 100% of profit
 d) Nil
 
 ### 1 (vii) - 2 marks
 
-As per provision of sec. 2(107) of the Central Goods and Services Tax Act, taxable person means: (
+As per provision of sec. 2(107) of the Central Goods and Services Tax Act, taxable person means:
 
-a) a person who is registered (  
-b) a person who is liable to be registered u/s 22 or u/s 24 (  
-c) Both (  
-a) and (  
-b) (  
+a) a person who is registered
+b) a person who is liable to be registered u/s 22 or u/s 24
+c) Both
+a) and
+b)
 d) None of the above
 
 ### 1 (viii) - 2 marks
 
-Which of the following services are exempted under GST? (
+Which of the following services are exempted under GST?
 
-a) Services by an artist by way of a performance in folk or classical art form of music where consideration charged for such performance is not more than ₹ 2,00,000 (  
-b) Services by way of collection of contribution under the Atal Pension Yojana (  
-c) Services to the Reserve Bank of India (  
+a) Services by an artist by way of a performance in folk or classical art form of music where consideration charged for such performance is not more than ₹ 2,00,000
+b) Services by way of collection of contribution under the Atal Pension Yojana
+c) Services to the Reserve Bank of India
 d) None of the above
 
 ### 1 (ix) - 2 marks
 
-Levy of indirect tax on goods and services may leads to: 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 7 SYLLABUS 2022 DIRECT AND INDIRECT TAXATION (
+Levy of indirect tax on goods and services may leads to: 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 7 SYLLABUS 2022 DIRECT AND INDIRECT TAXATION
 
-a) Inflation (  
-b) Deflation (  
-c) Reflection (  
+a) Inflation
+b) Deflation
+c) Reflection
 d) None of the above
 
 ### 1 (x) - 2 marks
 
-Supply of service by a music composer to the music company is covered under: (
+Supply of service by a music composer to the music company is covered under:
 
-a) Forward charge mechanism (  
-b) Reverse charge (  
-c) Negative list (  
+a) Forward charge mechanism
+b) Reverse charge
+c) Negative list
 d) None of the above
 
 ### 1 (xi) - 2 marks
 
-A registered person paid ₹ 11,800 (inclusive of GST @ 18%) as motor car insurance charges: (
+A registered person paid ₹ 11,800 (inclusive of GST @ 18%) as motor car insurance charges:
 
-a) Supplier can claim ITC (  
-b) Supplier cannot claim ITC (  
-c) Recipient can claim ITC (  
+a) Supplier can claim ITC
+b) Supplier cannot claim ITC
+c) Recipient can claim ITC
 d) None of the above
 
 ### 1 (xii) - 2 marks
 
-Aggregate turnover of Shri Krishnan, a trader from Tamilnadu, in the financial year 2022- 23 was ₹ 90 lakhs. Hence, he has opted to pay GST u/s 10 for financial year 2023-24. During the financial year 2023-24, his taxable turnover is ₹ 1,10,0000 comprising of supply of goods ₹ 1 crore [Regular rate of GST is 5%] and balance of supply of services [Regular rate of GST is 18%]. What would be his gross GST liability for the financial year 2023-24? (
+Aggregate turnover of Shri Krishnan, a trader from Tamilnadu, in the financial year 2022- 23 was ₹ 90 lakhs. Hence, he has opted to pay GST u/s 10 for financial year 2023-24. During the financial year 2023-24, his taxable turnover is ₹ 1,10,0000 comprising of supply of goods ₹ 1 crore [Regular rate of GST is 5%] and balance of supply of services [Regular rate of GST is 18%]. What would be his gross GST liability for the financial year 2023-24?
 
-a) ₹ 1,10,000 (  
-b) ₹ 1,60,000 (  
-c) ₹ 1,00,000 (  
+a) ₹ 1,10,000
+b) ₹ 1,60,000
+c) ₹ 1,00,000
 d) None of the above
 
 ### 1 (xiii) - 2 marks
 
-Input tax credit shall not be availed by a registered person in respect of invoice unless the details thereof have been communicated to the registered person in: (
+Input tax credit shall not be availed by a registered person in respect of invoice unless the details thereof have been communicated to the registered person in:
 
-a) Form GSTR 1 (  
-b) Form GSTR 9 (  
-c) Form GSTR 2B (  
+a) Form GSTR 1
+b) Form GSTR 9
+c) Form GSTR 2B
 d) None of the above 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL QUESTION PAPER TERM – JUNE 2024 PAPER – 7 SYLLABUS 2022 DIRECT AND INDIRECT TAXATION
 
 ### 1 (xiv) - 2 marks
 
-For determining the assessable value for customs duty, insurance charges, where the same in not ascertainable, to be taken is: (
+For determining the assessable value for customs duty, insurance charges, where the same in not ascertainable, to be taken is:
 
-a) 1.125% of FOB Value (  
-b) 1.125% of (FOB value + Transportation Charges) (  
-c) 1.25% of FOB Value (  
+a) 1.125% of FOB Value
+b) 1.125% of (FOB value + Transportation Charges)
+c) 1.25% of FOB Value
 d) 1.25% of (FOB value + Transportation Charges)
 
 ### 1 (xv) - 2 marks
 
-Social Welfare Surcharge shall be payable @: (
+Social Welfare Surcharge shall be payable @:
 
-a) 10% of assessable value (  
-b) 10% of FOB Value (  
-c) 10% of basic customs duty (  
+a) 10% of assessable value
+b) 10% of FOB Value
+c) 10% of basic customs duty
 d) None of the above
 
 # SECTION – B

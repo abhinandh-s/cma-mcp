@@ -60,13 +60,13 @@ D) ₹ 1760
 
 The following figures are extracted from the books of a company: Budgeted O/H - ₹ 10,000 (Fixed ₹ 6,000, Variable ₹ 4,000) Budgeted Hours - 2000 Actual O/H - ₹ 10,400 (Fixed ₹ 6,100, Variable ₹ 4,300) Actual Hours - 2100 Variable O/H cost variance and Fixed O/H cost variance will be:
 
-A) ₹ 100 (  
-A) and ₹ 200 (  
+A) ₹ 100
+A) and ₹ 200
 A)  
 B) ₹ 100 (F) and ₹ 200 (F)  
-C) ₹ 100 (  
+C) ₹ 100
 A) and ₹ 200 (F)  
-D) ₹ 200 (  
+D) ₹ 200
 A) and ₹ 100 (F)
 
 ### 1 (vi) - 2 marks
@@ -102,8 +102,8 @@ Which of the following statement is correct?
 
 A) Functioning of ETL Tool is same as that of ELT Tool.  
 B) For Data Analytics the purpose of ETL Tool is same as that of ELT Tool.  
-C) Both (  
-a) and (  
+C) Both
+a) and
 b)  
 D) None of the above.
 

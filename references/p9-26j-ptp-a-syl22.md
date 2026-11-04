@@ -143,8 +143,8 @@ Environment is also called source of threats, which among the following option/s
 
 a. Hostile shifts in Market Demand  
 b. New regulatory requirements  
-c. Both (  
-a) & (  
+c. Both
+a) &
 b)  
 d. None of the above
 

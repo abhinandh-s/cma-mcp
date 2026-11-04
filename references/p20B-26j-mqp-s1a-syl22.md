@@ -23,94 +23,94 @@
 
 ### 1 (i) - 2 marks
 
-When the risk of losses in on-or-off balance sheet positions arise from movement in market prices, it is called as ----------. (
+When the risk of losses in on-or-off balance sheet positions arise from movement in market prices, it is called as ----------.
 
-A) Credit Risk (  
-B) Operational Risk (  
-C) Market Risk (  
+A) Credit Risk
+B) Operational Risk
+C) Market Risk
 D) Liquidity Risk
 
 ### 1 (ii) - 2 marks
 
-YTM Stands for ----------. (
+YTM Stands for ----------.
 
-A) Yield To Maturity (  
-B) Yield To Money (  
-C) Yield To Market (  
+A) Yield To Maturity
+B) Yield To Money
+C) Yield To Market
 D) Yield To Motive
 
 ### 1 (iii) - 2 marks
 
-Which of the following is key strategy insurers use to manage their own investment-related financial risks? (
+Which of the following is key strategy insurers use to manage their own investment-related financial risks?
 
-A) Focusing all investments in a single asset class (  
-B) Diversifying their investment portfolios (  
-C) Increasing their debt to policyholders (  
+A) Focusing all investments in a single asset class
+B) Diversifying their investment portfolios
+C) Increasing their debt to policyholders
 D) Avoiding investment altogether
 
 ### 1 (iv) - 2 marks
 
-Reputational Risk in Banking refers to-----------. (
+Reputational Risk in Banking refers to-----------.
 
-A) Decrease in Profits of a Bank when compared to the Growth Rate of Profits in Banking Sector (  
-B) Decrease in Deposits Growth of a Bank due to economic slowdown (  
-C) Both (  
-A) or (  
-B) (  
+A) Decrease in Profits of a Bank when compared to the Growth Rate of Profits in Banking Sector
+B) Decrease in Deposits Growth of a Bank due to economic slowdown
+C) Both
+A) or
+B)
 D) The potential for damage to Bank’s reputation
 
 ### 1 (v) - 2 marks
 
-The following is the similarity between insurance and gambling------. (
+The following is the similarity between insurance and gambling------.
 
-A) Promise to pay on the happening of an event (  
-B) The amount of loss to be paid is known beforehand (  
-C) Both the parties win on happening of an event (  
+A) Promise to pay on the happening of an event
+B) The amount of loss to be paid is known beforehand
+C) Both the parties win on happening of an event
 D) Both are enforceable at law
 
 ### 1 (vi) - 2 marks
 
-Non-life insurers must ensure that, they do not insure the Assets, that are---------. (
+Non-life insurers must ensure that, they do not insure the Assets, that are---------.
 
-A) Bought, Out of Public Money (  
-B) Bought, Using the Bank Loans (  
-C) Bought, Out of Illegal Funding 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20B SYLLABUS 2022 RISK MANAGEMENT IN BANKING AND INSURANCE (  
+A) Bought, Out of Public Money
+B) Bought, Using the Bank Loans
+C) Bought, Out of Illegal Funding 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20B SYLLABUS 2022 RISK MANAGEMENT IN BANKING AND INSURANCE
 D) Bought, By Mortgaging the Property
 
 ### 1 (vii) - 2 marks
 
-How is the Claim Calculated, in Case of Fire Insurance? (
+How is the Claim Calculated, in Case of Fire Insurance?
 
-A) Percentage of Loss, caused by Fire (  
-B) Purchase-Value of the Damages, caused by Fire (  
-C) Current Value of Assets (  
+A) Percentage of Loss, caused by Fire
+B) Purchase-Value of the Damages, caused by Fire
+C) Current Value of Assets
 D) Depreciated Value of Assets
 
 ### 1 (viii) - 2 marks
 
-------- is a voluntary termination of the contract by the policy holders. (
+------- is a voluntary termination of the contract by the policy holders.
 
-A) Report (  
-B) Surrender (  
-C) Prospectus (  
+A) Report
+B) Surrender
+C) Prospectus
 D) Cover note
 
 ### 1 (ix) - 2 marks
 
--------- risks happen within a stable environment and are constant over an observed period of time. (
+-------- risks happen within a stable environment and are constant over an observed period of time.
 
-A) Speculative (  
-B) Pure (  
-C) Dynamic (  
+A) Speculative
+B) Pure
+C) Dynamic
 D) Static
 
 ### 1 (x) - 2 marks
 
-During a sudden financial crisis, a bank needs to sell a large block of government bond holdings to meet an unexpected surge in depositor withdrawals. However, due to widespread panic, the bond market has become chaotic, and the bank can only sell the bonds at a price significantly below their recent market value. This situation is a clear example of: (
+During a sudden financial crisis, a bank needs to sell a large block of government bond holdings to meet an unexpected surge in depositor withdrawals. However, due to widespread panic, the bond market has become chaotic, and the bank can only sell the bonds at a price significantly below their recent market value. This situation is a clear example of:
 
-A) Funding Liquidity Risk (  
-B) Market Liquidity Risk (  
-C) Operational Risk (  
+A) Funding Liquidity Risk
+B) Market Liquidity Risk
+C) Operational Risk
 D) Credit Risk
 
 (b) Based on the following case study, you are required to answer question nos. (xi) to (xv)
@@ -143,47 +143,47 @@ In this situation, choose the correct option from the four alternatives given:
 
 ### 1 (xi) - 2 marks
 
-Financial Derivatives include------. (
+Financial Derivatives include------.
 
-A) Stocks. (  
-B) Bonds. (  
-C) Futures. (  
+A) Stocks.
+B) Bonds.
+C) Futures.
 D) None of the above.
 
 ### 1 (xii) - 2 marks
 
-By Hedging a Portfolio of Investments, a Bank---------. (
+By Hedging a Portfolio of Investments, a Bank---------.
 
-A) Reduces Interest Rate Risk. (  
-B) Increases Reinvestment Risk. (  
-C) Increases Exchange Rate Risk. (  
+A) Reduces Interest Rate Risk.
+B) Increases Reinvestment Risk.
+C) Increases Exchange Rate Risk.
 D) Increases the Probability of Gains.
 
 ### 1 (xiii) - 2 marks
 
-_______ is defined as the probability of instantaneous or near-instantaneous loss & can be due to flash crashes, other market crises, malicious activity by selected market participants & other events. (
+_______ is defined as the probability of instantaneous or near-instantaneous loss & can be due to flash crashes, other market crises, malicious activity by selected market participants & other events.
 
-A) Market Risk. (  
-B) Audit Risk. (  
-C) Real-time Risk. (  
+A) Market Risk.
+B) Audit Risk.
+C) Real-time Risk.
 D) Economic Risk.
 
 ### 1 (xiv) - 2 marks
 
-An option allowing the Holder to Buy Assets in the Future is a --------. (
+An option allowing the Holder to Buy Assets in the Future is a --------.
 
-A) Put Option Contract. (  
-B) Call Option Contract. (  
-C) Swap Contract. (  
+A) Put Option Contract.
+B) Call Option Contract.
+C) Swap Contract.
 D) Forward Contract.
 
 ### 1 (xv) - 2 marks
 
-Futures contracts are available at------------. (
+Futures contracts are available at------------.
 
-A) Exchanges. (  
-B) Banks. (  
-C) NBFCs. (  
+A) Exchanges.
+B) Banks.
+C) NBFCs.
 D) None of the above. 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET 1 MODEL ANSWERS TERM – JUNE 2026 PAPER – 20B SYLLABUS 2022 RISK MANAGEMENT IN BANKING AND INSURANCE C A C B A
 
 ### Answer:

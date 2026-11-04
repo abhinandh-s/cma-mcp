@@ -155,8 +155,8 @@ Outstanding salaries is shown as –
 a. An Asset in the Balance Sheet  
 b. A Liability in the Balance sheet  
 c. By adjusting it in the P & L A/c  
-d. Both (  
-b) and (  
+d. Both
+b) and
 c) 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET-2 MODEL QUESTION PAPER TERM – DEC 2024 PAPER – 6 SYLLABUS 2022 FINANCIAL ACCOUNTING
 
 # SECTION – B

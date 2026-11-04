@@ -22,139 +22,139 @@
 
 ### 1 (i) - 2 marks
 
-) Which of the following classification is meant for distinction between direct cost and indirect cost? (
+) Which of the following classification is meant for distinction between direct cost and indirect cost?
 
-a) Function (  
-b) Element (  
-c) Variability (  
+a) Function
+b) Element
+c) Variability
 d) Controllability
 
 ### 1 (ii) - 2 marks
 
-) Danger Level is calculated by multiplying: (
+) Danger Level is calculated by multiplying:
 
-a) Maximum consumption × Minimum re-order period (  
-b) Normal rate of consumption × Maximum re-order period (  
-c) Average consumption × Average re-order period (  
+a) Maximum consumption × Minimum re-order period
+b) Normal rate of consumption × Maximum re-order period
+c) Average consumption × Average re-order period
 d) Minimum consumption × Maximum re-order period
 
 ### 1 (iii) - 2 marks
 
-) JIT helps in: (
+) JIT helps in:
 
-a) Increasing excess inventory (  
-b) Minimizing waste (  
-c) Increasing production delays (  
+a) Increasing excess inventory
+b) Minimizing waste
+c) Increasing production delays
 d) Maximizing storage cost
 
 ### 1 (iv) - 2 marks
 
-) Material Cost deals with which Cost Accounting Standard: (
+) Material Cost deals with which Cost Accounting Standard:
 
-a) CAS-6 (  
-b) CAS- 3 (  
-c) CAS-12 (  
+a) CAS-6
+b) CAS- 3
+c) CAS-12
 d) CAS-16
 
 ### 1 (v) - 2 marks
 
-) _____ deals with the principles and methods of determining the production or operation overheads. (
+) _____ deals with the principles and methods of determining the production or operation overheads.
 
-a) CAS-3 (  
-b) CAS-5 (  
-c) CAS-9 (  
+a) CAS-3
+b) CAS-5
+c) CAS-9
 d) CAS-16 1 INTERMEDIATE EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 8 SYLLABUS 2022 COST ACCOUNTING
 
 ### 1 (vi) - 2 marks
 
-) Which among the following is not the significance of cost record in India: (
+) Which among the following is not the significance of cost record in India:
 
-a) Legal Compliance (  
-b) Government Regulations (  
-c) Cost Audit requirement (  
+a) Legal Compliance
+b) Government Regulations
+c) Cost Audit requirement
 d) Economical requirement
 
 ### 1 (vii) - 2 marks
 
-) Under non-integrated accounting system: (
+) Under non-integrated accounting system:
 
-a) Same ledger is maintained for cost and financial accounts by accountants (  
-b) Separate ledgers are maintained for cost and financial accounts (  
-c) (  
-a) and (  
-b) both (  
+a) Same ledger is maintained for cost and financial accounts by accountants
+b) Separate ledgers are maintained for cost and financial accounts
+c)
+a) and
+b) both
 d) None of the above
 
 ### 1 (viii) - 2 marks
 
-) Operating costing is applicable to: (
+) Operating costing is applicable to:
 
-a) Hospitals (  
-b) Cinemas (  
-c) Transport undertaking (  
+a) Hospitals
+b) Cinemas
+c) Transport undertaking
 d) All of the above
 
 ### 1 (ix) - 2 marks
 
-) In a job cost system, costs are accumulated ________. (
+) In a job cost system, costs are accumulated ________.
 
-a) On a monthly basis (  
-b) By specific job (  
-c) By department or process (  
+a) On a monthly basis
+b) By specific job
+c) By department or process
 d) By kind of material used
 
 ### 1 (x) - 2 marks
 
-) Which among of the following is true regarding process costing: (
+) Which among of the following is true regarding process costing:
 
-a) Continuous and Mass Production (  
-b) Homogeneous Products (  
-c) Average Cost per Unit is calculated for each process (  
+a) Continuous and Mass Production
+b) Homogeneous Products
+c) Average Cost per Unit is calculated for each process
 d) All of these
 
 ### 1 (xi) - 2 marks
 
-) Following information is available of XYZ Limited for quarter ended June, 2023 Fixed cost ₹5,00,000 Variable cost ₹ 10 per unit Selling price ₹ 15 per unit Output level 1,50,000 units What will be amount of profit earned during the quarter using the marginal costing technique? (
+) Following information is available of XYZ Limited for quarter ended June, 2023 Fixed cost ₹5,00,000 Variable cost ₹ 10 per unit Selling price ₹ 15 per unit Output level 1,50,000 units What will be amount of profit earned during the quarter using the marginal costing technique?
 
-a) ₹ 2,50,000 (  
-b) ₹ 10,00,000 (  
-c) ₹ 5,00,000 (  
+a) ₹ 2,50,000
+b) ₹ 10,00,000
+c) ₹ 5,00,000
 d) ₹ 17,50,000 2 INTERMEDIATE EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 8 SYLLABUS 2022 COST ACCOUNTING
 
 ### 1 (xii) - 2 marks
 
-) When the sales increase from ₹ 40,000 to ₹ 60,000 and profit increases by ₹ 5,000, the P/V ratio is: (
+) When the sales increase from ₹ 40,000 to ₹ 60,000 and profit increases by ₹ 5,000, the P/V ratio is:
 
-a) 20% (  
-b) 30% (  
-c) 25% (  
+a) 20%
+b) 30%
+c) 25%
 d) 40%
 
 ### 1 (xiii) - 2 marks
 
-) Standard price of material per kg ₹ 20, standards consumption per unit of production is 5 kg. Standard material cost for producing 100 units is: (
+) Standard price of material per kg ₹ 20, standards consumption per unit of production is 5 kg. Standard material cost for producing 100 units is:
 
-a) ₹20,000 (  
-b) ₹12,000 (  
+a) ₹20,000
+b) ₹12,000
 c) ₹8,000  
 d) ₹10,000
 
 ### 1 (xiv) - 2 marks
 
-) Which among the following is not true regarding Budget: (
+) Which among the following is not true regarding Budget:
 
-a) Budget is related to planned events. (  
-b) Budget is planned or prepared for a shorter period (  
-c) Budget is unfixed for a period (  
+a) Budget is related to planned events.
+b) Budget is planned or prepared for a shorter period
+c) Budget is unfixed for a period
 d) Result of planning is budgeting
 
 ### 1 (xv) - 2 marks
 
-) The cost per unit of a product manufactured in a factory amounts to ₹ 160 (75% variable) when the production is 10,000 units. When production increases by 25%, the cost of production will be ₹ per unit. (
+) The cost per unit of a product manufactured in a factory amounts to ₹ 160 (75% variable) when the production is 10,000 units. When production increases by 25%, the cost of production will be ₹ per unit.
 
-a) ₹ 145 (  
-b) ₹ 150 (  
-c) ₹ 152 (  
+a) ₹ 145
+b) ₹ 150
+c) ₹ 152
 d) ₹ 140
 
 # SECTION – B

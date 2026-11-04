@@ -23,152 +23,152 @@
 
 ### 1 (i) - 2 marks
 
-According to Altman’s z-score model (1968), calculate the value of X from the 5 following information: Total assets – 10,00,000 Retained earnings – 4,00,000 Sales – 12,00,000 Working capital – 10,00,000. (
+According to Altman’s z-score model (1968), calculate the value of X from the 5 following information: Total assets – 10,00,000 Retained earnings – 4,00,000 Sales – 12,00,000 Working capital – 10,00,000.
 
-a) 1 (  
-b) 1.2 (  
-c) 0.4 (  
+a) 1
+b) 1.2
+c) 0.4
 d) 0.83
 
 ### 1 (ii) - 2 marks
 
-Given the following information for a business: Asset turnover = 3.50 Equity multiplier = 1.00 Return on equity = 30% Using the DuPont analysis, the net profit margin is ___________ (
+Given the following information for a business: Asset turnover = 3.50 Equity multiplier = 1.00 Return on equity = 30% Using the DuPont analysis, the net profit margin is ___________
 
-a) 8.57% (  
-b) 5.87% (  
-c) 7.65% (  
+a) 8.57%
+b) 5.87%
+c) 7.65%
 d) 6.75%
 
 ### 1 (iii) - 2 marks
 
-Which one of the following is not a measure related to Balanced Score Card? (
+Which one of the following is not a measure related to Balanced Score Card?
 
-a) Financial (  
-b) Customer Satisfaction (  
-c) Internal Processes (  
+a) Financial
+b) Customer Satisfaction
+c) Internal Processes
 d) Gap Analysis
 
 ### 1 (iv) - 2 marks
 
-The Cost function of a firm is given by C = x3 - 4x2 + 7x. Find at what level of output the average cost is minimum and what would be the minimum average cost. (
+The Cost function of a firm is given by C = x3 - 4x2 + 7x. Find at what level of output the average cost is minimum and what would be the minimum average cost.
 
-a) 2,3 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL ANSWERS TERM – DECEMBER 2023 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION (  
-b) 4,5 (  
-c) 1,4 (  
+a) 2,3 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL ANSWERS TERM – DECEMBER 2023 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
+b) 4,5
+c) 1,4
 d) None of the above
 
 ### 1 (v) - 2 marks
 
-In which discipline supply chain concept was originated? (
+In which discipline supply chain concept was originated?
 
-a) Production (  
-b) Operation (  
-c) Marketing (  
+a) Production
+b) Operation
+c) Marketing
 d) Logistics
 
 ### 1 (vi) - 2 marks
 
-Small/Mid-sized Six Sigma projects are executed by professionals titled as: (
+Small/Mid-sized Six Sigma projects are executed by professionals titled as:
 
-a) Champion (  
-b) Green Belt (  
-c) Black Belt (  
+a) Champion
+b) Green Belt
+c) Black Belt
 d) Site Champion
 
 ### 1 (vii) - 2 marks
 
-Unique risk is also referred as: (
+Unique risk is also referred as:
 
-a) Systematic risk (  
-b) Operational risk (  
-c) Default risk (  
+a) Systematic risk
+b) Operational risk
+c) Default risk
 d) Non-systematic risk
 
 ### 1 (viii) - 2 marks
 
-Assume that the following details are given for a company: Sales- ₹ 1,00,000; Costs - ₹ 75,000; Depreciation- ₹ 20,000; Tax- 35%; Change in Net Working Capital- ₹ 1,000; Change in Capital Spending- ₹ 10,000. The Free Cash Flow to Firm (FCFF) for the given data would be: (
+Assume that the following details are given for a company: Sales- ₹ 1,00,000; Costs - ₹ 75,000; Depreciation- ₹ 20,000; Tax- 35%; Change in Net Working Capital- ₹ 1,000; Change in Capital Spending- ₹ 10,000. The Free Cash Flow to Firm (FCFF) for the given data would be:
 
-a) ₹ 10,000 (  
-b) ₹ 12,250 (  
-c) ₹ 13,500 (  
+a) ₹ 10,000
+b) ₹ 12,250
+c) ₹ 13,500
 d) ₹ 15,000
 
 ### 1 (ix) - 2 marks
 
-X Ltd.’s share beta factor is 1.40. The risk free rate of interest on government securities is 9%. The expected rate of return on the company equity shares is 16%. The cost of equity capital based on CAPM is: (
+X Ltd.’s share beta factor is 1.40. The risk free rate of interest on government securities is 9%. The expected rate of return on the company equity shares is 16%. The cost of equity capital based on CAPM is:
 
-a) 15.8% (  
-b) 16% (  
-c) 18.8% (  
+a) 15.8%
+b) 16%
+c) 18.8%
 d) 9% 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL ANSWERS TERM – DECEMBER 2023 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (x) - 2 marks
 
-If a company has a P/E ratio of 12 and a Market to Book Value Ratio 2.10, then its Return on Equity will be: (
+If a company has a P/E ratio of 12 and a Market to Book Value Ratio 2.10, then its Return on Equity will be:
 
-a) 14.10% (  
-b) 17.50% (  
-c) 25.20% (  
+a) 14.10%
+b) 17.50%
+c) 25.20%
 d) None of the above
 
 ### 1 (xi) - 2 marks
 
-A firm current assets and current liabilities are ₹ 1,600 and ₹ 1,000 respectively. How much can it borrow on a short-term basis without reducing the current ratio below 1.25? (
+A firm current assets and current liabilities are ₹ 1,600 and ₹ 1,000 respectively. How much can it borrow on a short-term basis without reducing the current ratio below 1.25?
 
-a) ₹ 1,000 (  
-b) ₹ 1,200 (  
-c) ₹ 1,400 (  
+a) ₹ 1,000
+b) ₹ 1,200
+c) ₹ 1,400
 d) ₹ 1,600
 
 ### 1 (xii) - 2 marks
 
-Which Act is responsible for entrusting the Asset Reconstruction Companies (ARCs) for raising funds by issuing security receipts to the set of qualified buyers? (
+Which Act is responsible for entrusting the Asset Reconstruction Companies (ARCs) for raising funds by issuing security receipts to the set of qualified buyers?
 
-a) SARFAESI Act (  
-b) Banking regulation act 1949 (  
-c) SEBI Act 1992 (  
+a) SARFAESI Act
+b) Banking regulation act 1949
+c) SEBI Act 1992
 d) Companies Act 2013
 
 ### 1 (xiii) - 2 marks
 
-Which of the followings is not the core principle of valuation? (
+Which of the followings is not the core principle of valuation?
 
-a) Ethics (  
-b) Perception (  
-c) Compliance (  
+a) Ethics
+b) Perception
+c) Compliance
 d) Data
 
 ### 1 (xiv) - 2 marks
 
-8% bond of Face Value ₹ 100 is selling for ₹ 96. What would be its Current Yield? (
+8% bond of Face Value ₹ 100 is selling for ₹ 96. What would be its Current Yield?
 
-a) 8% (  
-b) 12% (  
-c) 8.33% (  
+a) 8%
+b) 12%
+c) 8.33%
 d) None of the above
 
 ### 1 (xv) - 2 marks
 
-If the Value of target Co. is ₹ 500 Million and the value of acquiring company is ₹800 Million. Present value of cost savings if the two companies are merged together is ₹ 100 million. Acquiring company expects the cost of integration as ₹80 million and the shareholders of Target Co. are expecting a deal premium 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL ANSWERS TERM – DECEMBER 2023 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION to be paid of 15 percent over their company’s value. What is the value of Combined entity? (
+If the Value of target Co. is ₹ 500 Million and the value of acquiring company is ₹800 Million. Present value of cost savings if the two companies are merged together is ₹ 100 million. Acquiring company expects the cost of integration as ₹80 million and the shareholders of Target Co. are expecting a deal premium 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL ANSWERS TERM – DECEMBER 2023 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION to be paid of 15 percent over their company’s value. What is the value of Combined entity?
 
-a) ₹ 1400 million (  
-b) ₹ 1345 million (  
-c) ₹ 1445 million (  
-d) ₹ 1540 million (i) (  
-b) (ii) (  
-a) (iii) (  
-d) (iv) (  
-a) (v) (  
-c) (vi) (  
-b) (vii) (  
-d) (viii) (  
-b) (ix) (  
-c) (x) (  
-b) (xi) (  
-b) (xii) (  
-a) (xiii) (  
-b) (xiv) (  
-c) (xv) (  
+a) ₹ 1400 million
+b) ₹ 1345 million
+c) ₹ 1445 million
+d) ₹ 1540 million (i)
+b) (ii)
+a) (iii)
+d) (iv)
+a) (v)
+c) (vi)
+b) (vii)
+d) (viii)
+b) (ix)
+c) (x)
+b) (xi)
+b) (xii)
+a) (xiii)
+b) (xiv)
+c) (xv)
 a)
 
 ### Answer:

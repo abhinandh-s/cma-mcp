@@ -22,139 +22,139 @@
 
 ### 1 (i) - 2 marks
 
-A return filed under which of the following sections of the Income Tax Act can be revised under Section 139(5)? (
+A return filed under which of the following sections of the Income Tax Act can be revised under Section 139(5)?
 
-a) Section 139(1) – Return filed within due date (  
-b) Section 139(4) – Belated return (  
-c) Both (  
-a) and (  
-b) (  
+a) Section 139(1) – Return filed within due date
+b) Section 139(4) – Belated return
+c) Both
+a) and
+b)
 d) Section 142(1) – Return filed in response to notice
 
 ### 1 (ii) - 2 marks
 
-When an assessee has paid advance tax more than the tax due on the returned income and the return is filed before the ‘due date’ specified in section 139(1), the refund amount is eligible for interest @ ______. (
+When an assessee has paid advance tax more than the tax due on the returned income and the return is filed before the ‘due date’ specified in section 139(1), the refund amount is eligible for interest @ ______.
 
-a) 1% per month (  
-b) ½% per month (  
-c) ¾% per month (  
+a) 1% per month
+b) ½% per month
+c) ¾% per month
 d) 1.50% per month
 
 ### 1 (iii) - 2 marks
 
-The minimum percentage of income that must be applied for charitable purposes to claim exemption is: (
+The minimum percentage of income that must be applied for charitable purposes to claim exemption is:
 
-a) 70% (  
-b) 75% (  
-c) 80% (  
+a) 70%
+b) 75%
+c) 80%
 d) 85%
 
 ### 1 (iv) - 2 marks
 
-Time limit for rectification under Section 154 is: (
+Time limit for rectification under Section 154 is:
 
-a) 4 years (  
-b) 2 years (  
-c) 5 years (  
+a) 4 years
+b) 2 years
+c) 5 years
 d) 6 years
 
 ### 1 (v) - 2 marks
 
-Penalty for failure to maintain books of accounts as required under Section 44AA is: (
+Penalty for failure to maintain books of accounts as required under Section 44AA is:
 
-a) ₹25,000 (  
-b) ₹50,000 (  
-c) ₹1,00,000 (  
+a) ₹25,000
+b) ₹50,000
+c) ₹1,00,000
 d) ₹ 10,000
 
 ### 1 (vi) - 2 marks
 
-Which of the following sections provides deduction for specified investments in tax planning? (
+Which of the following sections provides deduction for specified investments in tax planning?
 
-a) Section 80C 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 15 SYLLABUS 2022 DIRECT TAX LAWS AND INTERNATIONAL TAXATION (  
-b) Section 10 (  
-c) Section 24 (  
+a) Section 80C 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 15 SYLLABUS 2022 DIRECT TAX LAWS AND INTERNATIONAL TAXATION
+b) Section 10
+c) Section 24
 d) Section 194A
 
 ### 1 (vii) - 2 marks
 
-ICDS are applicable to: (
+ICDS are applicable to:
 
-a) Only companies (  
-b) Only individuals (  
-c) All assessees following mercantile system of accounting (  
+a) Only companies
+b) Only individuals
+c) All assessees following mercantile system of accounting
 d) Only partnership firms
 
 ### 1 (viii) - 2 marks
 
-An assessee acquired a house property outside India in the previous year 2009-10 for ₹50 lakh. Out of this investment, ₹20 lakh had already been assessed to tax in earlier years. The asset came to the notice of the Assessing Officer in FY 2025 (AY 2026-27). The value of the asset in the year 2025-26 is ₹ 1 crore. What will be the amount chargeable to tax under the Black Money Act? (
+An assessee acquired a house property outside India in the previous year 2009-10 for ₹50 lakh. Out of this investment, ₹20 lakh had already been assessed to tax in earlier years. The asset came to the notice of the Assessing Officer in FY 2025 (AY 2026-27). The value of the asset in the year 2025-26 is ₹ 1 crore. What will be the amount chargeable to tax under the Black Money Act?
 
-a) ₹40,00,000 (  
-b) ₹60,00,000 (  
-c) ₹50,00,000 (  
+a) ₹40,00,000
+b) ₹60,00,000
+c) ₹50,00,000
 d) ₹80,00,000
 
 ### 1 (ix) - 2 marks
 
-If a slump sale occurs after holding the undertaking for more than 24 months, the capital gain is treated as: (
+If a slump sale occurs after holding the undertaking for more than 24 months, the capital gain is treated as:
 
-a) Short-term capital gain (  
-b) Long-term capital gain (  
-c) Business income (  
+a) Short-term capital gain
+b) Long-term capital gain
+c) Business income
 d) All of the above
 
 ### 1 (x) - 2 marks
 
-Which of the following is not a method for determining Arm’s Length Price? (
+Which of the following is not a method for determining Arm’s Length Price?
 
-a) CUP Method (  
-b) Resale Price Method (  
-c) Profit Split Method (  
+a) CUP Method
+b) Resale Price Method
+c) Profit Split Method
 d) Historical Cost Method
 
 ### 1 (xi) - 2 marks
 
-APA provisions are covered under which section of the Income-tax Act? (
+APA provisions are covered under which section of the Income-tax Act?
 
-a) Section 92A (  
-b) Section 92C (  
-c) Section 92CC (  
+a) Section 92A
+b) Section 92C
+c) Section 92CC
 d) Section 94
 
 ### 1 (xii) - 2 marks
 
-Thin Capitalisation rules were introduced in India following recommendations of: (
+Thin Capitalisation rules were introduced in India following recommendations of:
 
-a) IMF (  
-b) OECD BEPS Project (  
-c) World Bank (  
+a) IMF
+b) OECD BEPS Project
+c) World Bank
 d) RBI
 
 ### 1 (xiii) - 2 marks
 
-Which method is commonly used to avoid double taxation under DTAA? (
+Which method is commonly used to avoid double taxation under DTAA?
 
-a) Depreciation method 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 15 SYLLABUS 2022 DIRECT TAX LAWS AND INTERNATIONAL TAXATION (  
-b) Credit method (  
-c) Installment method (  
+a) Depreciation method 2 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION PRACTICE TEST PAPER TERM – JUNE 2026 PAPER – 15 SYLLABUS 2022 DIRECT TAX LAWS AND INTERNATIONAL TAXATION
+b) Credit method
+c) Installment method
 d) Deduction method
 
 ### 1 (xiv) - 2 marks
 
-Which Article of DTAA generally deals with Business Profits? (
+Which Article of DTAA generally deals with Business Profits?
 
-a) Article 5 (  
-b) Article 12 (  
-c) Article 7 (  
+a) Article 5
+b) Article 12
+c) Article 7
 d) Article 10
 
 ### 1 (xv) - 2 marks
 
-GAAR is introduced mainly to: (
+GAAR is introduced mainly to:
 
-a) Increase corporate tax rate (  
-b) Prevent aggressive tax planning (  
-c) Promote exports (  
+a) Increase corporate tax rate
+b) Prevent aggressive tax planning
+c) Promote exports
 d) Reduce customs duty
 
 # SECTION – B

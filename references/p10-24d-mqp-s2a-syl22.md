@@ -23,138 +23,138 @@
 
 ### 1 (i) - 2 marks
 
-Given, paid-up share capital ₹ 10,00,000 and free reserves ₹2,00,000, what is the maximum amount permissible for buy-back of shares? (
+Given, paid-up share capital ₹ 10,00,000 and free reserves ₹2,00,000, what is the maximum amount permissible for buy-back of shares?
 
-a) ₹2,00,000 (  
-b) ₹2,50,000 (  
-c) ₹2,80,000 (  
+a) ₹2,00,000
+b) ₹2,50,000
+c) ₹2,80,000
 d) ₹3,00,000
 
 ### 1 (ii) - 2 marks
 
-Eps is calculated on the basis of which amount? (
+Eps is calculated on the basis of which amount?
 
-a) Profit as per Statement of Profit or loss (  
-b) Total Comprehensive Income (  
-c) Gross Profit (  
+a) Profit as per Statement of Profit or loss
+b) Total Comprehensive Income
+c) Gross Profit
 d) Fixed Assets
 
 ### 1 (iii) - 2 marks
 
-Sale of copyright is concerned with cash flow from _________. (
+Sale of copyright is concerned with cash flow from _________.
 
-a) Operating activities (  
-b) Financing activities (  
-c) Investing activities (  
+a) Operating activities
+b) Financing activities
+c) Investing activities
 d) Revenue activities
 
 ### 1 (iv) - 2 marks
 
-A Banking Company needs to transfer a minimum _______ of its profit to reserve fund. (
+A Banking Company needs to transfer a minimum _______ of its profit to reserve fund.
 
-a) 10% (  
-b) 15% (  
-c) 20% (  
+a) 10%
+b) 15%
+c) 20%
 d) 25%
 
 ### 1 (v) - 2 marks
 
-Fair value before right issue ₹20. Theoretical ex-right fair value ₹18. Calculate right factor. (
+Fair value before right issue ₹20. Theoretical ex-right fair value ₹18. Calculate right factor.
 
-a) 1.2 (  
-b) 1.15 (  
-c) 1.11 (  
+a) 1.2
+b) 1.15
+c) 1.11
 d) 1.10 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING
 
 ### 1 (vi) - 2 marks
 
-Which of the following is not a part of Temporary Audit file? (
+Which of the following is not a part of Temporary Audit file?
 
-a) Correspondence relating to acceptance of annual reappointment. (  
-b) Audit programme. (  
-c) Extracts of minutes of board meetings. (  
+a) Correspondence relating to acceptance of annual reappointment.
+b) Audit programme.
+c) Extracts of minutes of board meetings.
 d) Legal and organisation structure of the company.
 
 ### 1 (vii) - 2 marks
 
-Permanent Audit File does not contain: (
+Permanent Audit File does not contain:
 
-a) A record of study and evaluation of internal control system (  
-b) Significant audit observations of earlier years (  
-c) Copies of management letters (  
+a) A record of study and evaluation of internal control system
+b) Significant audit observations of earlier years
+c) Copies of management letters
 d) Analysis of significant ratios and trends
 
 ### 1 (viii) - 2 marks
 
-Each qualified chartered accountant not in full time employment can be the auditorof at least _______companies. (
+Each qualified chartered accountant not in full time employment can be the auditorof at least _______companies.
 
-a) 10 (  
-b) 15 (  
-c) 20 (  
+a) 10
+b) 15
+c) 20
 d) 30
 
 ### 1 (ix) - 2 marks
 
-Which of the following is not a content of audit report as per CARO? (
+Which of the following is not a content of audit report as per CARO?
 
-a) Inventory (  
-b) Acceptance of deposit (  
-c) Recruitment of employees (  
+a) Inventory
+b) Acceptance of deposit
+c) Recruitment of employees
 d) Repayment of loan
 
 ### 1 (x) - 2 marks
 
-A cost auditor submits his report along with reservations and observations in Form No.________________. (
+A cost auditor submits his report along with reservations and observations in Form No.________________.
 
-a) CRA 3 (  
-b) CRA 2 (  
-c) CRA 1 (  
+a) CRA 3
+b) CRA 2
+c) CRA 1
 d) CRA 5
 
 ### 1 (xi) - 2 marks
 
-The Internal Auditor is appointed by the ________________. (
+The Internal Auditor is appointed by the ________________.
 
-a) Shareholders (  
-b) Directors (  
-c) Committee 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING (  
+a) Shareholders
+b) Directors
+c) Committee 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING
 d) None of the above
 
 ### 1 (xii) - 2 marks
 
-Any casual vacancy in a govt. company is filled by the CAG of India within _________ days (
+Any casual vacancy in a govt. company is filled by the CAG of India within _________ days
 
-a) 30 (  
-b) 15 (  
-c) 60 (  
+a) 30
+b) 15
+c) 60
 d) 45
 
 ### 1 (xiii) - 2 marks
 
 For any default on the part of the company to deposit to the unpaid dividend account within the stipulated time, the company needs to pay interest @ ______ p.
 
-a. (  
-a) 11% (  
-b) 16% (  
-c) 19% (  
+a.
+a) 11%
+b) 16%
+c) 19%
 d) 12%
 
 ### 1 (xiv) - 2 marks
 
-Audit is derived from Latin word ________________. (
+Audit is derived from Latin word ________________.
 
-a) Audiro (  
-b) Audiu (  
-c) Audire (  
+a) Audiro
+b) Audiu
+c) Audire
 d) Audiris
 
 ### 1 (xv) - 2 marks
 
-Which of the following is not a part of urban self-governance system in India? (
+Which of the following is not a part of urban self-governance system in India?
 
-a) Municipal Corporation (  
-b) Town Panchayat (  
-c) Municipality (  
+a) Municipal Corporation
+b) Town Panchayat
+c) Municipality
 d) Municipal Society 3 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET - 2 MODEL ANSWERS TERM – DEC 2024 PAPER – 10 SYLLABUS 2022 CORPORATE ACCOUNTING AND AUDITING
 
 ### Answer:
