@@ -23,92 +23,92 @@
 
 ### 1 (i) - 2 marks
 
-Where is the headquarters of the Basel committee on banking supervision (BCBS)? (
+Where is the headquarters of the Basel committee on banking supervision (BCBS)?
 
-A) New York, USA (  
-B) Geneva, Switzerland (  
-C) London, UK (  
+A) New York, USA
+B) Geneva, Switzerland
+C) London, UK
 D) Basel, Switzerland
 
 ### 1 (ii) - 2 marks
 
-What are the first signs of financial distress in a company? (
+What are the first signs of financial distress in a company?
 
-A) Declining employee morale (  
-B) Increased production costs (  
-C) Loss of customers impacting cash flows (  
+A) Declining employee morale
+B) Increased production costs
+C) Loss of customers impacting cash flows
 D) Decreasing customer
 
 ### 1 (iii) - 2 marks
 
-Six Sigma is a business-driven, multi-dimensional structured approach to: (
+Six Sigma is a business-driven, multi-dimensional structured approach to:
 
-A) Reducing process variability (  
-B) Lowering Defects (  
-C) Improving Processes (  
+A) Reducing process variability
+B) Lowering Defects
+C) Improving Processes
 D) All of the above
 
 ### 1 (iv) - 2 marks
 
-A firm’s marginal revenue is defined as: (
+A firm’s marginal revenue is defined as:
 
-A) The ratio of total revenue to total quantity produced (  
-B) The additional output produced by lowering price (  
-C) The additional revenue received due to technical innovation (  
+A) The ratio of total revenue to total quantity produced
+B) The additional output produced by lowering price
+C) The additional revenue received due to technical innovation
 D) The additional revenue received when selling one more unit of output.
 
 ### 1 (v) - 2 marks
 
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. (
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
-A) Investment Value (  
-B) Fair Value (  
-C) Fair market value (  
+A) Investment Value
+B) Fair Value
+C) Fair market value
 D) Equitable Value
 
 ### 1 (vi) - 2 marks
 
-Which of the following acts gave birth to the Asset Reconstruction Company? (
+Which of the following acts gave birth to the Asset Reconstruction Company?
 
-A) Banking regulation act 1949 (  
-B) SEBI Act 1992 (  
-C) Companies Act 2013 (  
+A) Banking regulation act 1949
+B) SEBI Act 1992
+C) Companies Act 2013
 D) SARFAESI Act 2002 1 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 ### 1 (vii) - 2 marks
 
-What is the IVS for Scope of Work? (
+What is the IVS for Scope of Work?
 
-A) IVS 100 (  
-B) IVS 101 (  
-C) IVS 200 (  
+A) IVS 100
+B) IVS 101
+C) IVS 200
 D) IVS 400
 
 ### 1 (viii) - 2 marks
 
-No securitisation company or reconstruction company which has been granted a certificate of registration, shall carry on, any business other than that of securitisation or asset reconstruction without prior approval of the ____________. (
+No securitisation company or reconstruction company which has been granted a certificate of registration, shall carry on, any business other than that of securitisation or asset reconstruction without prior approval of the ____________.
 
-A) Reserve Bank of India (  
-B) Central Government of India (  
-C) SARFAESI (  
+A) Reserve Bank of India
+B) Central Government of India
+C) SARFAESI
 D) SEBI
 
 ### 1 (ix) - 2 marks
 
-Assume that in a stock market, the CAPM is working. A company has presently beta of 0.84 and its going to finance its new project through debt. This would increase its Debt/Equity Ratio to 1.56 from the existing 1.26. Due to increased Debt/Equity Ratio, the company’s beta would: (
+Assume that in a stock market, the CAPM is working. A company has presently beta of 0.84 and its going to finance its new project through debt. This would increase its Debt/Equity Ratio to 1.56 from the existing 1.26. Due to increased Debt/Equity Ratio, the company’s beta would:
 
-A) Increase (  
-B) Decrease (  
-C) remain unchanged (  
+A) Increase
+B) Decrease
+C) remain unchanged
 D) Nothing can be concluded
 
 ### 1 (x) - 2 marks
 
-If purchase consideration is more than net assets of the transferor company, then difference will be shown as: (
+If purchase consideration is more than net assets of the transferor company, then difference will be shown as:
 
-A) Goodwill account (  
-B) Capital reserve account (  
-C) General reserve account (  
+A) Goodwill account
+B) Capital reserve account
+C) General reserve account
 D) None of the above
 
 (b) Read the following scenario and answer the following questions:
@@ -144,47 +144,47 @@ Choose the correct answer from the given four alternatives:
 
 ### 1 (xi) - 2 marks
 
-Given the data about raw material costs, overheads, and labour costs, which strategy would likely have the most significant impact on Supreme's operating margin? (
+Given the data about raw material costs, overheads, and labour costs, which strategy would likely have the most significant impact on Supreme's operating margin?
 
-A) Reduce overheads through energy saving measures (  
-B) Increasing output per labor hour (  
-C) Lowering raw material costs by finding alternative suppliers (  
+A) Reduce overheads through energy saving measures
+B) Increasing output per labor hour
+C) Lowering raw material costs by finding alternative suppliers
 D) Implementing price adjustments to align with industry standards.
 
 ### 1 (xii) - 2 marks
 
-If Supreme Manufacturing Co. were to invest in new machinery to improve productivity, which of the following would be the most likely outcome? (
+If Supreme Manufacturing Co. were to invest in new machinery to improve productivity, which of the following would be the most likely outcome?
 
-A) Decrease in downtime and increase in output per machine hour (  
-B) Increase in energy consumption and decrease in output per labor hour (  
-C) Increase in raw material waste and decrease in production costs (  
+A) Decrease in downtime and increase in output per machine hour
+B) Increase in energy consumption and decrease in output per labor hour
+C) Increase in raw material waste and decrease in production costs
 D) Increase in operating margin with no change in net income
 
 ### 1 (xiii) - 2 marks
 
-Given Supreme Manufacturing Co's average downtime rate of 10% and its peaks of 15%, which strategy would be most effective in addressing productivity issues? (
+Given Supreme Manufacturing Co's average downtime rate of 10% and its peaks of 15%, which strategy would be most effective in addressing productivity issues?
 
-A) Implementing predictive maintenance to reduce downtime (  
-B) Increasing labor hours to offset production delays (  
-C) Reducing the number of production lines to focus on core products (  
+A) Implementing predictive maintenance to reduce downtime
+B) Increasing labor hours to offset production delays
+C) Reducing the number of production lines to focus on core products
 D) Outsourcing part of the production to reduce labor costs
 
 ### 1 (xiv) - 2 marks
 
-Considering the trends in gross margin and operating margin, which of the following is the most plausible reasons for the company's declining profitability? (
+Considering the trends in gross margin and operating margin, which of the following is the most plausible reasons for the company's declining profitability?
 
-A) Poor Customer relationship and shift in the loyal customer base (  
-B) Workers' unrest and poor productivity (  
-C) Strained relations with the supplices (  
+A) Poor Customer relationship and shift in the loyal customer base
+B) Workers' unrest and poor productivity
+C) Strained relations with the supplices
 D) High maintenance cost due to outdated machinery
 
 ### 1 (xv) - 2 marks
 
-If equity multiplier is 2.5, ROE of Supreme Manufacturing Co. for 2023 is: (
+If equity multiplier is 2.5, ROE of Supreme Manufacturing Co. for 2023 is:
 
-A) 30% (  
-B) 3% (  
-C) 0.3% (  
+A) 30%
+B) 3%
+C) 0.3%
 D) 300% 3 Directorate of Studies, The Institute of Cost Accountants of India FINAL EXAMINATION SET - 1 MODEL QUESTION PAPER TERM – JUNE 2025 PAPER – 20A SYLLABUS 2022 STRATEGIC PERFORMANCE MANAGEMENT AND BUSINESS VALUATION
 
 # SECTION – B
