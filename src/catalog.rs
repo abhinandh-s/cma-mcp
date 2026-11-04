@@ -168,7 +168,13 @@ fn build_prompts_list_payload() -> Value {
 }
 
 fn build_resources_list_payload(subject_files: &[String]) -> Value {
-    let mut resources = Vec::with_capacity(1 + subject_files.len());
+    let mut resources = Vec::with_capacity(2 + subject_files.len());
+    resources.push(json!({
+        "uri": "cma://references/official-publication-status-syl22.md",
+        "name": "ICMAI Syllabus 2022 Official Publication Status",
+        "mimeType": "text/markdown",
+        "description": "Human-maintainable official publication and CMA connector availability registry for Syllabus 2022, including June 2026 coverage and December 2026 rollout status"
+    }));
     resources.push(json!({
         "uri": "cma://skills/general.md",
         "name": "General CMA Tutor Skill",
