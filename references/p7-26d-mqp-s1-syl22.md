@@ -56,7 +56,6 @@ Trupti Ltd engaged in manufacturing activity acquired a machinery (depreciation 
              (C)    ₹1,00,000
              (D) Nil
 
-                          Directorate Of Studies, The Institute of Cost Accountants of India                                   1
 
 ### (vi)
 Which of the following is not a reason for mandatory filing of Income Tax return (ITR)?
@@ -106,7 +105,6 @@ Which of the following is true with regard place of supply in case of domestic c
         (D)     31st December following the end of the financial year to which such invoice or debit note pertains or the actual
                date of filing of the relevant annual return, whichever is earlier
 
-                     Directorate Of Studies, The Institute of Cost Accountants of India                                      2
 
      (xii)   A tax invoice referred to in section 31 of the CGST Act, 2017, shall be issued by the registered person containing, name
              and address of the recipient and the address of delivery, along with the name of the State and its code, if such recipient is
@@ -160,7 +158,6 @@ Interest of ₹1,20,00,000 earned from a loan advanced to another company, M/s I
              Required:
              Discuss with reason of ABC LLC in India by giving suitable reasons thereof for the Assessment Year 2026-27.       [7]
 
-                          Directorate Of Studies, The Institute of Cost Accountants of India                                        3
 
      (b)   Mr. Gautam aged 44 years is employed in Mercury Ltd. He furnishes the following particulars for the Financial Year
            2025-26:
@@ -209,7 +206,6 @@ Mr. Alakh, 65 years old, resident of Kanpur owned two house properties in the ci
            Assuming Mr. Alakh has opted for default tax regime provided under section 115BAC of the Income-tax Act, 1961.
            Correct reason for each item should form part of your answer.                                                           [7]
 
-                        Directorate Of Studies, The Institute of Cost Accountants of India                                     4
 
      (b)   Mr. Deven, a resident individual, is engaged in the business of manufacturing of tyres. From time to time, he bought his
            personal asset into the business as fixed assets. The details of these and other fixed assets of the business as are follows:
@@ -267,7 +263,6 @@ Income from salary (computed as per the relevant provisions of the Income-tax Ac
 Loss from House Property - ₹4,20,000 (note - Out of this loss, ₹1,00,000 pertains to interest on a self-occupied
                   house and ₹3,20,000 pertains to a let-out house.)
 
-                        Directorate Of Studies, The Institute of Cost Accountants of India                                        5
 
 ### (iii)
 Profit from Speculation Business - ₹90,000
@@ -330,7 +325,6 @@ Clinical equipment (Depreciation rate 15%): Opening WDV on 01.04.2025 ₹ 6,00,0
       Calculate total taxable income of Dr Sujata for the assessment year 2026-27 under the default tax regime under section
       115BAC of the Income-tax Act, 1961.                                                                               [7]
 
-                   Directorate Of Studies, The Institute of Cost Accountants of India                                  6
 
 ## 6 (a)
 Demonstrate the concept and features of Indirect Taxes.                                                                [7]
@@ -390,7 +384,6 @@ Purchased goods from XYZ Trader is registered under GST in Lucknow, Uttar       
 Food and beverages purchased for the employees during office hours from Ram                                  8,500
                   Sweets & Namkins, is registered under GST in Noida, Uttar Pradesh.
 
-                        Directorate Of Studies, The Institute of Cost Accountants of India                                    7
 
            Additional Information: -
            (a)    Applicable rate of GST in respect of all inward and outward supplies above is 18% i.e., CGST and SGST @
@@ -442,4 +435,3 @@ Unloading charges at place of importation                                       
            Examine the above case and, calculate the Assessable value of machine in Indian ₹ with appropriate working notes
            under Customs Act, 1962.                                                                                     [7]
 
-                        Directorate Of Studies, The Institute of Cost Accountants of India                                   8
