@@ -143,8 +143,8 @@ Organisation culture is:
 
 a. appreciation for the arts in the organisation.  
 b. ability of the organization to act in a responsible manner to its employees.  
-c. combination of (  
-A) and (  
+c. combination of
+A) and
 B) above.  
 d. deeper level of basic assumptions and beliefs that are shared by the members of the firm. INTERMEDIATE TERM – DECEMBER 2023 PAPER – 9 SYLLABUS 2022 OPERATIONS MANAGEMENT AND STRATEGIC MANAGEMENT
 

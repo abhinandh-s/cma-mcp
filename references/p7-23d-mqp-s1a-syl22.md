@@ -23,137 +23,137 @@
 
 ### 1 (i) - 2 marks
 
-Suraj has loss under the head ‘house property’ ₹ 2,50,000 for the assessment year 2023-24 and income under the head ‘Salaries’ ₹ 4,00,000. What is his total income? (
+Suraj has loss under the head ‘house property’ ₹ 2,50,000 for the assessment year 2023-24 and income under the head ‘Salaries’ ₹ 4,00,000. What is his total income?
 
-a) ₹ 1,50,000 (  
-b) ₹ 2,00,000 (  
-c) ₹ 4,00,000 (  
+a) ₹ 1,50,000
+b) ₹ 2,00,000
+c) ₹ 4,00,000
 d) ₹ 2,50,000
 
 ### 1 (ii) - 2 marks
 
-Vimal has acquired a new plant and machinery for his factory for ₹ 2,00,000 on 31st December 2022. What is the amount of depreciation allowable for the assessment year 2023-24? (
+Vimal has acquired a new plant and machinery for his factory for ₹ 2,00,000 on 31st December 2022. What is the amount of depreciation allowable for the assessment year 2023-24?
 
-a) ₹ 35,000 (  
-b) ₹ 30,000 (  
-c) ₹ 70,000 (  
+a) ₹ 35,000
+b) ₹ 30,000
+c) ₹ 70,000
 d) ₹ 40,000
 
 ### 1 (iii) - 2 marks
 
-Aman (age 54) has incurred ₹ 1,50,000 for the treatment of specified disease of his dependent brother (age 62) and get re-imbursement from his employer upto ₹ 80,000. What is the amount of deduction allowable u/s 80 DDB of the Income-tax Act? (
+Aman (age 54) has incurred ₹ 1,50,000 for the treatment of specified disease of his dependent brother (age 62) and get re-imbursement from his employer upto ₹ 80,000. What is the amount of deduction allowable u/s 80 DDB of the Income-tax Act?
 
-a) ₹ 1,50,000 (  
-b) ₹ 70,000 (  
-c) ₹ 20,000 (  
+a) ₹ 1,50,000
+b) ₹ 70,000
+c) ₹ 20,000
 d) Nil
 
 ### 1 (iv) - 2 marks
 
-Aswin leaves India for the purpose of employment on 20th September 2022. He never visited foreign country before leaving. What is his residential status for the assessment year 2023-24? (
+Aswin leaves India for the purpose of employment on 20th September 2022. He never visited foreign country before leaving. What is his residential status for the assessment year 2023-24?
 
-a) Non-Resident (  
-b) Resident and Ordinarily resident (  
-c) Resident but not ordinarily resident (  
+a) Non-Resident
+b) Resident and Ordinarily resident
+c) Resident but not ordinarily resident
 d) Deemed Resident
 
 ### 1 (v) - 2 marks
 
-Rohit earns monthly salary of ₹ 1,75,000. What is his tax liability if he has opted for section 115 BAC for the assessment year 2023-24? (
+Rohit earns monthly salary of ₹ 1,75,000. What is his tax liability if he has opted for section 115 BAC for the assessment year 2023-24?
 
-a) ₹ 4,44,600 (  
-b) ₹ 4,60,200 (  
-c) ₹ 3,82,200 (  
+a) ₹ 4,44,600
+b) ₹ 4,60,200
+c) ₹ 3,82,200
 d) ₹ 3,66,600 1 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL ANSWERS SYLLABUS 2022 PAPER – 7 TERM – DECEMBER 2023 DIRECT AND INDIRECT TAXATION
 
 ### 1 (vi) - 2 marks
 
-Pallavi engaged in manufacturing of tea in India and earns a profit of ₹ 12,00,000. What is her agricultural income for computation of total income? (
+Pallavi engaged in manufacturing of tea in India and earns a profit of ₹ 12,00,000. What is her agricultural income for computation of total income?
 
-a) 60% of profit (  
-b) 40% of profit (  
-c) 100% of profit (  
+a) 60% of profit
+b) 40% of profit
+c) 100% of profit
 d) Nil
 
 ### 1 (vii) - 2 marks
 
-Which of the following is not a capital asset u/s 2(14) of the Income-tax Act? (
+Which of the following is not a capital asset u/s 2(14) of the Income-tax Act?
 
-a) Agricultural land in Urban area (  
-b) Agricultural land in rural area (  
-c) Non-agricultural land in urban area (  
+a) Agricultural land in Urban area
+b) Agricultural land in rural area
+c) Non-agricultural land in urban area
 d) Non-agricultural land in rural area
 
 ### 1 (viii) - 2 marks
 
-Which of the following services are totally exempted under GST? (
+Which of the following services are totally exempted under GST?
 
-a) Services by Registered charitable institution (  
-b) Services by Government/Local authority (  
-c) Services by Goods Transport Agents (  
+a) Services by Registered charitable institution
+b) Services by Government/Local authority
+c) Services by Goods Transport Agents
 d) Services by Insurance companies
 
 ### 1 (ix) - 2 marks
 
-Indirect tax is considered as: (
+Indirect tax is considered as:
 
-a) Regressive tax (  
-b) Progressive tax (  
-c) Proportional tax (  
+a) Regressive tax
+b) Progressive tax
+c) Proportional tax
 d) None of the above
 
 ### 1 (x) - 2 marks
 
-Goods Transport Agency Services who has not paid central tax@ 6% is covered under: (
+Goods Transport Agency Services who has not paid central tax@ 6% is covered under:
 
-a) Forward charge mechanism (  
-b) Reverse charge (  
-c) Negative list (  
+a) Forward charge mechanism
+b) Reverse charge
+c) Negative list
 d) None of the above
 
 ### 1 (xi) - 2 marks
 
-In case of disposal off of goods by way of free sample: (
+In case of disposal off of goods by way of free sample:
 
-a) supplier can claim ITC (  
-b) Supplier cannot claim ITC (  
-c) Recipient can claim ITC (  
+a) supplier can claim ITC
+b) Supplier cannot claim ITC
+c) Recipient can claim ITC
 d) None of the above
 
 ### 1 (xii) - 2 marks
 
-What is the threshold limit in case the persons of special category states to take fresh registration in composition levy? (
+What is the threshold limit in case the persons of special category states to take fresh registration in composition levy?
 
-a) ₹ 75 Lakhs (  
-b) ₹ 100 Lakhs (  
-c) ₹ 150 lakhs (  
+a) ₹ 75 Lakhs
+b) ₹ 100 Lakhs
+c) ₹ 150 lakhs
 d) None of the above 2 Directorate of Studies, The Institute of Cost Accountants of India INTERMEDIATE EXAMINATION SET 1 MODEL ANSWERS SYLLABUS 2022 PAPER – 7 TERM – DECEMBER 2023 DIRECT AND INDIRECT TAXATION
 
 ### 1 (xiii) - 2 marks
 
-Vishal, a practicing CMA, purchased three laptops and ₹ 25,000 is paid as GST for each laptop in his firm name. Two laptops utilized in his office and another laptop is gifted to his sister. What is the amount of eligible ITC? (
+Vishal, a practicing CMA, purchased three laptops and ₹ 25,000 is paid as GST for each laptop in his firm name. Two laptops utilized in his office and another laptop is gifted to his sister. What is the amount of eligible ITC?
 
-a) ₹ 25,000 (  
-b) ₹ 50,000 (  
-c) ₹ 75,000 (  
+a) ₹ 25,000
+b) ₹ 50,000
+c) ₹ 75,000
 d) None of the above
 
 ### 1 (xiv) - 2 marks
 
-For determining the assessable value for customs duty, air freight to be taken is: (
+For determining the assessable value for customs duty, air freight to be taken is:
 
-a) 20% of FOB vale (  
-b) Actual freight or 20% of FOB value, whichever is lower (  
-c) Actual freight or 20% of FOB value, whichever is higher (  
+a) 20% of FOB vale
+b) Actual freight or 20% of FOB value, whichever is lower
+c) Actual freight or 20% of FOB value, whichever is higher
 d) None of the above
 
 ### 1 (xv) - 2 marks
 
-Anti-dumping duty can be imposed to the extent of: (
+Anti-dumping duty can be imposed to the extent of:
 
-a) Margin of dumping (  
-b) Margin of injury (  
-c) Margin of dumping or Margin of injury, whichever is lower (  
+a) Margin of dumping
+b) Margin of injury
+c) Margin of dumping or Margin of injury, whichever is lower
 d) None of the above
 
 ### Answer:
