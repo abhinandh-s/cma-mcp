@@ -46,7 +46,7 @@
 
 In the books of A Ltd.
 Journal
-| Date | Particulars | Dr. (₹) | Cr. (₹) |
+| Date | Particulars | Dr. (D) | Cr. (D) |
 | :--- | :--- | ---: | ---: |
 | (i) | Equity Share Capital A/c ……………….……...Dr. To Calls in Arrear A/c To Forfeited Shares A/c | 3,00,000 | 1,50,000 1,50,000 |
 | (ii) | Equity Share Capital A/c ………………..……..Dr. To Calls in Arrear A/c To Forfeited Shares A/c | 6,00,000 | 1,20,000 4,80,000 |
@@ -56,7 +56,7 @@ Journal
 
 ## 2 (b) - 7 marks
 
-(i) Theoretical market price = ₹ 33.14
+(i) Theoretical market price = D 33.14
 (ii) Value of Rights = D 8.86
 (iii) % increase in share capital = 40%
 ## 3 - 14 marks
@@ -131,7 +131,7 @@ Basic EPS = D 5.00
 Diluted EPS = D 4.71
 ## 5 (b) - 7 marks
 
-Cash Flow from Operating Activities ₹ 10,30,000
+Cash Flow from Operating Activities D 10,30,000
 ## 6 (a) - 7 marks
 
 Concept of Audit Trail
