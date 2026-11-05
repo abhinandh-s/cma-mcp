@@ -20,7 +20,23 @@
 
 ### Answer:
 
-d
+| Question | Answer |
+| :---: | :---: |
+| (a) | C |
+| (b) | A |
+| (c) | A |
+| (d) | B |
+| (e) | ₹ |
+| (f) | B |
+| (g) | C |
+| (h) | B |
+| (i) | D |
+| (j) | A |
+| (k) | C |
+| (l) | B |
+| (m) | A |
+| (n) | B |
+| (o) | C |
 
 # SECTION – B
 
@@ -30,7 +46,7 @@ d
 
 In the books of A Ltd.
 Journal
-| Date | Particulars | Dr. (D) | Cr. (D) |
+| Date | Particulars | Dr. (₹) | Cr. (₹) |
 | :--- | :--- | ---: | ---: |
 | (i) | Equity Share Capital A/c ……………….……...Dr. To Calls in Arrear A/c To Forfeited Shares A/c | 3,00,000 | 1,50,000 1,50,000 |
 | (ii) | Equity Share Capital A/c ………………..……..Dr. To Calls in Arrear A/c To Forfeited Shares A/c | 6,00,000 | 1,20,000 4,80,000 |
@@ -40,7 +56,7 @@ Journal
 
 ## 2 (b) - 7 marks
 
-(i) Theoretical market price = D 33.14
+(i) Theoretical market price = ₹ 33.14
 (ii) Value of Rights = D 8.86
 (iii) % increase in share capital = 40%
 ## 3 - 14 marks
@@ -115,7 +131,7 @@ Basic EPS = D 5.00
 Diluted EPS = D 4.71
 ## 5 (b) - 7 marks
 
-Cash Flow from Operating Activities D 10,30,000
+Cash Flow from Operating Activities ₹ 10,30,000
 ## 6 (a) - 7 marks
 
 Concept of Audit Trail
@@ -145,19 +161,9 @@ the changes that may take place.
 Applicability of Secretarial Audit As per the provision of Section 204(1) of the Companies Act, 2013 read with
 Rule 9 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014:
 1. Every listed company;
-## 2 - 14 marks
-
-Every public company having a paid-up share capital of 50 crore rupees or more; or
-
-## 3 - 14 marks
-
-Every public company having a turnover of 250 crore rupees or more; or
-
-## 4 - 14 marks
-
-Every company having outstanding loans or borrowings from banks or public financial institutions of
-
-100 crore rupees or more,
+2. Every public company having a paid-up share capital of 50 crore rupees or more; or
+3. Every public company having a turnover of 250 crore rupees or more; or
+4. Every company having outstanding loans or borrowings from banks or public financial institutions of 100 crore rupees or more,
 - is required to annex with its Board’s Report made in terms of Section 134(3) of the Companies Act, 2013, a
 Secretarial Audit Report, given by a Company Secretary in practice, in Form MR-3. Appointment of
 Secretarial Auditor As per Rule 8 of the Companies (Meetings of Board and its Powers) Rules, 2014, read
