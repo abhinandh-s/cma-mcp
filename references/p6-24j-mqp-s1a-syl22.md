@@ -154,7 +154,17 @@ The main objective of average clause contained in a fire insurance policy is to 
 a. Encourage full Insurance  
 b. Discourage full Insurance  
 c. Encourage under Insurance  
-d. Encourage full Insurance and Discourage under Insurance 1. i ii iii iv v vi vii viii ix x c a d c c d b d a b xi xii xiii xiv xv c b c c d
+d. Encourage full Insurance and Discourage under Insurance
+
+### Answer: 1.
+
+| (i) | (ii) | (iii) | (iv) | (v) | (vi) | (vii) | (viii) | (ix) | (x) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| c | a | d | c | c | d | b | d | a | b |
+
+| (xi) | (xii) | (xiii) | (xiv) | (xv) |
+|:---:|:---:|:---:|:---:|:---:|
+| c | b | c | c | d |
 
 # SECTION – B
 
