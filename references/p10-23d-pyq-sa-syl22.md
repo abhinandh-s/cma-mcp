@@ -20,7 +20,23 @@
 
 ### Answer:
 
-d
+| Question | Answer |
+| :---: | :---: |
+| (a) | C |
+| (b) | A |
+| (c) | A |
+| (d) | B |
+| (e) | ₹ |
+| (f) | B |
+| (g) | C |
+| (h) | B |
+| (i) | D |
+| (j) | A |
+| (k) | C |
+| (l) | B |
+| (m) | A |
+| (n) | B |
+| (o) | C |
 
 # SECTION – B
 
@@ -145,19 +161,9 @@ the changes that may take place.
 Applicability of Secretarial Audit As per the provision of Section 204(1) of the Companies Act, 2013 read with
 Rule 9 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014:
 1. Every listed company;
-## 2 - 14 marks
-
-Every public company having a paid-up share capital of 50 crore rupees or more; or
-
-## 3 - 14 marks
-
-Every public company having a turnover of 250 crore rupees or more; or
-
-## 4 - 14 marks
-
-Every company having outstanding loans or borrowings from banks or public financial institutions of
-
-100 crore rupees or more,
+2. Every public company having a paid-up share capital of 50 crore rupees or more; or
+3. Every public company having a turnover of 250 crore rupees or more; or
+4. Every company having outstanding loans or borrowings from banks or public financial institutions of 100 crore rupees or more,
 - is required to annex with its Board’s Report made in terms of Section 134(3) of the Companies Act, 2013, a
 Secretarial Audit Report, given by a Company Secretary in practice, in Form MR-3. Appointment of
 Secretarial Auditor As per Rule 8 of the Companies (Meetings of Board and its Powers) Rules, 2014, read
