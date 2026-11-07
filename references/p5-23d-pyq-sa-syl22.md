@@ -44,13 +44,11 @@ This section provides that if a person, incapable of entering into a contract, o
 legally bound to support, is supplied by another person with necessaries suited to his condition in life,
 the person who has furnished such supplies is entitled to be reimbursed from the property of such
 incapable person;
-## 2 - 14 marks
 
 Section 69 - Reimbursement of person paying money due by another in payment of which he is
 
 interested- This section provides that a person who is interested in the payment of money which
 another is bound by law to pay, and who therefore pays it, is entitled to be reimbursed by the other.
-## 3 - 14 marks
 
 Section 70 – Obligation of person enjoying benefit of non-gratuitous act - This section provides that
 
@@ -58,12 +56,10 @@ where a person lawfully does anything for another person or delivers anything to
 do so gratuitously, and such other person enjoys the benefit thereof, the later is bound to make
 compensation to the former in respect of, or to restore, the thing so done or delivered – it is otherwise
 called as quantum meruit;
-## 4 - 14 marks
 
 Section 71 – Responsibility of finder of goods - This section provides that a person who finds goods
 
 belonging to another, and takes them into his custody, is subject to the same responsibility as a bailee;
-## 5 - 14 marks
 
 Section 72 - Liability of person to whom money is paid or thing delivered by mistake or under
 
@@ -160,7 +156,6 @@ a) daily basis, at the end of the shift;
 b) weekly basis, on the last working day of the week, that is to say, before the weekly holiday;
 c) fortnightly basis, before the end of the second day after the end of the fortnight;
 d) monthly basis, before the expiry of the seventh day of the succeeding month.
-## 2 - 14 marks
 
 Where an employee has been:
 
@@ -168,13 +163,11 @@ a) removed or dismissed from service; or
 b) retrenched or has resigned from service, or became unemployed due to closure of the establishment, the
 wages payable to him shall be paid within two working days of his removal, dismissal, retrenchment or, as
 the case may be, his resignation.
-## 3 - 14 marks
 
 Notwithstanding anything contained in sub-section (1) or sub-section (2), the appropriate
 
 Government may, provide any other time limit for payment of wages where it considers reasonable
 having regard to the circumstances under which the wages are to be paid.
-## 4 - 14 marks
 
 Nothing contained in sub-section (1) or sub-section (2) shall affect any time limit for payment of
 
@@ -300,14 +293,12 @@ loyalty, respect, trustworthiness, fairness, community and environmental respons
 entry-level, will be expected to show personal responsibility. This could mean completing tasks your
 manager has assigned to you, or simply fulfilling the duties of your job description. If you make a
 mistake, you acknowledge your fault and do whatever you need to do to fix it.
-## 2 - 14 marks
 
 Corporate responsibility: Businesses have responsibilities to their employees, their clients or
 
 customers, and, in some cases, to their board of directors. Some of these may be contractual or legal
 obligations, others may be promises, for example, to conduct business fairly and to treat people with
 dignity and respect. Whatever those obligations are, the business has a responsibility to keep them.
-## 3 - 14 marks
 
 Loyalty: Both businesses and their employees are expected to show loyalty. Employees should be loyal
 
@@ -315,7 +306,6 @@ to their co-workers, managers, and the company. This might involve speaking posi
 business in public and only addressing personnel or corporate issues in private. Customer or client loyalty
 is important to a company not only to maintain good business relations but also to attract business
 through a good reputation.
-## 4 - 14 marks
 
 Respect: Respect is an important business ethic, both in the way the business treats its clients,
 
@@ -323,7 +313,6 @@ customers and employees, and also in the way its employees treat one another. Wh
 to someone, that person feels like a valued member of the team or an important customer. You care about
 their opinions, you keep your promises to them, and you work quickly to resolve any issues they may
 have.
-## 5 - 14 marks
 
 Trustworthiness: A business cultivates trustworthiness with its clients, customers and employees
 
@@ -331,14 +320,12 @@ through honesty, transparency and reliability. Employees should feel they can tr
 to the terms of their employment. Clients and customers should be able to trust the business with their
 money, data, contractual obligations and confidential information. Being trustworthy encourages people
 to do business with you and helps you maintain a positive reputation.
-## 6 - 14 marks
 
 Fairness: When a business exercises fairness, it applies the same standards for all employees regardless
 
 of rank. The same expectations with regard to honesty, integrity and responsibility placed upon the entry-
 level employee also apply to the CEO. The business will treat its customers with equal respect, offering
 the same goods and services to all based on the same terms.
-## 7 - 14 marks
 
 Community and Environmental Responsibility: Not only will businesses act ethically toward their
 
@@ -351,18 +338,15 @@ environment.
 Emotional intelligence is commonly defined by four attributes:
 1. Self-management – You’re able to control impulsive feelings and behaviors, manage your emotions
 in healthy ways, take initiative, follow through on commitments, and adapt to changing circumstances.
-## 2 - 14 marks
 
 Self-awareness – You recognize your own emotions and how they affect your thoughts and behavior.
 
 You know your strengths and weaknesses, and have self-confidence.
-## 3 - 14 marks
 
 Social awareness – You have empathy. You can understand the emotions, needs, and concerns of other
 
 people, pick up on emotional cues, feel comfortable socially, and recognize the power dynamics in a
 group or organization.
-## 4 - 14 marks
 
 Relationship management – You know how to develop and maintain good relationships,
 
